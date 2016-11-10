@@ -11,7 +11,7 @@ os.chdir(dir_name)
 print "Extracting ... "
 for i, item in enumerate(os.listdir(dir_name)):
     # loop through items in dir
-    print "{}% done".format(round(float(i)/len(os.listdir(dirname)), 2)*100)
+    print "{}% done".format(round(float(i)/len(os.listdir(dir_name)), 2)*100)
     # check for ".zip" extension
     if item.endswith(extension):
         file_name = os.path.abspath(item)  # get full path of files
