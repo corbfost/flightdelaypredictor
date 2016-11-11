@@ -46,5 +46,15 @@
    The mean departure delay is ever so slightly lower without the dropped flights.
    Same with arrival delay. Should not be large enough to matter.
 
-- On to some more interesting analysis. Let's start breaking up categories and looking
-  at possible interesting delay patterns.
+   Just realized that dates are not stored anywhere as datetime.
+   Attempting to convert them is taking forever so far, unfortunately.
+   Attempting to save converted as another CSV - we'll see how large it gets.
+
+   Date working
+
+- EDA:
+    Delays by date.
+    Highly erratic overall - lots of noise.
+    Outliers:
+      January 18-19th, 2012 = Major Snow/Ice Storm
+      
