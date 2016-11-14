@@ -78,9 +78,30 @@
     - Really fascinating though that this new runway only helped Alaska's delays.
 
 #### Model considerations from EDA:
+- Limit year selection to after the 3rd runway was installed.
 - Code day of week, month, into dummies.
 - Include year.
 - Include carrier dummy
-- Include number of runways dummy, and interaction between Alaska dummy and runways
 - Include interactions between day of week and Months(?)
 - Ignore (perhaps) weather delays
+- Manually classify delays as >15 minutes. 
+
+#### First shitty model
+- Included 'AirTime', 'CRSDepTime', carrier dummies, day of week dummies, month dummies.
+- Fit 70% of data to sklearn Logistic Regression model using built-in class weighting
+- Performance:
+  - Accuracy: .61
+  - Recall: .58
+  - Precision: .19
+
+- Notes:
+  - Low accuracy is not the end of the world - mainly because of the recall. 58%
+  recall is pretty good, according to industry standards which shoot for 60%.
+  This means that of all the true delays, the model captured 60%. The cost though
+  is revealed in the low precision. It is over-predicting the minority class, meaning
+  only 19% of it's predicted positives are truly positive.
+
+  - It would now be extremely interesting to link a regression-type predictor
+  to the data, mainly because we could see if low prediction %'s are linked to smaller delays.
+  I could also create a custom cost function that minimizes the number of predicted positives
+  scaled by the magnitude of the predicted delay.
