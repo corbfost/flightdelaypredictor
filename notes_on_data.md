@@ -106,4 +106,40 @@
   I could also create a custom cost function that minimizes the number of predicted positives
   scaled by the magnitude of the predicted delay.
 
-#### Further EDA, feature engineering. 
+#### Further EDA, feature engineering.
+
+- Created a 'business' variable to measure how many flights are departing in a given 10 min time interval.
+  - It didn't perform particularly well. In fact, the greater the business, the lower the delays seemed to get. Even looking at lagged delays (number of flights scheduled in 10 min blocks at increasing lags behind current flight) didn't reveal much.
+
+#### Gradient Boosted Classifier and Regressor:
+
+- Limited delays to only flights not delayed by weather.
+- Fit a gradient boosted classifier on the following columns:
+```
+ 'AirTime', 'ArrTime',
+ 'DayOfWeek', 'DayofMonth', 'DepTime',
+ 'Distance',
+ 'Month',  
+ 'Year', 'Alaska',
+ 'business_indicator',
+ 'business_indicator_lagged_1', 'business_indicator_lagged_2',
+ 'business_indicator_lagged_3', 'business_indicator_lagged_4',
+ 'business_indicator_lagged_5', 'business_indicator_lagged_6',
+ 'business_indicator_lagged_7', 'business_indicator_lagged_8',
+ 'business_indicator_lagged_9', 'business_indicator_lagged_10',
+ 'business_indicator_lagged_11', 'business_indicator_lagged_12'
+```
+- 'Alaska' is an indicator variable for Alaska airlines (1 = Alaska, 0 = other airline).
+- Metrics:
+```
+Accuracy:  0.875834302916
+Recall:  0.0903964265773
+Precision:  0.757958801498
+```
+- Ok, so horrible recall. But the ROC curve suggests that adjusting the threshold will help. Setting the threshold to .13 gives the following scores:
+```
+Accuracy:  0.681371082424
+Recall:  0.720212171971
+Precision:  0.252822422579
+```
+- Not bad at all, actually. Both precision and recall are significantly higher compared to the Logistic model. 
