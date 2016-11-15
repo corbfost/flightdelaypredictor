@@ -84,7 +84,7 @@
 - Include carrier dummy
 - Include interactions between day of week and Months(?)
 - Ignore (perhaps) weather delays
-- Manually classify delays as >15 minutes. 
+- Manually classify delays as >15 minutes.
 
 #### First shitty model
 - Included 'AirTime', 'CRSDepTime', carrier dummies, day of week dummies, month dummies.
@@ -105,3 +105,5 @@
   to the data, mainly because we could see if low prediction %'s are linked to smaller delays.
   I could also create a custom cost function that minimizes the number of predicted positives
   scaled by the magnitude of the predicted delay.
+
+#### Further EDA, feature engineering. 
