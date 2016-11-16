@@ -39,34 +39,3 @@ df_model = dummify(df_origin_model, dummy_cols)
 
 # Create indicator / class / y values
 df_model['Delay_15_Indicator'] = (df_model['DepDelay'] >= 15).astype(int)
-y = df_model.pop('Delay_15_Indicator')
-
-# Columns for first model.
-cols_m1 =  ['AirTime',
-            'CRSDepTime',
-            'UniqueCarrier_AS',
-            'UniqueCarrier_B6',
-            'UniqueCarrier_CO',
-            'UniqueCarrier_DL',
-            'UniqueCarrier_F9',
-            'UniqueCarrier_FL',
-            'UniqueCarrier_HA',
-            'UniqueCarrier_NK',
-            'UniqueCarrier_NW',
-            'UniqueCarrier_OO',
-            'UniqueCarrier_UA',
-            'UniqueCarrier_US',
-            'UniqueCarrier_VX',
-            'UniqueCarrier_WN',
-            'DayOfWeek_2',
-            'DayOfWeek_3',
-            'DayOfWeek_4',
-            'DayOfWeek_5',
-            'DayOfWeek_6',
-            'DayOfWeek_7',
-            'Month_10', 'Month_11', 'Month_12',
-            'Month_2', 'Month_3', 'Month_4'
-            'Month_5', 'Month_6', 'Month_7',
-            'Month_8', 'Month_9']
-
-X = df_model.ix[:, np.in1d(df_model.columns.values, cols_m1)]
