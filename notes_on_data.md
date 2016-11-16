@@ -127,8 +127,13 @@
  'business_indicator_lagged_5', 'business_indicator_lagged_6',
  'business_indicator_lagged_7', 'business_indicator_lagged_8',
  'business_indicator_lagged_9', 'business_indicator_lagged_10',
- 'business_indicator_lagged_11', 'business_indicator_lagged_12'
+ 'business_indicator_lagged_11',
+ 'business_indicator_lagged_12'
+
+ Params:
+ n_estimators=500, learning_rate=0.3, max_depth=2
 ```
+
 - 'Alaska' is an indicator variable for Alaska airlines (1 = Alaska, 0 = other airline).
 - Metrics:
 ```
@@ -142,4 +147,7 @@ Accuracy:  0.681371082424
 Recall:  0.720212171971
 Precision:  0.252822422579
 ```
-- Not bad at all, actually. Both precision and recall are significantly higher compared to the Logistic model. 
+- Not bad at all, actually. Both precision and recall are significantly higher compared to the Logistic model.
+- Why does the threshold need to be so low? Let's look at how a Gradient Boosted Regressor performs.
+
+- Using a GBR with the same columns,
