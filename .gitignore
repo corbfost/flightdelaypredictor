@@ -1,2 +1,4 @@
 data/
 eda/sea_data_with_datetime.csv
+*.pyc
+.DS_Store
