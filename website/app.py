@@ -41,9 +41,9 @@ def converttime(timestamp):
     return str(hour) + ':' + minutes + ampm
 
 def initialize_model():
-    with open('../data/model.pkl', 'r') as f:
+    with open('static/datafiles/model.pkl', 'r') as f:
         model = pickle.load(f)
-    with open('../data/airport_names.pkl', 'r') as f:
+    with open('static/datafiles/airport_names.pkl', 'r') as f:
         airport_names = pickle.load(f)
     return model, airport_names
 

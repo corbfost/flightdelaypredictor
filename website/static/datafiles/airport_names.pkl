@@ -1,0 +1,13375 @@
+(dp1
+S'AGO'
+p2
+S'Magnolia Municipal'
+p3
+sS'AGN'
+p4
+S'Angoon SPB'
+p5
+sS'RTN'
+p6
+S'Raton Municipal/Crews '
+p7
+sS'L72'
+p8
+S'Trona'
+p9
+sS'29G'
+p10
+S'Portage County'
+p11
+sS'29D'
+p12
+S'Grove City'
+p13
+sS'L71'
+p14
+S'California City Municipal'
+p15
+sS'AGC'
+p16
+S'Allegheny Cty'
+p17
+sS'MRI'
+p18
+S'Merrill '
+p19
+sS'L75'
+p20
+S'Southland '
+p21
+sS'6B0'
+p22
+S'Middlebury State'
+p23
+sS'6B6'
+p24
+S'Minute Man Airfield'
+p25
+sS'6B4'
+p26
+S'Frankfort-Highland'
+p27
+sS'6B9'
+p28
+S'Skaneateles Aero Drome'
+p29
+sS'6B8'
+p30
+S'Caledonia County State'
+p31
+sS'AGS'
+p32
+S'Bush '
+p33
+sS'29S'
+p34
+S'Gardiner'
+p35
+sS'BWP'
+p36
+S'Harry Stern'
+p37
+sS'O48'
+p38
+S'Little River'
+p39
+sS'3S9'
+p40
+S'Condon State-Pauling '
+p41
+sS'3S8'
+p42
+S'Grants Pass'
+p43
+sS'3S4'
+p44
+S'Illinois Valley'
+p45
+sS'SPS'
+p46
+S'Sheppard AFB/Wichita Falls Municipal'
+p47
+sS'SPW'
+p48
+S'Spencer Municipal'
+p49
+sS'SPH'
+p50
+S'Springhill'
+p51
+sS'SPI'
+p52
+S'Capital'
+p53
+sS'BWC'
+p54
+S'Brawley Municipal'
+p55
+sS'BWD'
+p56
+S'Brownwood Municipal'
+p57
+sS'SPN'
+p58
+S'Tinian International Airport'
+p59
+sS'BWG'
+p60
+S'Bowling Green-Warren County '
+p61
+sS'BWI'
+p62
+S'Baltimore-Washington International'
+p63
+sS'SPB'
+p64
+S'Scappoose Industrial Airpark'
+p65
+sS'L70'
+p66
+S'Agua Dulce Airpark'
+p67
+sS'KYU'
+p68
+S'Koyukuk'
+p69
+sS'SPG'
+p70
+S'Albert Whitted Municipal '
+p71
+sS'RIL'
+p72
+S'Garfield County Regional'
+p73
+sS'34A'
+p74
+S'Laurens County'
+p75
+sS'K46'
+p76
+S'Blair Municipal'
+p77
+sS'3SQ'
+p78
+S'St Charles'
+p79
+sS'IXD'
+p80
+S'New Century Aircenter'
+p81
+sS'Y19'
+p82
+S'Mandan Municipal'
+p83
+sS'BYI'
+p84
+S'Burley Municipal'
+p85
+sS'Y15'
+p86
+S'Cheboygan City-County'
+p87
+sS'BYG'
+p88
+S'Johnson County'
+p89
+sS'3SG'
+p90
+S'Harry W Browne'
+p91
+sS'BYA'
+p92
+S'Boundary'
+p93
+sS'1O6'
+p94
+S'Dunsmuir Municipal-Mott'
+p95
+sS'1O4'
+p96
+S'Thomas Municipal'
+p97
+sS'1O3'
+p98
+S'Lodi'
+p99
+sS'1O2'
+p100
+S'Lampson '
+p101
+sS'1O1'
+p102
+S'Grandfield Municipal'
+p103
+sS'SNA'
+p104
+S'John Wayne /Orange Co'
+p105
+sS'5F4'
+p106
+S'Homer Municipal'
+p107
+sS'NY0'
+p108
+S'Fulton Cty'
+p109
+sS'JNX'
+p110
+S'Johnston County'
+p111
+sS'PQL'
+p112
+S'Trent Lott International'
+p113
+sS'SNK'
+p114
+S'Winston '
+p115
+sS'B21'
+p116
+S'Sugarloaf Regional'
+p117
+sS'O45'
+p118
+S'Hooker Municipal'
+p119
+sS'MAC'
+p120
+S'Herbert Smart Downtown'
+p121
+sS'MAE'
+p122
+S'Madera Municipal'
+p123
+sS'O46'
+p124
+S'Weed'
+p125
+sS'SNP'
+p126
+S'St. Paul'
+p127
+sS'MAF'
+p128
+S'Midland International'
+p129
+sS'MAI'
+p130
+S'Marianna Municipal'
+p131
+sS'YUM'
+p132
+S'Yuma MCAS-Yuma International'
+p133
+sS'JST'
+p134
+S'Johnstown-Cambria Cty'
+p135
+sS'MAL'
+p136
+S'Malone-Dufort'
+p137
+sS'MAO'
+p138
+S'Marion County'
+p139
+sS'AGZ'
+p140
+S'Wagner Municipal'
+p141
+sS'X47'
+p142
+S'Flagler County'
+p143
+sS'D07'
+p144
+S'Faith Municipal'
+p145
+sS'BEH'
+p146
+S'Southwest Michigan Regional'
+p147
+sS'X44'
+p148
+S'Watson Island Base'
+p149
+sS'EVM'
+p150
+S'Eveleth-Virginia Muni'
+p151
+sS'X40'
+p152
+S'Inverness'
+p153
+sS'EVB'
+p154
+S'New Smyrna Beach Municipal'
+p155
+sS'BED'
+p156
+S'Laurence G Hanscom '
+p157
+sS'EVY'
+p158
+S'Summit Airpark'
+p159
+sS'PVU'
+p160
+S'Provo Muni'
+p161
+sS'2F7'
+p162
+S'Commerce Municipal'
+p163
+sS'EVU'
+p164
+S'Maryville Memorial'
+p165
+sS'BET'
+p166
+S'Bethel'
+p167
+sS'EVW'
+p168
+S'Evanston-Uinta County Burns '
+p169
+sS'LSE'
+p170
+S'La Crosse Municipal'
+p171
+sS'10N'
+p172
+S'Wallkill'
+p173
+sS'LSN'
+p174
+S'Los Banos Municipal'
+p175
+sS'10C'
+p176
+S'Galt'
+p177
+sS'10G'
+p178
+S'Holmes County'
+p179
+sS'10D'
+p180
+S'Winsted Municipal'
+p181
+sS'0Q5'
+p182
+S'Shelter Cove'
+p183
+sS'0Q6'
+p184
+S'Shingletown'
+p185
+sS'TTA'
+p186
+S'Sanford-Lee County Regional'
+p187
+sS'TTF'
+p188
+S'Monroe Custer'
+p189
+sS'10U'
+p190
+S'Owyhee'
+p191
+sS'H19'
+p192
+S'Bowling Green Municipal'
+p193
+sS'X23'
+p194
+S'Umatilla Municipal'
+p195
+sS'GRR'
+p196
+S'Kent County International'
+p197
+sS'GRD'
+p198
+S'Greenwood County'
+p199
+sS'GRE'
+p200
+S'Greenville'
+p201
+sS'GRB'
+p202
+S'Austin Straubel International'
+p203
+sS'ENN'
+p204
+S'Nenana Municipal'
+p205
+sS'GRN'
+p206
+S'Gordon Municipal'
+p207
+sS'GRO'
+p208
+S'Rota International'
+p209
+sS'GRK'
+p210
+S'Robert Gray AAF'
+p211
+sS'GRI'
+p212
+S'Central Nebraska Regional '
+p213
+sS'27A'
+p214
+S'Elbert County-Patz '
+p215
+sS'27D'
+p216
+S'Myers '
+p217
+sS'HLX'
+p218
+S'Twin County'
+p219
+sS'27J'
+p220
+S'Newberry Municipal'
+p221
+sS'27K'
+p222
+S'Georgetown-Scott County'
+p223
+sS'HLN'
+p224
+S'Helena Regional'
+p225
+sS'HLG'
+p226
+S'Wheeling-Ohio Cty'
+p227
+sS'RFG'
+p228
+S'Refugio-Rooke '
+p229
+sS'HLC'
+p230
+S'Hill City Municipal'
+p231
+sS'KKB'
+p232
+S'Kitoi Bay SPB'
+p233
+sS'HYA'
+p234
+S'Barnstable Mun Boardman/Polando '
+p235
+sS'ENW'
+p236
+S'Kenosha Regional'
+p237
+sS'CTY'
+p238
+S'Cross City '
+p239
+sS'CTZ'
+p240
+S'Sampson County'
+p241
+sS'OXD'
+p242
+S'Miami University'
+p243
+sS'CTB'
+p244
+S'Cut Bank Muni'
+p245
+sS'VBT'
+p246
+S'Bentonville Municipal'
+p247
+sS'GGE'
+p248
+S'Georgetown County'
+p249
+sS'RCX'
+p250
+S'Rusk County'
+p251
+sS'CTJ'
+p252
+S'West Georgia Regional'
+p253
+sS'CTK'
+p254
+S'Ingersoll'
+p255
+sS'Q99'
+p256
+S'South County  of Santa Clara Co'
+p257
+sS'Q95'
+p258
+S'Ruth'
+p259
+sS'Q94'
+p260
+S'Rio Linda'
+p261
+sS'HYG'
+p262
+S'Hydaburg SPB'
+p263
+sS'F17'
+p264
+S'Center Municipal'
+p265
+sS'1S3'
+p266
+S'Tillitt '
+p267
+sS'1S0'
+p268
+S'Pierce County '
+p269
+sS'4J5'
+p270
+S'Quitman-Brooks County'
+p271
+sS'1S6'
+p272
+S'Priest River Muni'
+p273
+sS'1S5'
+p274
+S'Sunnyside Municipal'
+p275
+sS'4J6'
+p276
+S'St Marys'
+p277
+sS'E24'
+p278
+S'Whiteriver'
+p279
+sS'E25'
+p280
+S'Wickenburg Municipal'
+p281
+sS'E26'
+p282
+S'Lea County'
+p283
+sS'70J'
+p284
+S'Cairo-Grady County'
+p285
+sS'5J9'
+p286
+S'Twin City'
+p287
+sS'WSM'
+p288
+S'Wiseman'
+p289
+sS'5J0'
+p290
+S'John Day State'
+p291
+sS'TAL'
+p292
+S'Ralph M Calhoun Memorial'
+p293
+sS'SPA'
+p294
+S'Spartanburg Downtown Memorial'
+p295
+sS'O17'
+p296
+S'Nevada County  Air Park'
+p297
+sS'O16'
+p298
+S'Garberville'
+p299
+sS'O15'
+p300
+S'Turlock Municipal'
+p301
+sS'O11'
+p302
+S'Cherokee Nation'
+p303
+sS'EDE'
+p304
+S'Edenton Municipal'
+p305
+sS'ORV'
+p306
+S'Robert(Bob) Curtis Memorial'
+p307
+sS'RLD'
+p308
+S'Richland'
+p309
+sS'05F'
+p310
+S'Gatesville - City/County'
+p311
+sS'LMS'
+p312
+S'Louisville-Winston County'
+p313
+sS'EDN'
+p314
+S'Enterprise Municipal'
+p315
+sS'4T6'
+p316
+S'Mid-Way'
+p317
+sS'O19'
+p318
+S'Kneeland'
+p319
+sS'05C'
+p320
+S'Griffith-Merrillville '
+p321
+sS'ORL'
+p322
+S'Executive'
+p323
+sS'SPF'
+p324
+S'Black Hills-Clyde Ice '
+p325
+sS'HPT'
+p326
+S'Hampton Municipal'
+p327
+sS'ORI'
+p328
+S'Port Lions'
+p329
+sS'ORF'
+p330
+S'Norfolk International'
+p331
+sS'05U'
+p332
+S'Eureka'
+p333
+sS'ORD'
+p334
+S"Chicago O'Hare International"
+p335
+sS'ORE'
+p336
+S'Orange Municipal'
+p337
+sS'ORB'
+p338
+S'Orr Regional'
+p339
+sS'ORC'
+p340
+S'Orange City Municipal'
+p341
+sS'D38'
+p342
+S'Canandaiga'
+p343
+sS'ND44'
+p344
+S'Mott Municipal'
+p345
+sS'UKT'
+p346
+S'Quakertown'
+p347
+sS'68A'
+p348
+S'Wrangell SPB'
+p349
+sS'LOZ'
+p350
+S'London-Corbin  Magee '
+p351
+sS'9S9'
+p352
+S'Lexington'
+p353
+sS'RNV'
+p354
+S'Cleveland Municipal'
+p355
+sS'DPA'
+p356
+S'Du Page'
+p357
+sS'JLN'
+p358
+S'Joplin Regional'
+p359
+sS'9S2'
+p360
+S'Scobey'
+p361
+sS'DPL'
+p362
+S'P B Raiford'
+p363
+sS'9S7'
+p364
+S'Winifred'
+p365
+sS'68S'
+p366
+S'Davenport'
+p367
+sS'9S4'
+p368
+S'Mineral County'
+p369
+sS'ONO'
+p370
+S'Ontario Muni'
+p371
+sS'ONL'
+p372
+S'O Neill Municipal'
+p373
+sS'ONM'
+p374
+S'Socorro Municipal'
+p375
+sS'N40'
+p376
+S'Sky Manor '
+p377
+sS'ONA'
+p378
+S'Winona Muni-Max Conrad'
+p379
+sS'IIY'
+p380
+S'Washington-Wilkes County'
+p381
+sS'N47'
+p382
+S'Pottstown Muni'
+p383
+sS'ONZ'
+p384
+S'Grosse Ile Municipal'
+p385
+sS'ONY'
+p386
+S'Olney Municipal'
+p387
+sS'IIB'
+p388
+S'Independence Municipal'
+p389
+sS'ERI'
+p390
+S'Erie Intl'
+p391
+sS'AIA'
+p392
+S'Alliance Municipal'
+p393
+sS'WA43'
+p394
+S'Odessa Municipal'
+p395
+sS'IIK'
+p396
+S'Kipnuk'
+p397
+sS'FXY'
+p398
+S'Forest City Municipal'
+p399
+sS'9A8'
+p400
+S'Ugashik'
+p401
+sS'KYK'
+p402
+S'Karluk'
+p403
+sS'9A5'
+p404
+S'Barwick-LaFayette '
+p405
+sS'9A4'
+p406
+S'Lawrence County '
+p407
+sS'9A6'
+p408
+S'Chester Municipal'
+p409
+sS'9A1'
+p410
+S'Covington Municipal'
+p411
+sS'9A3'
+p412
+S'Chuathbaluk'
+p413
+sS'RNT'
+p414
+S'Renton Municipal'
+p415
+sS'RZT'
+p416
+S'Ross County'
+p417
+sS'FXE'
+p418
+S'Fort Lauderdale Executive'
+p419
+sS'RZZ'
+p420
+S'Halifax County'
+p421
+sS'CFJ'
+p422
+S'Crawfordsville Municipal'
+p423
+sS'CFK'
+p424
+S'Chefornak'
+p425
+sS'S45'
+p426
+S'Siletz Bay State'
+p427
+sS'PNP'
+p428
+S'Pilot Point'
+p429
+sS'CFD'
+p430
+S'Coulter '
+p431
+sS'SNH'
+p432
+S'Savannah Hardin County'
+p433
+sS'55S'
+p434
+S'Packwood'
+p435
+sS'PNM'
+p436
+S'Princeton Municipal'
+p437
+sS'55J'
+p438
+S'Fernandina Beach Municipal'
+p439
+sS'CFV'
+p440
+S'Coffeyville Municipal'
+p441
+sS'55D'
+p442
+S'Grayling Army Airfield'
+p443
+sS'CFT'
+p444
+S'Greenlee County'
+p445
+sS'PNE'
+p446
+S'Northeast Philadelphia'
+p447
+sS'M54'
+p448
+S'Lebanon Municipal'
+p449
+sS'M53'
+p450
+S'Humboldt Municipal'
+p451
+sS'M52'
+p452
+S'Franklin-Wilkins'
+p453
+sS'M59'
+p454
+S'Richton-Perry County'
+p455
+sS'M58'
+p456
+S'Monett Municipal'
+p457
+sS'FAT'
+p458
+S'Fresno Yosemite International'
+p459
+sS'Y14'
+p460
+S'Marv Skie-Lincoln County'
+p461
+sS'T74'
+p462
+S'Taylor Municipal'
+p463
+sS'ND06'
+p464
+S'Cavalier Municipal'
+p465
+sS'37T'
+p466
+S'Calico Rock-Izard County'
+p467
+sS'37W'
+p468
+S'Harnett County'
+p469
+sS'OH30'
+p470
+S'Put In Bay'
+p471
+sS'PRG'
+p472
+S'Edgar County'
+p473
+sS'JOT'
+p474
+S'Joliet Park District'
+p475
+sS'SAN'
+p476
+S'San Diego International-Lindbergh '
+p477
+sS'PRC'
+p478
+S'Ernest A. Love '
+p479
+sS'PRB'
+p480
+S'Paso Robles Municipal'
+p481
+sS'SAC'
+p482
+S'Sacramento Executive'
+p483
+sS'PRO'
+p484
+S'Perry Municipal'
+p485
+sS'PRN'
+p486
+S'Greenville Municipal'
+p487
+sS'H30'
+p488
+S'Hamilton Municipal '
+p489
+sS'SAD'
+p490
+S'Safford Regional'
+p491
+sS'SAZ'
+p492
+S'Staples Municipal'
+p493
+sS'6M8'
+p494
+S'Marked Tree Municipal'
+p495
+sS'6M6'
+p496
+S'Lewis County Regional'
+p497
+sS'6M7'
+p498
+S'Lee County-Marianna'
+p499
+sS'6M2'
+p500
+S'Horseshoe Bend'
+p501
+sS'ISQ'
+p502
+S'Schoolcraft County'
+p503
+sS'OWX'
+p504
+S'Putnam County'
+p505
+sS'CHA'
+p506
+S'Lovell '
+p507
+sS'CHD'
+p508
+S'Chandler Municipal'
+p509
+sS'MRY'
+p510
+S'Monterey Peninsula'
+p511
+sS'JAX'
+p512
+S'Jacksonville International'
+p513
+sS'L08'
+p514
+S'Borrego Valley'
+p515
+sS'40N'
+p516
+S'Chester Cty-G O Carlson'
+p517
+sS'L05'
+p518
+S'Kern Valley'
+p519
+sS'CHK'
+p520
+S'Chickasha Municipal'
+p521
+sS'40J'
+p522
+S'Perry-Foley'
+p523
+sS'CHO'
+p524
+S'Charlottesville-Albermarle'
+p525
+sS'CHP'
+p526
+S'Circle Hot Springs'
+p527
+sS'3R0'
+p528
+S'Beeville Municipal'
+p529
+sS'CHS'
+p530
+S'Charleston AFB/International'
+p531
+sS'CHT'
+p532
+S'Chillicothe Municipal'
+p533
+sS'3R7'
+p534
+S'Jennings'
+p535
+sS'3R4'
+p536
+S'Hart'
+p537
+sS'MRF'
+p538
+S'Marfa Municipal'
+p539
+sS'Z73'
+p540
+S'Nelson Lagoon'
+p541
+sS'JAC'
+p542
+S'Jackson Hole'
+p543
+sS'MRB'
+p544
+S'Eastern Wv Reg/Shephard '
+p545
+sS'MRC'
+p546
+S'Maury County'
+p547
+sS'JNU'
+p548
+S'Juneau International'
+p549
+sS'DBN'
+p550
+S'W. H. \\Bud\\" Barron "'
+p551
+sS'APV'
+p552
+S'Apple Valley'
+p553
+sS'APT'
+p554
+S'Marion County-Brown '
+p555
+sS'MDZ'
+p556
+S'Taylor County '
+p557
+sS'APN'
+p558
+S'Alpena County Regional '
+p559
+sS'PQI'
+p560
+S'Northern Maine Regional'
+p561
+sS'DBQ'
+p562
+S'Dubuque Municipal'
+p563
+sS'APC'
+p564
+S'Napa County'
+p565
+sS'APA'
+p566
+S'Centennial'
+p567
+sS'APF'
+p568
+S'Naples Municipal'
+p569
+sS'SNL'
+p570
+S'Shawnee Municipal'
+p571
+sS'ISN'
+p572
+S'Sloulin Field International'
+p573
+sS'Y03'
+p574
+S'Springfield Municipal'
+p575
+sS'MAZ'
+p576
+S'Eugenio Maria De Hostos'
+p577
+sS'PQN'
+p578
+S'Pipestone Municipal'
+p579
+sS'MLU'
+p580
+S'Monroe Regional'
+p581
+sS'OR33'
+p582
+S'Boardman'
+p583
+sS'XNA'
+p584
+S'Northwest Arkansas Regional'
+p585
+sS'1N4'
+p586
+S'Woodbine Muni '
+p587
+sS'1N7'
+p588
+S'Blairstown'
+p589
+sS'24A'
+p590
+S'Jackson County'
+p591
+sS'1N2'
+p592
+S'Spadaro '
+p593
+sS'TKA'
+p594
+S'Talkeetna'
+p595
+sS'HMT'
+p596
+S'Hemet-Ryan'
+p597
+sS'24N'
+p598
+S'Jicarilla Apache Nation'
+p599
+sS'1N9'
+p600
+S'Allentown Queen City Muni'
+p601
+sS'24J'
+p602
+S'Suwannee County'
+p603
+sS'7K8'
+p604
+S'Martin '
+p605
+sS'AHQ'
+p606
+S'Wahoo Municipal'
+p607
+sS'7K0'
+p608
+S'Pike County-Hatcher '
+p609
+sS'7K2'
+p610
+S'Skagway SPB'
+p611
+sS'T90'
+p612
+S'Chambers County'
+p613
+sS'7K4'
+p614
+S'Ohio County '
+p615
+sS'TKX'
+p616
+S'Kennett Memorial'
+p617
+sS'SNS'
+p618
+S'Salinas Municipal'
+p619
+sS'HYI'
+p620
+S'San Marcos Municipal'
+p621
+sS'AFM'
+p622
+S'Ambler'
+p623
+sS'AFN'
+p624
+S'Jaffrey Municipal Silver Ranch'
+p625
+sS'AFO'
+p626
+S'Afton Municipal'
+p627
+sS'DLG'
+p628
+S'Dillingham'
+p629
+sS'T89'
+p630
+S'Castroville Municipal'
+p631
+sS'AFJ'
+p632
+S'Washington County'
+p633
+sS'AFK'
+p634
+S'Nebraska City Municipal'
+p635
+sS'7KA'
+p636
+S'Tatitlek'
+p637
+sS'AFE'
+p638
+S'Kake'
+p639
+sS'GCK'
+p640
+S'Garden City Regional'
+p641
+sS'DLH'
+p642
+S'Duluth International'
+p643
+sS'DLO'
+p644
+S'Delano Municipal'
+p645
+sS'DLN'
+p646
+S'Dillon'
+p647
+sS'I35'
+p648
+S'Tucker-Guthrie Memorial'
+p649
+sS'DLL'
+p650
+S'Baraboo - Wisconsin Dells'
+p651
+sS'DLS'
+p652
+S'Columbia Gorge Regional'
+p653
+sS'GCT'
+p654
+S'Guthrie County Regional'
+p655
+sS'GCY'
+p656
+S'Greeneville Municipal'
+p657
+sS'DLZ'
+p658
+S'Delaware Municipal'
+p659
+sS'AFW'
+p660
+S'Fort Worth Alliance'
+p661
+sS'BTT'
+p662
+S'Bettles'
+p663
+sS'BTV'
+p664
+S'Burlington International'
+p665
+sS'BTP'
+p666
+S'Butler Cty'
+p667
+sS'BTR'
+p668
+S'Baton Rouge Metropolitan, Ryan '
+p669
+sS'KXA'
+p670
+S'Kasaan SPB'
+p671
+sS'BTY'
+p672
+S'Beatty'
+p673
+sS'39N'
+p674
+S'Princeton'
+p675
+sS'T82'
+p676
+S'Gillespie County'
+p677
+sS'0R5'
+p678
+S'David G Joyce'
+p679
+sS'0R4'
+p680
+S'Concordia Parish'
+p681
+sS'0R7'
+p682
+S'Red River'
+p683
+sS'0R1'
+p684
+S'Atmore Municipal'
+p685
+sS'0R0'
+p686
+S'Columbia-Marion County'
+p687
+sS'0R3'
+p688
+S'Abbeville Chris Crusta Memorial'
+p689
+sS'BTM'
+p690
+S'Bert Mooney'
+p691
+sS'BTL'
+p692
+S'W K Kellogg Regional'
+p693
+sS'BTN'
+p694
+S'Britton Municipal'
+p695
+sS'BTI'
+p696
+S'Barter Island '
+p697
+sS'WYS'
+p698
+S'Yellowstone'
+p699
+sS'4KA'
+p700
+S'Tununak'
+p701
+sS'H21'
+p702
+S'Camdenton Memorial'
+p703
+sS'1ND3'
+p704
+S'Hamry '
+p705
+sS'PEC'
+p706
+S'Pelican SPB'
+p707
+sS'HOE'
+p708
+S'Homerville'
+p709
+sS'ECG'
+p710
+S'Elizabeth City CG Air Station/Municipal'
+p711
+sS'SEG'
+p712
+S'Penn Valley'
+p713
+sS'RMP'
+p714
+S'Rampart'
+p715
+sS'06U'
+p716
+S'Jackpot/Hayden '
+p717
+sS'RMY'
+p718
+S'Brooks '
+p719
+sS'LNP'
+p720
+S'Lonesome Pine'
+p721
+sS'LNS'
+p722
+S'Lancaster'
+p723
+sS'06A'
+p724
+S'Moton  Municipal'
+p725
+sS'LNL'
+p726
+S"Kings Land O' Lakes"
+p727
+sS'06C'
+p728
+S'Schaumburg'
+p729
+sS'LNN'
+p730
+S'Lost Nation'
+p731
+sS'ECS'
+p732
+S'Mondell '
+p733
+sS'06D'
+p734
+S'Rolla Municipal'
+p735
+sS'LNK'
+p736
+S'Lincoln Municipal'
+p737
+sS'RME'
+p738
+S'Griffis Airpark'
+p739
+sS'LND'
+p740
+S'Hunt '
+p741
+sS'06M'
+p742
+S'Eupora Municipal'
+p743
+sS'LNC'
+p744
+g723
+sS'06N'
+p745
+S'Randall '
+p746
+sS'EUL'
+p747
+S'Caldwell Industrial'
+p748
+sS'PVG'
+p749
+S'Hampton Roads Executive'
+p750
+sS'EUG'
+p751
+S'Mahlon Sweet '
+p752
+sS'BBD'
+p753
+S'Curtis '
+p754
+sS'BBB'
+p755
+S'Benson Municipal'
+p756
+sS'Q84'
+p757
+S'Mendota'
+p758
+sS'BBW'
+p759
+S'Broken Bow Municipal'
+p760
+sS'Q88'
+p761
+S'Paradise Skypark'
+p762
+sS'RKW'
+p763
+S'Rockwood Municipal'
+p764
+sS'BBP'
+p765
+S'Marlboro County'
+p766
+sS'17N'
+p767
+S'Cross Keys'
+p768
+sS'17M'
+p769
+S'Magee Municipal'
+p770
+sS'17K'
+p771
+S'Boise City'
+p772
+sS'17J'
+p773
+S'Donalsonville Municipal'
+p774
+sS'17G'
+p775
+S'Port Bucyrus-Crawford County'
+p776
+sS'TUS'
+p777
+S'Tucson International'
+p778
+sS'JKA'
+p779
+S'Jack Edwards'
+p780
+sS'4K6'
+p781
+S'Bloomfield Municipal'
+p782
+sS'1R1'
+p783
+S'Jena'
+p784
+sS'4K5'
+p785
+S'Ouzinkie'
+p786
+sS'TUL'
+p787
+S'Tulsa International'
+p788
+sS'17Z'
+p789
+S'Manokotak'
+p790
+sS'4K0'
+p791
+S'Pedro Bay'
+p792
+sS'1R7'
+p793
+S'Brookhaven-Lincoln County'
+p794
+sS'1R8'
+p795
+S'Bay Minette Municipal'
+p796
+sS'VMR'
+p797
+S'Harold Davidson '
+p798
+sS'E19'
+p799
+S'Gruver Municipal'
+p800
+sS'E11'
+p801
+S'Andrews County'
+p802
+sS'O35'
+p803
+S'Hollis Municipal'
+p804
+sS'E15'
+p805
+S'Graham Municipal'
+p806
+sS'W78'
+p807
+S'William M Tuck'
+p808
+sS'CYS'
+p809
+S'Cheyenne'
+p810
+sS'O05'
+p811
+S'Rogers '
+p812
+sS'CYW'
+p813
+S'Clay Center Municipal'
+p814
+sS'W45'
+p815
+S'Luray Caverns'
+p816
+sS'O02'
+p817
+S'Nervino'
+p818
+sS'FYE'
+p819
+S'Fayette County'
+p820
+sS'4U3'
+p821
+S'Liberty County'
+p822
+sS'O08'
+p823
+S'Colusa County'
+p824
+sS'O09'
+p825
+S'Round Valley'
+p826
+sS'4U6'
+p827
+S'Circle Town County'
+p828
+sS'FYM'
+p829
+S'Fayetteville Municipal'
+p830
+sS'FYV'
+p831
+g830
+sS'EVV'
+p832
+S'Evansville Regional'
+p833
+sS'POH'
+p834
+S'Pocahontas Municipal'
+p835
+sS'FYU'
+p836
+S'Fort Yukon'
+p837
+sS'POF'
+p838
+S'Poplar Bluff Municipal'
+p839
+sS'CYO'
+p840
+S'Pickaway County Memorial'
+p841
+sS'POC'
+p842
+S'Brackett '
+p843
+sS'VCB'
+p844
+S'Nut Tree'
+p845
+sS'PDT'
+p846
+S'Eastern Oregon Regional At Pendleton'
+p847
+sS'FKL'
+p848
+S'Chess-Lamberton'
+p849
+sS'FKN'
+p850
+S'Franklin Municipal-John Beverly Rose'
+p851
+sS'CWV'
+p852
+S'Claxton-Evans County'
+p853
+sS'CWI'
+p854
+S'Clinton Municipal'
+p855
+sS'VCT'
+p856
+S'Victoria Regional'
+p857
+sS'FRM'
+p858
+S'Fairmont Municipal'
+p859
+sS'VCV'
+p860
+S'Southern California Logistic '
+p861
+sS'CWA'
+p862
+S'Central Wisconsin'
+p863
+sS'LSB'
+p864
+S'Lordsburg Municipal'
+p865
+sS'FKR'
+p866
+S'Frankfort Municipal'
+p867
+sS'W29'
+p868
+S'Bay Bridge Industrial'
+p869
+sS'CWF'
+p870
+S'Chennault International '
+p871
+sS'2M2'
+p872
+S'Lawrenceburg Municipal'
+p873
+sS'2M3'
+p874
+S'Sallisaw Municipal'
+p875
+sS'2M0'
+p876
+S'Princeton-Caldwell County'
+p877
+sS'2M4'
+p878
+S'G. V. Montgomery'
+p879
+sS'FRR'
+p880
+S'Front Royal-Warren County'
+p881
+sS'N57'
+p882
+S'New Garden Flying '
+p883
+sS'2M8'
+p884
+S'Charles W. Baker'
+p885
+sS'SNY'
+p886
+S'Sidney Municipal'
+p887
+sS'N53'
+p888
+S'Stroudsburg-Pocono'
+p889
+sS'N51'
+p890
+S'Solberg-Hunterdon'
+p891
+sS'8D7'
+p892
+S'Clark County'
+p893
+sS'VLA'
+p894
+S'Vandalia Municipal'
+p895
+sS'8D4'
+p896
+S'Sparta'
+p897
+sS'8D3'
+p898
+S'Sisseton Municipal'
+p899
+sS'5I4'
+p900
+S'Sheridan'
+p901
+sS'8D1'
+p902
+S'New Holstein Municipal'
+p903
+sS'Y83'
+p904
+S'Sandusky City'
+p905
+sS'PDK'
+p906
+S'Dekalb-Peachtree'
+p907
+sS'8D9'
+p908
+S'Howard Municipal'
+p909
+sS'3CM'
+p910
+S'James Clements Municipal'
+p911
+sS'PAQ'
+p912
+S'Palmer Municipal'
+p913
+sS'CKF'
+p914
+S'Crisp County - Cordele'
+p915
+sS'3CK'
+p916
+S'Lake In The Hills'
+p917
+sS'CKB'
+p918
+S'Benedum'
+p919
+sS'CKM'
+p920
+S'Fletcher '
+p921
+sS'CKN'
+p922
+S'Crookston Muni Kirkwood '
+p923
+sS'CKI'
+p924
+S'Williamsburg County'
+p925
+sS'LSK'
+p926
+S'Lusk Muni'
+p927
+sS'CKU'
+p928
+S'Cordova Muni'
+p929
+sS'41U'
+p930
+S'Manti-Ephraim'
+p931
+sS'F21'
+p932
+S'Memphis Municipal'
+p933
+sS'CKV'
+p934
+S'Outlaw '
+p935
+sS'CKP'
+p936
+S'Cherokee Municipal'
+p937
+sS'F24'
+p938
+S'Minden-Webster'
+p939
+sS'3CU'
+p940
+S'Cable Union'
+p941
+sS'F29'
+p942
+S'Clarence E. Page Municipal'
+p943
+sS'F28'
+p944
+S'El Reno Municipal'
+p945
+sS'CKX'
+p946
+S'Chicken'
+p947
+sS'PAN'
+p948
+S'Payson'
+p949
+sS'PAO'
+p950
+S'Palo Alto Arpt of Santa Clara Co'
+p951
+sS'5W8'
+p952
+S'Siler City Municipal'
+p953
+sS'DCK'
+p954
+S'Dahl Creek'
+p955
+sS'MQI'
+p956
+S'Dare County Regional'
+p957
+sS'PDC'
+p958
+S'Prairie Du Chien Municipal'
+p959
+sS'MQJ'
+p960
+S'Mount Comfort'
+p961
+sS'DCA'
+p962
+S'Ronald Reagan Washington National'
+p963
+sS'AWO'
+p964
+S'Arlington Municipal'
+p965
+sS'AWM'
+p966
+S'West Memphis Municipal'
+p967
+sS'MQT'
+p968
+S'Marquette County Airport'
+p969
+sS'AWI'
+p970
+S'Wainwright'
+p971
+sS'DCY'
+p972
+S'Daviess County'
+p973
+sS'AWG'
+p974
+S'Washington Municipal'
+p975
+sS'DCU'
+p976
+S'Pryor  Regional'
+p977
+sS'HI01'
+p978
+S'Princeville'
+p979
+sS'TTN'
+p980
+S'Trenton-Mercer County '
+p981
+sS'M48'
+p982
+S'Houston Memorial'
+p983
+sS'ND12'
+p984
+S'Ellendale Municipal'
+p985
+sS'54J'
+p986
+S'Defuniak Springs'
+p987
+sS'M43'
+p988
+S'Prentiss-Jefferson Davis County'
+p989
+sS'M40'
+p990
+S'Monroe County'
+p991
+sS'M41'
+p992
+S'Holly Springs-Marshall County'
+p993
+sS'M46'
+p994
+S'Colstrip'
+p995
+sS'M44'
+p996
+S'Houston Municipal'
+p997
+sS'OAJ'
+p998
+S'Albert J Ellis'
+p999
+sS'5ND6'
+p1000
+S'Hillsboro Municipal'
+p1001
+sS'ZEF'
+p1002
+S'Elkin Municipal'
+p1003
+sS'FWC'
+p1004
+S'Fairfield Municipal'
+p1005
+sS'DQH'
+p1006
+S'Douglas Municipal'
+p1007
+sS'6R3'
+p1008
+g355
+sS'OIN'
+p1009
+S'Oberlin Municipal'
+p1010
+sS'M29'
+p1011
+S'Hassel '
+p1012
+sS'6R7'
+p1013
+S'Old Harbor (New)'
+p1014
+sS'OME'
+p1015
+S'Nome'
+p1016
+sS'6R9'
+p1017
+S'Llano Municipal'
+p1018
+sS'0O5'
+p1019
+S'University'
+p1020
+sS'OIC'
+p1021
+S'Lt Warren Eaton'
+p1022
+sS'0O3'
+p1023
+S'Calaveras Co-Maury Rasmussen '
+p1024
+sS'JAN'
+p1025
+S'Jackson International'
+p1026
+sS'TTD'
+p1027
+S'Portland-Troutdale'
+p1028
+sS'GBG'
+p1029
+S'Galesburg Municipal'
+p1030
+sS'GBD'
+p1031
+S'Great Bend Municipal'
+p1032
+sS'0A3'
+p1033
+S'Smithville Municipal'
+p1034
+sS'L18'
+p1035
+S'Fallbrook Community Airpark'
+p1036
+sS'L19'
+p1037
+S'Wasco-Kern County'
+p1038
+sS'0A8'
+p1039
+S'Bibb County'
+p1040
+sS'AEX'
+p1041
+S'Alexandria International'
+p1042
+sS'L17'
+p1043
+S'Taft-Kern County'
+p1044
+sS'MO6'
+p1045
+S'Washington Memorial'
+p1046
+sS'DMN'
+p1047
+S'Deming Municipal'
+p1048
+sS'DMO'
+p1049
+S'Sedalia Memorial'
+p1050
+sS'3U7'
+p1051
+S'Benchmark'
+p1052
+sS'3U3'
+p1053
+S'Bowman '
+p1054
+sS'AEG'
+p1055
+S'Double Eagle II'
+p1056
+sS'DMW'
+p1057
+S'Carroll County'
+p1058
+sS'AEL'
+p1059
+S'Albert Lea Municipal'
+p1060
+sS'3U8'
+p1061
+S'Big Sandy'
+p1062
+sS'3O1'
+p1063
+S'Gustine'
+p1064
+sS'BUY'
+p1065
+S'Burlington Municipal'
+p1066
+sS'BUR'
+p1067
+S'Burbank-Glendale-Pasadena'
+p1068
+sS'3O3'
+p1069
+S'Municipal'
+p1070
+sS'38S'
+p1071
+S'Deer Lodge-City-County'
+p1072
+sS'38U'
+p1073
+S'Wayne Wonderland'
+p1074
+sS'BUM'
+p1075
+S'Butler Memorial'
+p1076
+sS'BUB'
+p1077
+S'Cram '
+p1078
+sS'M15'
+p1079
+S'Perry County'
+p1080
+sS'FWS'
+p1081
+S'Spinks'
+p1082
+sS'BUF'
+p1083
+S'Buffalo Niagara Intl'
+p1084
+sS'SD16'
+p1085
+S'Eureka Municipal'
+p1086
+sS'Y74'
+p1087
+S'Hankins '
+p1088
+sS'36K'
+p1089
+S'Lakin'
+p1090
+sS'Y70'
+p1091
+S'Ionia County'
+p1092
+sS'M16'
+p1093
+S'John Bell Williams'
+p1094
+sS'B01'
+p1095
+S'Granville'
+p1096
+sS'RBY'
+p1097
+S'Ruby'
+p1098
+sS'B08'
+p1099
+S'Silver Springs'
+p1100
+sS'36U'
+p1101
+S'Heber City Municipal/Russ McDonald '
+p1102
+sS'36S'
+p1103
+S'Happy Camp'
+p1104
+sS'PSK'
+p1105
+S'New River Valley'
+p1106
+sS'MOX'
+p1107
+S'Morris Municipal'
+p1108
+sS'PSN'
+p1109
+S'Palestine Municipal'
+p1110
+sS'PSM'
+p1111
+S'Pease International Tradeport'
+p1112
+sS'1M1'
+p1113
+S'North Little Rock Municipal'
+p1114
+sS'MOR'
+p1115
+S'Moore-Murrell'
+p1116
+sS'1M2'
+p1117
+S'Belzoni Municipal'
+p1118
+sS'1M5'
+p1119
+S'Portland Municipal'
+p1120
+sS'1M4'
+p1121
+S'Posey '
+p1122
+sS'1M7'
+p1123
+S'Fulton'
+p1124
+sS'MOT'
+p1125
+S'Minot International'
+p1126
+sS'DM2'
+p1127
+S'Diomede Heliport'
+p1128
+sS'MOB'
+p1129
+S'Mobile Regional'
+p1130
+sS'PSP'
+p1131
+S'Palm Springs International'
+p1132
+sS'0AK'
+p1133
+S'Pilot Station'
+p1134
+sS'MOD'
+p1135
+S'Modesto City-County-Harry Sham '
+p1136
+sS'HNB'
+p1137
+S'Huntingburg'
+p1138
+sS'1C5'
+p1139
+S'Clow'
+p1140
+sS'BCK'
+p1141
+S'Black River Falls Area'
+p1142
+sS'BCE'
+p1143
+S'Bryce Canyon'
+p1144
+sS'I22'
+p1145
+S'Randolph County'
+p1146
+sS'I23'
+p1147
+g820
+sS'HNM'
+p1148
+S'Hana'
+p1149
+sS'HNL'
+p1150
+S'Honolulu International'
+p1151
+sS'BCB'
+p1152
+S'Virginia Tech'
+p1153
+sS'UIL'
+p1154
+S'Quillayute'
+p1155
+sS'ETB'
+p1156
+S'West Bend Municipal'
+p1157
+sS'ETC'
+p1158
+S'Edgecombe County'
+p1159
+sS'7D2'
+p1160
+S'Troy-Oakland'
+p1161
+sS'HNR'
+p1162
+S'Harlan Municipal'
+p1163
+sS'BCT'
+p1164
+S'Boca Raton'
+p1165
+sS'BCV'
+p1166
+S'Birchwood'
+p1167
+sS'HNZ'
+p1168
+S'Henderson-Oxford'
+p1169
+sS'ETN'
+p1170
+S'Eastland Municipal'
+p1171
+sS'S18'
+p1172
+S'Forks'
+p1173
+sS'TVY'
+p1174
+S'Tooele Valley'
+p1175
+sS'16J'
+p1176
+S'Dawson Municipal'
+p1177
+sS'S12'
+p1178
+S'Albany Municipal'
+p1179
+sS'16G'
+p1180
+S'Seneca County'
+p1181
+sS'16A'
+p1182
+S'Nunapitchuk'
+p1183
+sS'TVR'
+p1184
+S'Vicksburg Tallulah Regional'
+p1185
+sS'K67'
+p1186
+S'Oswego Municipal'
+p1187
+sS'0S9'
+p1188
+S'Jefferson County International'
+p1189
+sS'K62'
+p1190
+S'Falmouth Pendleton County'
+p1191
+sS'TKE'
+p1192
+S'Tenakee SPB'
+p1193
+sS'TVK'
+p1194
+S'Centerville Municipal'
+p1195
+sS'K61'
+p1196
+S'Moritz Memorial'
+p1197
+sS'TVF'
+p1198
+S'Thief River Falls Regional'
+p1199
+sS'0S7'
+p1200
+S'Dorothy Scott'
+p1201
+sS'K68'
+p1202
+S'Garnett Municipal'
+p1203
+sS'16S'
+p1204
+S'Myrtle Creek Municipal'
+p1205
+sS'SRB'
+p1206
+S'Upper Cumberland Regional'
+p1207
+sS'SRC'
+p1208
+S'Searcy Municipal'
+p1209
+sS'TPO'
+p1210
+S'Port Alsworth'
+p1211
+sS'JZI'
+p1212
+S'Charleston Executive'
+p1213
+sS'LFT'
+p1214
+S'Lafayette Regional'
+p1215
+sS'SWD'
+p1216
+S'Seward'
+p1217
+sS'SRR'
+p1218
+S'Sierra Blanca Regional'
+p1219
+sS'IFP'
+p1220
+S'Laughlin/Bullhead International'
+p1221
+sS'SRQ'
+p1222
+S'Sarasota Bradenton International'
+p1223
+sS'SRV'
+p1224
+S'Stony River 2'
+p1225
+sS'JZZ'
+p1226
+S'Koliganek'
+p1227
+sS'JZP'
+p1228
+S'Pickens County'
+p1229
+sS'25J'
+p1230
+S'Cuthbert-Randolph'
+p1231
+sS'TDO'
+p1232
+S'Toledo-Winlock Ed Carlson Memorial '
+p1233
+sS'PYM'
+p1234
+S'Plymouth Municipal'
+p1235
+sS'25M'
+p1236
+S'Ripley '
+p1237
+sS'TDF'
+p1238
+S'Person County'
+p1239
+sS'TDZ'
+p1240
+S'Toledo Metcalf'
+p1241
+sS'25R'
+p1242
+S'International'
+p1243
+sS'8S2'
+p1244
+S'Cashmere-Dryden'
+p1245
+sS'8S1'
+p1246
+S'Polson'
+p1247
+sS'CVX'
+p1248
+S'Charlevoix Municipal'
+p1249
+sS'8S5'
+p1250
+S'East Cooper'
+p1251
+sS'80F'
+p1252
+S'Antlers Municipal'
+p1253
+sS'LOL'
+p1254
+S'Derby '
+p1255
+sS'4A9'
+p1256
+S'Isbell '
+p1257
+sS'CVN'
+p1258
+S'Clovis Municipal'
+p1259
+sS'CVO'
+p1260
+S'Corvallis Muni'
+p1261
+sS'CVK'
+p1262
+S'Sharp County Regional'
+p1263
+sS'LOT'
+p1264
+S'Lewis University'
+p1265
+sS'LOU'
+p1266
+g1054
+sS'FHU'
+p1267
+S'Libby AAF-Sierra Vista Municipal'
+p1268
+sS'CVG'
+p1269
+S'Cincinnati Northern Kentucky Intl'
+p1270
+sS'FHR'
+p1271
+S'Friday Harbor'
+p1272
+sS'WJF'
+p1273
+S'General Wm. J. Fox Airfield'
+p1274
+sS'4D9'
+p1275
+S'Alma Municipal'
+p1276
+sS'H35'
+p1277
+S'Clarksville Municipal'
+p1278
+sS'4D0'
+p1279
+S'Abrams Municipal'
+p1280
+sS'E06'
+p1281
+S'Lea County-Zip Franklin Memorial'
+p1282
+sS'E07'
+p1283
+S'Lea County/Tatum '
+p1284
+sS'E04'
+p1285
+S'Eunice'
+p1286
+sS'E05'
+p1287
+S'Hatch Muni'
+p1288
+sS'C91'
+p1289
+S'Dowagiac Municipal '
+p1290
+sS'E01'
+p1291
+S'Monahans-Roy Hurd Memorial'
+p1292
+sS'HPN'
+p1293
+S'Westchester Cty'
+p1294
+sS'HPB'
+p1295
+S'Hooper Bay'
+p1296
+sS'SEE'
+p1297
+S'Gillespie '
+p1298
+sS'4V9'
+p1299
+S'Antelope County'
+p1300
+sS'ZPH'
+p1301
+S'Zephyrhills Municipal'
+p1302
+sS'O31'
+p1303
+S'Healdsburg Municipal'
+p1304
+sS'KKA'
+p1305
+S'Koyuk'
+p1306
+sS'O32'
+p1307
+S'Reedley Municipal'
+p1308
+sS'4V1'
+p1309
+S'Johnson '
+p1310
+sS'4V0'
+p1311
+S'Rangely'
+p1312
+sS'O37'
+p1313
+S'Haigh '
+p1314
+sS'07F'
+p1315
+S'Gladewater Municipal'
+p1316
+sS'07G'
+p1317
+S'Fitch H Beach'
+p1318
+sS'07C'
+p1319
+S'Dekalb County'
+p1320
+sS'EBS'
+p1321
+S'Webster City Municipal'
+p1322
+sS'07K'
+p1323
+S'Central City Municipal'
+p1324
+sS'53A'
+p1325
+S'Dr. C.P. Savage, Sr.'
+p1326
+sS'WDG'
+p1327
+S'Enid Woodring Municipal'
+p1328
+sS'53K'
+p1329
+S'Osage City Municipal'
+p1330
+sS'DRT'
+p1331
+S'Del Rio International'
+p1332
+sS'MEJ'
+p1333
+S'Meade Municipal'
+p1334
+sS'DRI'
+p1335
+S'Beauregard Parish'
+p1336
+sS'WMC'
+p1337
+S'Winnemucca Municipal'
+p1338
+sS'WDR'
+p1339
+S'Winder'
+p1340
+sS'DRO'
+p1341
+S'Durango-La Plata County'
+p1342
+sS'T57'
+p1343
+S'Garland Heliport'
+p1344
+sS'2J5'
+p1345
+S'Millen'
+p1346
+sS'2J3'
+p1347
+S'Louisville Municipal'
+p1348
+sS'2J2'
+p1349
+g822
+sS'IOW'
+p1350
+S'Iowa City Municipal'
+p1351
+sS'RVJ'
+p1352
+S'Reidsville'
+p1353
+sS'RVN'
+p1354
+S'Hawkins County'
+p1355
+sS'2J9'
+p1356
+S'Quincy Municipal'
+p1357
+sS'RVL'
+p1358
+S'Mifflin Cty'
+p1359
+sS'RVS'
+p1360
+S'Richard Lloyd Jones, Jr.'
+p1361
+sS'UIZ'
+p1362
+S'Berz-Macomb'
+p1363
+sS'IOB'
+p1364
+S'Mt Sterling-Montgomery County'
+p1365
+sS'N85'
+p1366
+S'Alexandria '
+p1367
+sS'5V8'
+p1368
+S'Kadoka Municipal'
+p1369
+sS'N87'
+p1370
+S'Trenton-Robbinsville'
+p1371
+sS'N81'
+p1372
+S'Hammonton Muni'
+p1373
+sS'N82'
+p1374
+S'Wurtsboro-Sullivan Cty'
+p1375
+sS'5HO'
+p1376
+S'Hope'
+p1377
+sS'N89'
+p1378
+S'Joseph Y. Resnick'
+p1379
+sS'F30'
+p1380
+S'Sulphur Municipal'
+p1381
+sS'F31'
+p1382
+S'Lake Texoma State Park'
+p1383
+sS'F32'
+p1384
+S'Healdton Municipal'
+p1385
+sS'F36'
+p1386
+S'Cordell Municipal'
+p1387
+sS'F37'
+p1388
+S'Wauchula Municipal'
+p1389
+sS'F39'
+p1390
+S'Grayson County'
+p1391
+sS'CXP'
+p1392
+S'Carson'
+p1393
+sS'CXU'
+p1394
+S'Camilla-Mitchell County'
+p1395
+sS'CXY'
+p1396
+S'Capital City'
+p1397
+sS'UBS'
+p1398
+S'Columbus-Lowndes County'
+p1399
+sS'5V5'
+p1400
+S'Shiprock Airstrip'
+p1401
+sS'P01'
+p1402
+S'Ajo Municipal'
+p1403
+sS'CXC'
+p1404
+S'Chitina'
+p1405
+sS'CXE'
+p1406
+S'Chase City Municipal'
+p1407
+sS'CXF'
+p1408
+S'Coldfoot'
+p1409
+sS'P04'
+p1410
+S'Bisbee Municipal'
+p1411
+sS'Y50'
+p1412
+S'Wautoma Municipal'
+p1413
+sS'MFI'
+p1414
+S'Marshfield Municipal'
+p1415
+sS'P08'
+p1416
+S'Coolidge Municipal'
+p1417
+sS'CXL'
+p1418
+S'Calexico International'
+p1419
+sS'CXO'
+p1420
+S'Montgomery County'
+p1421
+sS'TVB'
+p1422
+S'Cabool Memorial'
+p1423
+sS'M39'
+p1424
+S'Mena Intermountain Municipal'
+p1425
+sS'MLC'
+p1426
+S'McAlester Regional'
+p1427
+sS'M37'
+p1428
+S'Ruleville-Drew'
+p1429
+sS'M36'
+p1430
+S'Frank Federer Memorial'
+p1431
+sS'EKX'
+p1432
+S'Elizabethtown'
+p1433
+sS'M33'
+p1434
+S'Sumner County Regional'
+p1435
+sS'M32'
+p1436
+S'Lake Village Municipal'
+p1437
+sS'M30'
+p1438
+S'Metropolis Municipal'
+p1439
+sS'RGK'
+p1440
+S'Red Wing Municipal'
+p1441
+sS'TKI'
+p1442
+S'McKinney Municipal'
+p1443
+sS'3B2'
+p1444
+S'Marshfield'
+p1445
+sS'PTN'
+p1446
+S'Harry P. Williams Memorial'
+p1447
+sS'6S2'
+p1448
+S'Florence Muni'
+p1449
+sS'6S3'
+p1450
+S'Columbus'
+p1451
+sS'PTK'
+p1452
+S'Oakland-Pontiac'
+p1453
+sS'6S5'
+p1454
+S'Ravalli County'
+p1455
+sS'SCK'
+p1456
+S'Stockton Metro'
+p1457
+sS'PTH'
+p1458
+S'Port Heiden'
+p1459
+sS'6S8'
+p1460
+S'Laurel Municipal'
+p1461
+sS'JMS'
+p1462
+S'Jamestown Municipal'
+p1463
+sS'3B9'
+p1464
+S'Chester'
+p1465
+sS'PTB'
+p1466
+S'Dinwiddie County'
+p1467
+sS'MNV'
+p1468
+g991
+sS'SCB'
+p1469
+S'Scribner State'
+p1470
+sS'MNI'
+p1471
+S'Clarendon County'
+p1472
+sS'9G5'
+p1473
+S'Royalton'
+p1474
+sS'9G3'
+p1475
+S'Akron'
+p1476
+sS'MNM'
+p1477
+S'Menominee-Marinette Twin County'
+p1478
+sS'9G1'
+p1479
+S'West Penn'
+p1480
+sS'9G0'
+p1481
+S'Buffalo Airfield'
+p1482
+sS'PTW'
+p1483
+S'Pottstown Limerick'
+p1484
+sS'PTV'
+p1485
+S'Porterville Municipal'
+p1486
+sS'PTU'
+p1487
+S'Platinum'
+p1488
+sS'PTT'
+p1489
+S'Pratt Industrial'
+p1490
+sS'PTS'
+p1491
+S'Atkinson Municipal'
+p1492
+sS'MNF'
+p1493
+S'Mountain View'
+p1494
+sS'9G8'
+p1495
+S'Ebensburg'
+p1496
+sS'0B5'
+p1497
+S'Turners Falls'
+p1498
+sS'0B4'
+p1499
+S'Hartington Municipal'
+p1500
+sS'0B7'
+p1501
+S'Warren-Sugar Bush'
+p1502
+sS'42J'
+p1503
+S'Keystone Airpark'
+p1504
+sS'0B1'
+p1505
+S'Col. Dyke '
+p1506
+sS'Z55'
+p1507
+S'Lake Louise'
+p1508
+sS'42A'
+p1509
+S'Melbourne Municipal'
+p1510
+sS'42C'
+p1511
+S'White Cloud'
+p1512
+sS'0B8'
+p1513
+S'Elizabeth '
+p1514
+sS'3T5'
+p1515
+S'Fayette Regional Air Center'
+p1516
+sS'CJX'
+p1517
+S'Crooked Creek'
+p1518
+sS'PBF'
+p1519
+S'Grider '
+p1520
+sS'SLR'
+p1521
+S'Sulphur Springs Municipal'
+p1522
+sS'3T3'
+p1523
+S'Boyceville Municipal '
+p1524
+sS'6A2'
+p1525
+S'Griffin-Spaulding County '
+p1526
+sS'6A3'
+p1527
+S'Andrews-Murphy'
+p1528
+sS'42S'
+p1529
+S'Poplar'
+p1530
+sS'6A1'
+p1531
+S'Butler Municipal'
+p1532
+sS'PBI'
+p1533
+S'Palm Beach International'
+p1534
+sS'PBH'
+p1535
+S'Price County'
+p1536
+sS'6A4'
+p1537
+g89
+sS'OUN'
+p1538
+S'University of Oklahoma Westheimer'
+p1539
+sS'MPE'
+p1540
+S'Philadelphia Municipal'
+p1541
+sS'AVX'
+p1542
+S'Catalina'
+p1543
+sS'S23'
+p1544
+S'Ione Municipal'
+p1545
+sS'MPO'
+p1546
+S'Pocono Mountains Muni'
+p1547
+sS'AVP'
+p1548
+S'Wilkes-Barre/Scranton Intl'
+p1549
+sS'AVQ'
+p1550
+S'Marana Northwest Regional'
+p1551
+sS'N35'
+p1552
+S'Punxsutawney Muni'
+p1553
+sS'AVL'
+p1554
+S'Asheville Regional'
+p1555
+sS'2V2'
+p1556
+S'Vance Brand'
+p1557
+sS'2V1'
+p1558
+S'Stevens '
+p1559
+sS'AVO'
+p1560
+S'Avon Park Municipal'
+p1561
+sS'MPR'
+p1562
+S'McPherson'
+p1563
+sS'2V6'
+p1564
+S'Yuma Municipal'
+p1565
+sS'2V5'
+p1566
+S'Wray Municipal'
+p1567
+sS'AVK'
+p1568
+S'Alva Regional'
+p1569
+sS'MPZ'
+p1570
+S'Mount Pleasant Municipal'
+p1571
+sS'AVC'
+p1572
+S'Mecklenburg-Brunswick Regional'
+p1573
+sS'TZR'
+p1574
+S'Bolton '
+p1575
+sS'SUE'
+p1576
+S'Door County Cherryland'
+p1577
+sS'SUD'
+p1578
+S'Stroud Municipal'
+p1579
+sS'S24'
+p1580
+S'Sandusky Co'
+p1581
+sS'SUA'
+p1582
+S'Witham '
+p1583
+sS'Y63'
+p1584
+S'Elbow Lake Municipal'
+p1585
+sS'SUN'
+p1586
+S'Friedman Memorial'
+p1587
+sS'AJO'
+p1588
+S'Corona Municipal'
+p1589
+sS'Y68'
+p1590
+S'Tracy Municipal'
+p1591
+sS'B16'
+p1592
+S'Whitford'
+p1593
+sS'SUT'
+p1594
+S'Brunswick County'
+p1595
+sS'SUS'
+p1596
+S'Spirit of St Louis'
+p1597
+sS'SLE'
+p1598
+S'McNary Fld'
+p1599
+sS'MOP'
+p1600
+g1571
+sS'B19'
+p1601
+S'Biddeford Municipal'
+p1602
+sS'4J1'
+p1603
+S'Brantley County'
+p1604
+sS'22M'
+p1605
+S'Pontotoc County'
+p1606
+sS'DHT'
+p1607
+S'Dalhart Municipal'
+p1608
+sS'TEL'
+p1609
+S'Perry County Municipal'
+p1610
+sS'ND66'
+p1611
+S'Washburn Municipal'
+p1612
+sS'22I'
+p1613
+S'Vinton County'
+p1614
+sS'1L9'
+p1615
+S'Parowan'
+p1616
+sS'1L7'
+p1617
+S'Escalante Municipal'
+p1618
+sS'TEB'
+p1619
+S'Teterboro'
+p1620
+sS'22B'
+p1621
+S'Mountain Meadow Airstrip'
+p1622
+sS'1L0'
+p1623
+S'St. John the Baptist Parish'
+p1624
+sS'1L1'
+p1625
+S'Lincoln Co'
+p1626
+sS'RBE'
+p1627
+S'Bassett Municipal'
+p1628
+sS'4J2'
+p1629
+S'Berrien County'
+p1630
+sS'L26'
+p1631
+S'Hesperia'
+p1632
+sS'WHP'
+p1633
+S'Whiteman'
+p1634
+sS'ELY'
+p1635
+S'Ely Arpt (Yelland )'
+p1636
+sS'7A0'
+p1637
+S'Greensboro Municipal'
+p1638
+sS'TEW'
+p1639
+S'Mason Jewett '
+p1640
+sS'1B0'
+p1641
+S'Dexter Regional'
+p1642
+sS'1B1'
+p1643
+S'Columbia Cty'
+p1644
+sS'ADT'
+p1645
+S'Atwood-Rawlins County City-County'
+p1646
+sS'ADU'
+p1647
+S'Audubon Municipal'
+p1648
+sS'I19'
+p1649
+S'Greene County'
+p1650
+sS'ADS'
+p1651
+S'Addison'
+p1652
+sS'ADQ'
+p1653
+S'Kodiak '
+p1654
+sS'DNL'
+p1655
+S'Daniel '
+p1656
+sS'DNN'
+p1657
+S'Dalton Municipal'
+p1658
+sS'I12'
+p1659
+g887
+sS'ADG'
+p1660
+S'Lenawee County'
+p1661
+sS'DNV'
+p1662
+S'Vermilion County'
+p1663
+sS'ADC'
+p1664
+S'Wadena Municipal '
+p1665
+sS'DNS'
+p1666
+S'Denison Municipal'
+p1667
+sS'ADM'
+p1668
+S'Ardmore Municipal'
+p1669
+sS'ADK'
+p1670
+S'Adak'
+p1671
+sS'ADH'
+p1672
+S'Ada Municipal'
+p1673
+sS'NRN'
+p1674
+S'Norton Municipal '
+p1675
+sS'MWC'
+p1676
+S'Lawrence J Timmerman'
+p1677
+sS'BRY'
+p1678
+S'Samuels '
+p1679
+sS'BRW'
+p1680
+S'Wiley Post Will Rogers Memorial'
+p1681
+sS'S01'
+p1682
+S'Conrad'
+p1683
+sS'S03'
+p1684
+S'Ashland Muni-Sumner Parker '
+p1685
+sS'S05'
+p1686
+S'Bandon State'
+p1687
+sS'S07'
+p1688
+S'Bend Muni'
+p1689
+sS'BRO'
+p1690
+S'Brownsville/S.Padre Island International'
+p1691
+sS'Z09'
+p1692
+S'Kasigluk'
+p1693
+sS'BRL'
+p1694
+g1066
+sS'BRD'
+p1695
+S'Brainerd-Crow Wing County Regional'
+p1696
+sS'K96'
+p1697
+S'Tuscola'
+p1698
+sS'HQZ'
+p1699
+S'Mesquite Metro'
+p1700
+sS'M34'
+p1701
+S'Kentucky Dam State Park'
+p1702
+sS'U30'
+p1703
+S'Temple Bar'
+p1704
+sS'HQU'
+p1705
+S'Thomson-McDuffie County'
+p1706
+sS'TWM'
+p1707
+S'Richard B. Helgeson'
+p1708
+sS'HQM'
+p1709
+S'Bowerman'
+p1710
+sS'O88'
+p1711
+S'Rio Vista Municipal'
+p1712
+sS'VRB'
+p1713
+S'Vero Beach Municipal'
+p1714
+sS'HQG'
+p1715
+S'Hugoton Municipal'
+p1716
+sS'MWH'
+p1717
+S'Grant County'
+p1718
+sS'RKP'
+p1719
+S'Aransas County'
+p1720
+sS'RKR'
+p1721
+S'Robert S Kerr'
+p1722
+sS'EAN'
+p1723
+S'Phifer Airfield'
+p1724
+sS'EAA'
+p1725
+S'Eagle'
+p1726
+sS'MWO'
+p1727
+S'Hook Field Municipal'
+p1728
+sS'08K'
+p1729
+S'Harvard State'
+p1730
+sS'SEA'
+p1731
+S'Seattle-Tacoma Intl'
+p1732
+sS'08M'
+p1733
+S'Carthage-Leake County'
+p1734
+sS'O85'
+p1735
+S'Benton '
+p1736
+sS'08A'
+p1737
+S'Wetumpka Municipal'
+p1738
+sS'EAR'
+p1739
+S'Kearney Municipal'
+p1740
+sS'EAU'
+p1741
+S'Chippewa Valley Regional'
+p1742
+sS'EAT'
+p1743
+S'Pangborn Memorial'
+p1744
+sS'08D'
+p1745
+S'Stanley Municipal'
+p1746
+sS'6S0'
+p1747
+S'Big Timber'
+p1748
+sS'EST'
+p1749
+S'Estherville Municipal'
+p1750
+sS'HOB'
+p1751
+S'Lea County Regional'
+p1752
+sS'HOC'
+p1753
+S'Highland County'
+p1754
+sS'HON'
+p1755
+S'Huron Regional'
+p1756
+sS'HOM'
+p1757
+S'Homer'
+p1758
+sS'3B0'
+p1759
+S'Southbridge Municipal'
+p1760
+sS'ESF'
+p1761
+S'Esler Regional'
+p1762
+sS'HOT'
+p1763
+S'Memorial '
+p1764
+sS'3B1'
+p1765
+g487
+sS'ESC'
+p1766
+S'Delta County'
+p1767
+sS'KLS'
+p1768
+S'Kelso-Longview'
+p1769
+sS'ESN'
+p1770
+S'Easton /Newnam '
+p1771
+sS'SCH'
+p1772
+S'Schenectady Cty'
+p1773
+sS'RSV'
+p1774
+S'Robinson Municipal'
+p1775
+sS'X95'
+p1776
+S'Diego Jimenez Torres'
+p1777
+sS'X96'
+p1778
+S'Cruz Bay Harbor Seaplane Base'
+p1779
+sS'15Z'
+p1780
+S'McCarthy 2'
+p1781
+sS'JMR'
+p1782
+S'Mora Municipal'
+p1783
+sS'H45'
+p1784
+S'Seminole Municipal'
+p1785
+sS'H41'
+p1786
+S'Memorial'
+p1787
+sS'15F'
+p1788
+S'Haskell Municipal'
+p1789
+sS'TRX'
+p1790
+S'Trenton Municipal'
+p1791
+sS'15J'
+p1792
+S'Cook County'
+p1793
+sS'15M'
+p1794
+S'Luka '
+p1795
+sS'RYN'
+p1796
+S'Ryan '
+p1797
+sS'PTD'
+p1798
+S'Potsdam Muni-Damon '
+p1799
+sS'EOK'
+p1800
+S'Keokuk Municipal'
+p1801
+sS'EOS'
+p1802
+S'Neosho Memorial'
+p1803
+sS'OYM'
+p1804
+S'St Marys Muni'
+p1805
+sS'4W1'
+p1806
+S'Elizabethtown Municipal'
+p1807
+sS'SCC'
+p1808
+S'Deadhorse'
+p1809
+sS'RYY'
+p1810
+S'Cobb County-McCollum '
+p1811
+sS'RYV'
+p1812
+S'Watertown Municipal'
+p1813
+sS'KLG'
+p1814
+S'Kalskag'
+p1815
+sS'O28'
+p1816
+S'Ells Field-Willits Municipal'
+p1817
+sS'O26'
+p1818
+S'Lone Pine'
+p1819
+sS'O27'
+p1820
+S'Oakdale'
+p1821
+sS'O24'
+p1822
+S'Lee Vining'
+p1823
+sS'O22'
+p1824
+S'Columbia'
+p1825
+sS'O21'
+p1826
+S'Hoopa'
+p1827
+sS'SCX'
+p1828
+S'Scott Municipal'
+p1829
+sS'VAK'
+p1830
+S'Chevak'
+p1831
+sS'LHD'
+p1832
+S'Lake Hood SPB'
+p1833
+sS'3TR'
+p1834
+S'Jerry Tyler Memorial'
+p1835
+sS'FIT'
+p1836
+S'Fitchburg Municipal'
+p1837
+sS'81B'
+p1838
+S'Oxford County Regional'
+p1839
+sS'LHV'
+p1840
+S'Wm T Piper Memorial'
+p1841
+sS'VAY'
+p1842
+S'South Jersey Reg'
+p1843
+sS'FIG'
+p1844
+S'Clearfield-Lawrence'
+p1845
+sS'LHQ'
+p1846
+S'Fairfield County'
+p1847
+sS'MWL'
+p1848
+S'Mineral Wells Municipal'
+p1849
+sS'LHZ'
+p1850
+S'Franklin County'
+p1851
+sS'LHX'
+p1852
+S'La Junta Muni'
+p1853
+sS'2K4'
+p1854
+S'Scott '
+p1855
+sS'2K5'
+p1856
+S'Telida'
+p1857
+sS'2K3'
+p1858
+S'Stanton County Municipal'
+p1859
+sS'5G9'
+p1860
+S'Toledo Suburban'
+p1861
+sS'5G8'
+p1862
+S'Pittsburgh Boquet Airpark'
+p1863
+sS'5G0'
+p1864
+S'Leroy '
+p1865
+sS'5G7'
+p1866
+S'Bluffton'
+p1867
+sS'ORT'
+p1868
+S'Northway'
+p1869
+sS'8F7'
+p1870
+S'Decatur Municipal'
+p1871
+sS'PCZ'
+p1872
+S'Waupaca Municipal'
+p1873
+sS'N99'
+p1874
+S'Brandywine'
+p1875
+sS'CMI'
+p1876
+S'University of Illinois-Willard'
+p1877
+sS'CMH'
+p1878
+S'Port Columbus Intl'
+p1879
+sS'LMT'
+p1880
+S'Klamath Falls International'
+p1881
+sS'PCW'
+p1882
+S'Carl R. Keller '
+p1883
+sS'CMA'
+p1884
+S'Camarillo'
+p1885
+sS'43A'
+p1886
+g1421
+sS'F05'
+p1887
+S'Vernon - Wilbarger County'
+p1888
+sS'PCK'
+p1889
+S'Porcupine Creek'
+p1890
+sS'F06'
+p1891
+S'Marian Airpark'
+p1892
+sS'F01'
+p1893
+S'Quanah Municipal'
+p1894
+sS'F00'
+p1895
+S'Jones '
+p1896
+sS'CMY'
+p1897
+S'Sparta/Fort McCoy'
+p1898
+sS'CMX'
+p1899
+S'Houghton County Memorial'
+p1900
+sS'2Y4'
+p1901
+S'Rockwell City Municipal'
+p1902
+sS'2Y3'
+p1903
+S'Yakutat SPB'
+p1904
+sS'5U8'
+p1905
+S'Geraldine'
+p1906
+sS'5U3'
+p1907
+S'Ennis - Big Sky'
+p1908
+sS'NH12'
+p1909
+g1235
+sS'ONT'
+p1910
+S'Ontario International'
+p1911
+sS'PR03'
+p1912
+S'Fajardo Harbor Seaplane Base'
+p1913
+sS'UIN'
+p1914
+S'Quincy Municipal-Baldwin '
+p1915
+sS'52E'
+p1916
+S'Timberon '
+p1917
+sS'52A'
+p1918
+S'Madison Municipal'
+p1919
+sS'SVA'
+p1920
+S'Savoonga'
+p1921
+sS'DSV'
+p1922
+S'Dansville Muni'
+p1923
+sS'M25'
+p1924
+S'Mayfield-Graves County'
+p1925
+sS'M27'
+p1926
+S'Waldron Municipal'
+p1927
+sS'M21'
+p1928
+S'Muhlenberg County'
+p1929
+sS'52J'
+p1930
+S'Lee County'
+p1931
+sS'M23'
+p1932
+S'James H. Easom '
+p1933
+sS'DSM'
+p1934
+S'Des Moines International'
+p1935
+sS'ORG'
+p1936
+S'Orange County'
+p1937
+sS'VNC'
+p1938
+S'Venice Municipal'
+p1939
+sS'OKS'
+p1940
+S'Garden County'
+p1941
+sS'ORH'
+p1942
+S'Worcester Regional'
+p1943
+sS'RWF'
+p1944
+S'Redwood Falls Muni'
+p1945
+sS'OKV'
+p1946
+S'Winchester Regional'
+p1947
+sS'D87'
+p1948
+S'Harbor Springs'
+p1949
+sS'RWI'
+p1950
+S'Rocky Mount Wilson'
+p1951
+sS'INW'
+p1952
+S'Winslow-Lindbergh Regional'
+p1953
+sS'RWL'
+p1954
+S'Rawlins Muni'
+p1955
+sS'6A8'
+p1956
+S'Allakaket'
+p1957
+sS'RWN'
+p1958
+S'Arens '
+p1959
+sS'INL'
+p1960
+S'Falls International'
+p1961
+sS'OKC'
+p1962
+S'Will Rogers World'
+p1963
+sS'OKB'
+p1964
+S'Oceanside Municipal'
+p1965
+sS'U34'
+p1966
+S'Green River Muni'
+p1967
+sS'INK'
+p1968
+S'Winkler County'
+p1969
+sS'IND'
+p1970
+S'Indianapolis International'
+p1971
+sS'OKK'
+p1972
+S'Kokomo Municipal'
+p1973
+sS'OKM'
+p1974
+S'Okmulgee Municipal'
+p1975
+sS'MAW'
+p1976
+S'Malden Municipal'
+p1977
+sS'GLH'
+p1978
+S'Mid Delta Regional'
+p1979
+sS'RIU'
+p1980
+S'Rancho Murieta'
+p1981
+sS'AKR'
+p1982
+S'Akron Fulton Intl.'
+p1983
+sS'0C0'
+p1984
+S'Dacy'
+p1985
+sS'AKP'
+p1986
+S'Anaktuvuk Pass'
+p1987
+sS'AKW'
+p1988
+S'Klawock'
+p1989
+sS'GLE'
+p1990
+S'Gainesville Municipal'
+p1991
+sS'0C4'
+p1992
+S'Pender Municipal'
+p1993
+sS'AKK'
+p1994
+S'Akhiok'
+p1995
+sS'CJR'
+p1996
+S'Culpeper Regional'
+p1997
+sS'AKI'
+p1998
+S'Akiak'
+p1999
+sS'AKH'
+p2000
+S'Gastonia Municipal'
+p2001
+sS'AKO'
+p2002
+S'Akron-Washington Co'
+p2003
+sS'AKN'
+p2004
+S'King Salmon'
+p2005
+sS'X16'
+p2006
+S'Vandenberg '
+p2007
+sS'AKA'
+p2008
+S'Atka'
+p2009
+sS'GLS'
+p2010
+S'Galveston-Scholes '
+p2011
+sS'DOV'
+p2012
+S'Dover Air Force Base'
+p2013
+sS'6F1'
+p2014
+S'Talihina Municipal'
+p2015
+sS'GLW'
+p2016
+S'Glasgow Municipal'
+p2017
+sS'U96'
+p2018
+S'Cal Black Memorial'
+p2019
+sS'BST'
+p2020
+S'Belfast Municipal'
+p2021
+sS'I75'
+p2022
+S'Osceola Municipal'
+p2023
+sS'2W5'
+p2024
+S'Maryland'
+p2025
+sS'2W6'
+p2026
+S'Captain Walter Francis Duke Regional '
+p2027
+sS'PNN'
+p2028
+g437
+sS'AUG'
+p2029
+S'Augusta State'
+p2030
+sS'Y51'
+p2031
+S'Viroqua Municipal'
+p2032
+sS'AUH'
+p2033
+S'Aurora Municipal'
+p2034
+sS'AUK'
+p2035
+S'Alakanuk'
+p2036
+sS'AUM'
+p2037
+S'Austin Municipal'
+p2038
+sS'AUO'
+p2039
+S'Auburn-Opelik'
+p2040
+sS'AUN'
+p2041
+S'Auburn Municipal'
+p2042
+sS'TIW'
+p2043
+S'Tacoma Narrows'
+p2044
+sS'AUS'
+p2045
+S'Austin-Bergstrom International'
+p2046
+sS'AUW'
+p2047
+S'Wausau Municipal'
+p2048
+sS'RDV'
+p2049
+S'Red Devil'
+p2050
+sS'E91'
+p2051
+S'Chinle Municipal'
+p2052
+sS'SBP'
+p2053
+S'San Luis Obispo Co-McChesney '
+p2054
+sS'L92'
+p2055
+S'Alamo Landing '
+p2056
+sS'3WO'
+p2057
+S'Shawano Municipal'
+p2058
+sS'SBU'
+p2059
+S'Blue Earth Municipal'
+p2060
+sS'MMU'
+p2061
+S'Morristown Municipal'
+p2062
+sS'SBX'
+p2063
+S'Shelby'
+p2064
+sS'MMV'
+p2065
+S'McMinnville Muni'
+p2066
+sS'T47'
+p2067
+S'Kickapoo Downtown Airpark'
+p2068
+sS'AK5'
+p2069
+S'Perryville'
+p2070
+sS'PUC'
+p2071
+S'Carbon County'
+p2072
+sS'MML'
+p2073
+S'Marshall Muni - Ryan '
+p2074
+sS'L35'
+p2075
+S'Big Bear City'
+p2076
+sS'MMI'
+p2077
+S'McMinn County'
+p2078
+sS'MMH'
+p2079
+S'Mammoth Yosemite'
+p2080
+sS'MMK'
+p2081
+S'Meriden-Markham Municipal'
+p2082
+sS'L31'
+p2083
+S'Greater St. Tammany Parish '
+p2084
+sS'E95'
+p2085
+g756
+sS'PUW'
+p2086
+S'Pullman/Moscow Regional'
+p2087
+sS'SBN'
+p2088
+S'South Bend Regional'
+p2089
+sS'SBO'
+p2090
+S'Emanuel County'
+p2091
+sS'L38'
+p2092
+S'Louisiana Regional'
+p2093
+sS'L39'
+p2094
+S'Leesville'
+p2095
+sS'1A5'
+p2096
+S'Macon County'
+p2097
+sS'1A7'
+p2098
+g591
+sS'1A6'
+p2099
+S'Middlesboro-Bell County'
+p2100
+sS'UKI'
+p2101
+S'Ukiah Municipal'
+p2102
+sS'1A3'
+p2103
+S'Martin Campbell '
+p2104
+sS'W96'
+p2105
+S'New Kent County'
+p2106
+sS'KOA'
+p2107
+S'Kona International At Keahole'
+p2108
+sS'MPJ'
+p2109
+S'Petit Jean Park'
+p2110
+sS'1A9'
+p2111
+S'Autauga County'
+p2112
+sS'ERY'
+p2113
+S'Luce County Hale'
+p2114
+sS'BAX'
+p2115
+S'Huron County Memorial'
+p2116
+sS'BAF'
+p2117
+S'Barnes Municipal'
+p2118
+sS'7F9'
+p2119
+S'Comanche County-City'
+p2120
+sS'UKF'
+p2121
+S'Wilkes County'
+p2122
+sS'7F3'
+p2123
+S'Caddo Mills Municipal'
+p2124
+sS'BAM'
+p2125
+S'Battle Mountain'
+p2126
+sS'7F6'
+p2127
+S'Clarksville-Red River County'
+p2128
+sS'7F7'
+p2129
+S'Clifton Municipal'
+p2130
+sS'MPV'
+p2131
+S'Edward F Knapp State'
+p2132
+sS'S39'
+p2133
+S'Prineville'
+p2134
+sS'VPS'
+p2135
+S'Eglin Air Force Base'
+p2136
+sS'S34'
+p2137
+S'Plains'
+p2138
+sS'S31'
+p2139
+S'Lopez Island'
+p2140
+sS'S30'
+p2141
+S'Lebanon State'
+p2142
+sS'S33'
+p2143
+S'City-County'
+p2144
+sS'14Y'
+p2145
+S'Todd Field '
+p2146
+sS'3Y3'
+p2147
+S'Winterset Madison County'
+p2148
+sS'3Y2'
+p2149
+S'George L Scott Municipal'
+p2150
+sS'MRN'
+p2151
+S'Morganton-Lenoir'
+p2152
+sS'9S5'
+p2153
+S'Three Forks'
+p2154
+sS'VPC'
+p2155
+S'Cartersville'
+p2156
+sS'THV'
+p2157
+S'York'
+p2158
+sS'K81'
+p2159
+S'Miami County'
+p2160
+sS'K82'
+p2161
+S'Smith Center Municipal'
+p2162
+sS'14M'
+p2163
+S'Hollandale Municipal'
+p2164
+sS'14J'
+p2165
+S'Carl Folsom'
+p2166
+sS'STE'
+p2167
+S'Stevens Point Municipal'
+p2168
+sS'STF'
+p2169
+S'George M Bryan '
+p2170
+sS'STC'
+p2171
+S'St Cloud Regional'
+p2172
+sS'STL'
+p2173
+S'Lambert-St Louis International'
+p2174
+sS'KNB'
+p2175
+S'Kanab Muni'
+p2176
+sS'UWL'
+p2177
+S'New Castle-Henry Co '
+p2178
+sS'STJ'
+p2179
+S'Rosecrans Memorial'
+p2180
+sS'STK'
+p2181
+S'Crosson '
+p2182
+sS'STT'
+p2183
+S'Cyril E. King'
+p2184
+sS'RDR'
+p2185
+S'Grand Forks AFB'
+p2186
+sS'STP'
+p2187
+S'St Paul Downtown Holman '
+p2188
+sS'STS'
+p2189
+S'Sonoma Co'
+p2190
+sS'STX'
+p2191
+S'Henry E. Rohlsen '
+p2192
+sS'JXN'
+p2193
+S'Jackson County Reynolds '
+p2194
+sS'23M'
+p2195
+S'Clarke County'
+p2196
+sS'23N'
+p2197
+S'Bayport Aerodrome'
+p2198
+sS'23J'
+p2199
+S'Herlong'
+p2200
+sS'I05'
+p2201
+S'Sturgis Municipal'
+p2202
+sS'SCM'
+p2203
+S'Scammon Bay'
+p2204
+sS'23R'
+p2205
+S'Devine Municipal'
+p2206
+sS'8U6'
+p2207
+S'Terry'
+p2208
+sS'FNT'
+p2209
+S'Bishop'
+p2210
+sS'FNR'
+p2211
+S'Funter Bay SPB'
+p2212
+sS'LIC'
+p2213
+S'Limon Municipal'
+p2214
+sS'8U8'
+p2215
+S'Townsend'
+p2216
+sS'UZA'
+p2217
+S'Rock Hill Municipal/Bryant '
+p2218
+sS'82C'
+p2219
+S'Mauston-New Lisbon Union'
+p2220
+sS'LIT'
+p2221
+S'Adams '
+p2222
+sS'FNB'
+p2223
+S'Brenner '
+p2224
+sS'82V'
+p2225
+S'Pine Bluffs Municipal'
+p2226
+sS'DYL'
+p2227
+S'Doylestown'
+p2228
+sS'4PH'
+p2229
+S'Polacca'
+p2230
+sS'4F4'
+p2231
+S'Gilmer-Upshur County'
+p2232
+sS'WTK'
+p2233
+S'Noatak'
+p2234
+sS'4F2'
+p2235
+S'Panola County-Sharpe '
+p2236
+sS'MLY'
+p2237
+S'Manley Hot Springs'
+p2238
+sS'HRX'
+p2239
+S'Hereford Municipal'
+p2240
+sS'TPA'
+p2241
+S'Tampa International '
+p2242
+sS'93C'
+p2243
+g309
+sS'93B'
+p2244
+S'Stonington'
+p2245
+sS'TPL'
+p2246
+S'Draughon-Miller Central Texas Regional'
+p2247
+sS'UKL'
+p2248
+S'Coffey County'
+p2249
+sS'93F'
+p2250
+S'Mignon Laird Municipal'
+p2251
+sS'HRR'
+p2252
+S'Healy River'
+p2253
+sS'HRL'
+p2254
+S'Valley International'
+p2255
+sS'93Y'
+p2256
+S'David City Municipal'
+p2257
+sS'LXT'
+p2258
+S"Lee's Summit Municipal"
+p2259
+sS'HRI'
+p2260
+S'Hermiston Muni'
+p2261
+sS'ONP'
+p2262
+S'Newport Muni'
+p2263
+sS'SYF'
+p2264
+S'Cheyenne County Municipal'
+p2265
+sS'SUW'
+p2266
+S'Richard I Bong'
+p2267
+sS'SD33'
+p2268
+S'Parkston Municipal'
+p2269
+sS'KAE'
+p2270
+S'Kake SPB'
+p2271
+sS'W11'
+p2272
+S'Menomonie Municipal - Score '
+p2273
+sS'09W'
+p2274
+S'South Capitol Street'
+p2275
+sS'RHI'
+p2276
+S'Rhinelander-Oneida County'
+p2277
+sS'09J'
+p2278
+S'Jekyll Island'
+p2279
+sS'09K'
+p2280
+S'Sargent Municipal'
+p2281
+sS'09M'
+p2282
+S'Charleston Municipal'
+p2283
+sS'09A'
+p2284
+S'Butler-Choctaw County'
+p2285
+sS'9W7'
+p2286
+S'Currituck County'
+p2287
+sS'VQQ'
+p2288
+S'Cecil '
+p2289
+sS'5K2'
+p2290
+S'Tribune Municipal'
+p2291
+sS'51D'
+p2292
+S'Edgeley Municipal '
+p2293
+sS'51Z'
+p2294
+S'Minto (New)'
+p2295
+sS'NEW'
+p2296
+S'Lakefront'
+p2297
+sS'UGN'
+p2298
+S'Waukegan Regional'
+p2299
+sS'5TE'
+p2300
+S'Tetlin'
+p2301
+sS'2H0'
+p2302
+S'Shelby County'
+p2303
+sS'2H2'
+p2304
+S'Aurora Memorial Municipal'
+p2305
+sS'Q31'
+p2306
+S'Sequoia '
+p2307
+sS'Q37'
+p2308
+S'Carrizozo Municipal'
+p2309
+sS'OJC'
+p2310
+S'Johnson County Executive'
+p2311
+sS'Q35'
+p2312
+S'Springerville Babbitt '
+p2313
+sS'Q34'
+p2314
+S'Portales Municipal'
+p2315
+sS'8G6'
+p2316
+S'Harrison County'
+p2317
+sS'8G7'
+p2318
+S'Zelienople'
+p2319
+sS'OBE'
+p2320
+S'Okeechobee County'
+p2321
+sS'SUX'
+p2322
+S'Sioux Gateway '
+p2323
+sS'8G2'
+p2324
+S'Lawrence'
+p2325
+sS'SYV'
+p2326
+S'Sylvester'
+p2327
+sS'ENA'
+p2328
+S'Kenai Municipal'
+p2329
+sS'RZL'
+p2330
+S'Jasper County'
+p2331
+sS'79S'
+p2332
+S'Fort Benton'
+p2333
+sS'2F6'
+p2334
+S'Skiatook Municipal'
+p2335
+sS'2F5'
+p2336
+S'Lamesa Municipal'
+p2337
+sS'22N'
+p2338
+S'Carbon Cty-Jake Arner Memorial'
+p2339
+sS'OXV'
+p2340
+S'Knoxville Municipal'
+p2341
+sS'2F8'
+p2342
+S'Morehouse Memorial'
+p2343
+sS'ENL'
+p2344
+S'Centralia Municipal'
+p2345
+sS'ENM'
+p2346
+S'Emmonak'
+p2347
+sS'1B9'
+p2348
+S'Mansfield Municipal'
+p2349
+sS'F18'
+p2350
+S'Cleburne Municipal'
+p2351
+sS'79D'
+p2352
+S'Philippi-Barbour County Regional'
+p2353
+sS'5T6'
+p2354
+S'Dona Ana County  At Santa Teresa'
+p2355
+sS'OXI'
+p2356
+S'Starke County'
+p2357
+sS'ENV'
+p2358
+S'Wendover'
+p2359
+sS'5T5'
+p2360
+g1001
+sS'F12'
+p2361
+g251
+sS'F10'
+p2362
+S'Henryetta Municipal'
+p2363
+sS'5T9'
+p2364
+S'Maverick County Meml Intl'
+p2365
+sS'79J'
+p2366
+S'Andalusia'
+p2367
+sS'OXB'
+p2368
+S'Ocean City'
+p2369
+sS'OXC'
+p2370
+S'Waterbury-Oxford'
+p2371
+sS'SCE'
+p2372
+S'University Park'
+p2373
+sS'CZT'
+p2374
+S'Dimmit County'
+p2375
+sS'SLC'
+p2376
+S'Salt Lake City Intl'
+p2377
+sS'CZN'
+p2378
+S'Chisana'
+p2379
+sS'P20'
+p2380
+S'Avi Suquilla'
+p2381
+sS'CZL'
+p2382
+S'Tom B David '
+p2383
+sS'CZG'
+p2384
+S'Tri-Cities '
+p2385
+sS'CZD'
+p2386
+S'Cozad Municipal'
+p2387
+sS'ISZ'
+p2388
+S'Cincinnati-Blue Ash'
+p2389
+sS'ATA'
+p2390
+S'Hall-Miller Municipal'
+p2391
+sS'5F1'
+p2392
+S'Post-Garza County Municipal'
+p2393
+sS'ATL'
+p2394
+S'William B Hartsfield-Atlanta Intl'
+p2395
+sS'ISP'
+p2396
+S'Long Island - MacArthur'
+p2397
+sS'ISW'
+p2398
+S'Alexander '
+p2399
+sS'ATK'
+p2400
+S'Atqasuk'
+p2401
+sS'ATW'
+p2402
+S'Outagamie County Regional'
+p2403
+sS'ISO'
+p2404
+S'Kinston Regional Jetport At Stallin'
+p2405
+sS'ATS'
+p2406
+S'Artesia Municipal'
+p2407
+sS'ISM'
+p2408
+S'Kissimmee Municipal'
+p2409
+sS'RDG'
+p2410
+S'Reading Muni,Gen Carl A Spaatz'
+p2411
+sS'ATY'
+p2412
+g1813
+sS'3D4'
+p2413
+S'Frankfort Dow Memorial'
+p2414
+sS'TEX'
+p2415
+S'Telluride Regional'
+p2416
+sS'SET'
+p2417
+S'St Charles County Smart '
+p2418
+sS'D98'
+p2419
+S'Romeo'
+p2420
+sS'SER'
+p2421
+S'Freeman Municipal'
+p2422
+sS'3D2'
+p2423
+S'Ephraim/Gibraltar'
+p2424
+sS'SEP'
+p2425
+S'Clark Field Municipal'
+p2426
+sS'D95'
+p2427
+S'Dupont-Lapeer'
+p2428
+sS'SEZ'
+p2429
+S'Sedona'
+p2430
+sS'JKL'
+p2431
+S'Julian Carroll'
+p2432
+sS'SEF'
+p2433
+S'Sebring  And Industrial Park'
+p2434
+sS'PVC'
+p2435
+S'Provincetown Municipal'
+p2436
+sS'PVB'
+p2437
+S'Platteville Municipal'
+p2438
+sS'PVD'
+p2439
+S'Theodore F Green State'
+p2440
+sS'JKJ'
+p2441
+S'Moorhead Municipal '
+p2442
+sS'PVF'
+p2443
+S'Placerville'
+p2444
+sS'SEM'
+p2445
+S'Craig '
+p2446
+sS'PVJ'
+p2447
+S'Pauls Valley Municipal'
+p2448
+sS'FDK'
+p2449
+S'Frederick Municipal'
+p2450
+sS'CLL'
+p2451
+S'Easterwood '
+p2452
+sS'CLM'
+p2453
+S'William R Fairchild Intl'
+p2454
+sS'FRG'
+p2455
+S'Republic'
+p2456
+sS'CLI'
+p2457
+S'Clintonville Municipal'
+p2458
+sS'0D8'
+p2459
+S'Gettysburg Municipal'
+p2460
+sS'CLD'
+p2461
+S'MC Clellan-Palomar Airport'
+p2462
+sS'CLE'
+p2463
+S'Cleveland-Hopkins Intl'
+p2464
+sS'FRH'
+p2465
+S'French Lick Municipal'
+p2466
+sS'IMM'
+p2467
+S'Immokalee'
+p2468
+sS'IML'
+p2469
+S'Imperial Municipal'
+p2470
+sS'0D1'
+p2471
+S'South Haven Municipal'
+p2472
+sS'9K2'
+p2473
+S'Kokhanok'
+p2474
+sS'IMS'
+p2475
+g1919
+sS'9K7'
+p2476
+S'Ellsworth Municipal '
+p2477
+sS'IMT'
+p2478
+S'Ford'
+p2479
+sS'9K4'
+p2480
+S'Skyhaven'
+p2481
+sS'CLT'
+p2482
+S'Charlotte/Douglas International'
+p2483
+sS'6G5'
+p2484
+S'Barnesville - Bradfield'
+p2485
+sS'3V4'
+p2486
+S'Fort Morgan Municipal'
+p2487
+sS'CLW'
+p2488
+S'Clearwater Air Park'
+p2489
+sS'CLP'
+p2490
+S'Clarks Point'
+p2491
+sS'6G1'
+p2492
+S'Titusville'
+p2493
+sS'CLS'
+p2494
+S'Chehalis-Centralia'
+p2495
+sS'62S'
+p2496
+S'Christmas Valley'
+p2497
+sS'U82'
+p2498
+S'Council Municipal'
+p2499
+sS'UUU'
+p2500
+S'Newport State'
+p2501
+sS'CNK'
+p2502
+S'Blosser Municipal'
+p2503
+sS'UUV'
+p2504
+S'Sullivan Regional'
+p2505
+sS'M11'
+p2506
+S'Copiah County'
+p2507
+sS'M13'
+p2508
+S'Poplarville-Pearl River County'
+p2509
+sS'2T1'
+p2510
+S'Muleshoe Municipal'
+p2511
+sS'M17'
+p2512
+S'Bolivar Municipal'
+p2513
+sS'62D'
+p2514
+S'Warren'
+p2515
+sS'M19'
+p2516
+S'Newport Municipal'
+p2517
+sS'M18'
+p2518
+S'Hope Municipal'
+p2519
+sS'62H'
+p2520
+S'Giddings-Lee County'
+p2521
+sS'PNS'
+p2522
+S'Pensacola Regional'
+p2523
+sS'JYR'
+p2524
+g1070
+sS'SWO'
+p2525
+S'Stillwater Regional'
+p2526
+sS'GMJ'
+p2527
+S'Grove Municipal'
+p2528
+sS'BPI'
+p2529
+S'Big Piney-Marbleton'
+p2530
+sS'Y47'
+p2531
+S'New Hudson'
+p2532
+sS'BPK'
+p2533
+S'Baxter County Regional'
+p2534
+sS'SJX'
+p2535
+S'Beaver Island'
+p2536
+sS'SWF'
+p2537
+S'Stewart'
+p2538
+sS'JYG'
+p2539
+S'St James Municipal'
+p2540
+sS'1B3'
+p2541
+S'Fair Haven'
+p2542
+sS'BPT'
+p2543
+S'Southeast Texas Regional'
+p2544
+sS'JYO'
+p2545
+S'Leesburg Executive '
+p2546
+sS'JYL'
+p2547
+S'Plantation Airpark'
+p2548
+sS'JYM'
+p2549
+S'Hillsdale Municipal'
+p2550
+sS'PAE'
+p2551
+S'Snohomish County '
+p2552
+sS'SWT'
+p2553
+S'Seward Municipal'
+p2554
+sS'SWW'
+p2555
+S'Avenger '
+p2556
+sS'I18'
+p2557
+g591
+sS'7W6'
+p2558
+S'Hyde County'
+p2559
+sS'20U'
+p2560
+S'Beach'
+p2561
+sS'20V'
+p2562
+S'McElroy Airfield'
+p2563
+sS'T53'
+p2564
+S'Robstown-Nueces County'
+p2565
+sS'T56'
+p2566
+S'Crockett-Houston County'
+p2567
+sS'GYH'
+p2568
+S'Donaldson Center'
+p2569
+sS'20A'
+p2570
+S'Robbins '
+p2571
+sS'TGC'
+p2572
+S'Gibson County'
+p2573
+sS'GYR'
+p2574
+S'Phoenix Goodyear'
+p2575
+sS'3ND0'
+p2576
+S'Northwood Municipal'
+p2577
+sS'TGI'
+p2578
+S'Tangier Island'
+p2579
+sS'20M'
+p2580
+S'Macon Municipal'
+p2581
+sS'T41'
+p2582
+S'La Porte Municipal'
+p2583
+sS'GYY'
+p2584
+S'Gary/Chicago '
+p2585
+sS'20N'
+p2586
+S'Kingston-Ulster'
+p2587
+sS'MLB'
+p2588
+S'Melbourne International '
+p2589
+sS'DHN'
+p2590
+S'Dothan '
+p2591
+sS'GON'
+p2592
+S'Groton-New London'
+p2593
+sS'MLF'
+p2594
+S'Milford Municipal'
+p2595
+sS'GOK'
+p2596
+S'Guthrie Municipal'
+p2597
+sS'A85'
+p2598
+S'Kwigillingok'
+p2599
+sS'MLJ'
+p2600
+S'Baldwin County'
+p2601
+sS'AJR'
+p2602
+S'Habersham County'
+p2603
+sS'MLI'
+p2604
+S'Quad City'
+p2605
+sS'MLL'
+p2606
+S'Marshall'
+p2607
+sS'MLS'
+p2608
+S'Frank Wiley '
+p2609
+sS'S21'
+p2610
+S'Sunriver'
+p2611
+sS'S27'
+p2612
+S'Kalispell City'
+p2613
+sS'MLT'
+p2614
+S'Millinocket Municipal'
+p2615
+sS'7A8'
+p2616
+S'Avery County/Morrison '
+p2617
+sS'7A5'
+p2618
+S'Roanoke Municipal'
+p2619
+sS'AJC'
+p2620
+S'Chignik (Anchorage Bay)'
+p2621
+sS'7A3'
+p2622
+S'Lanett Municipal'
+p2623
+sS'7A2'
+p2624
+S'Demopolis Municipal'
+p2625
+sS'AJG'
+p2626
+S'Mt Carmel Municipal'
+p2627
+sS'0V3'
+p2628
+S'Pioneer Village '
+p2629
+sS'0V2'
+p2630
+S'Harriet Alexander '
+p2631
+sS'0V4'
+p2632
+S'Brookneal/Campbell County'
+p2633
+sS'0V7'
+p2634
+S'Kayenta'
+p2635
+sS'0V6'
+p2636
+S'Mission Sioux'
+p2637
+sS'W05'
+p2638
+S'Gettysburg  & Travel Center'
+p2639
+sS'SAW'
+p2640
+S'Sawyer'
+p2641
+sS'7G0'
+p2642
+S'Ledgedale Airpark'
+p2643
+sS'TQE'
+p2644
+g1070
+sS'JHW'
+p2645
+S'Chautauqua Cty'
+p2646
+sS'OH17'
+p2647
+S'Henry County'
+p2648
+sS'TQH'
+p2649
+S'Tahlequah Municipal'
+p2650
+sS'TQK'
+p2651
+S'Scott City Municipal'
+p2652
+sS'GHW'
+p2653
+S'Glenwood Municipal '
+p2654
+sS'HSB'
+p2655
+S'Harrisburg-Raleigh'
+p2656
+sS'HSA'
+p2657
+S'Stennis International'
+p2658
+sS'MIO'
+p2659
+S'Miami Municipal'
+p2660
+sS'HSE'
+p2661
+S'Billy Mitchell'
+p2662
+sS'RIV'
+p2663
+S'March '
+p2664
+sS'RIW'
+p2665
+S'Riverton Regional'
+p2666
+sS'HSI'
+p2667
+S'Hastings Municipal'
+p2668
+sS'HSL'
+p2669
+S'Huslia'
+p2670
+sS'7G8'
+p2671
+S'Geauga County'
+p2672
+sS'HSR'
+p2673
+S'Hot Springs Municipal'
+p2674
+sS'I76'
+p2675
+S'Peru Municipal'
+p2676
+sS'HSP'
+p2677
+S'Ingalls '
+p2678
+sS'I74'
+p2679
+S'Grimes '
+p2680
+sS'HSV'
+p2681
+S'Huntsville International '
+p2682
+sS'GMU'
+p2683
+S'Greenville Downtown'
+p2684
+sS'RIF'
+p2685
+S'Richfield Muni'
+p2686
+sS'RID'
+p2687
+S'Richmond Municipal'
+p2688
+sS'RIC'
+p2689
+S'Richmond International'
+p2690
+sS'I78'
+p2691
+S'Union County'
+p2692
+sS'EQY'
+p2693
+S'Monroe'
+p2694
+sS'HAI'
+p2695
+S'Three Rivers Municipal'
+p2696
+sS'MIB'
+p2697
+S'Minot AFB'
+p2698
+sS'HAO'
+p2699
+S'Hamilton-Fairfield'
+p2700
+sS'HAB'
+p2701
+g139
+sS'8V2'
+p2702
+S'Stuart-Atkinson Municipal'
+p2703
+sS'BNW'
+p2704
+S'Boone Municipal'
+p2705
+sS'HAE'
+p2706
+S'Hannibal Municipal'
+p2707
+sS'HAF'
+p2708
+S'Half Moon Bay'
+p2709
+sS'HAY'
+p2710
+S'Haycock'
+p2711
+sS'BNO'
+p2712
+S'Burns Muni'
+p2713
+sS'BNL'
+p2714
+S'Barnwell County'
+p2715
+sS'EQA'
+p2716
+S'Captain Jack Thomas'
+p2717
+sS'KNW'
+p2718
+S'Stuyahok'
+p2719
+sS'BNA'
+p2720
+S'Nashville International'
+p2721
+sS'BNG'
+p2722
+S'Banning Municipal'
+p2723
+sS'BNF'
+p2724
+S'Baranof Warm Springs SPB'
+p2725
+sS'4G2'
+p2726
+S'Hamburg Inc.'
+p2727
+sS'LXV'
+p2728
+S'Lake County'
+p2729
+sS'4G1'
+p2730
+S'Greenville Muni'
+p2731
+sS'4G6'
+p2732
+S'Hornell Muni'
+p2733
+sS'4G7'
+p2734
+S'Fairmont Muni'
+p2735
+sS'4G5'
+p2736
+g991
+sS'VQS'
+p2737
+S'Antonio Rivera Rodriguez'
+p2738
+sS'SYI'
+p2739
+S'Bomar Field-Shelbyville Municipal'
+p2740
+sS'MEB'
+p2741
+S'Laurinburg-Maxton'
+p2742
+sS'LXY'
+p2743
+S'Mexia-Limestone County'
+p2744
+sS'SYR'
+p2745
+S'Syracuse-Hancock Intl'
+p2746
+sS'1V9'
+p2747
+S'Blake '
+p2748
+sS'1V5'
+p2749
+S'Boulder Muni'
+p2750
+sS'1V6'
+p2751
+S'Fremont County'
+p2752
+sS'LXL'
+p2753
+S'Little Falls - Morrison County'
+p2754
+sS'1V0'
+p2755
+S'Navajo State Park '
+p2756
+sS'1V2'
+p2757
+S'Grant County '
+p2758
+sS'H66'
+p2759
+S'Nowata Municipal'
+p2760
+sS'EMM'
+p2761
+S'Kemmerer Municipal'
+p2762
+sS'2IS'
+p2763
+S'Airglades'
+p2764
+sS'78D'
+p2765
+S'Caro Municipal'
+p2766
+sS'EMT'
+p2767
+S'El Monte'
+p2768
+sS'EMV'
+p2769
+S'Emporia-Greensville Regional'
+p2770
+sS'EMP'
+p2771
+S'Emporia Municipal'
+p2772
+sS'GHM'
+p2773
+g1195
+sS'H88'
+p2774
+g1070
+sS'W04'
+p2775
+S'Ocean Shores Municipal'
+p2776
+sS'LDJ'
+p2777
+S'Linden '
+p2778
+sS'AL08'
+p2779
+S'Vaiden '
+p2780
+sS'FZY'
+p2781
+S'Oswego Cty'
+p2782
+sS'LDM'
+p2783
+S'Mason County'
+p2784
+sS'MIT'
+p2785
+S'Shafter-Minter '
+p2786
+sS'FOT'
+p2787
+S'Rohnerville'
+p2788
+sS'9V5'
+p2789
+S'Modisett '
+p2790
+sS'9V6'
+p2791
+S'Martin Municipal'
+p2792
+sS'9V9'
+p2793
+S'Chamberlain Municipal'
+p2794
+sS'YKM'
+p2795
+S'Yakima Air Terminal'
+p2796
+sS'LJF'
+p2797
+S'Litchfield Municipal'
+p2798
+sS'FOD'
+p2799
+S'Fort Dodge Municipal'
+p2800
+sS'FOE'
+p2801
+S'Forbes '
+p2802
+sS'FOA'
+p2803
+S'Flora'
+p2804
+sS'83D'
+p2805
+S'Mackinac County'
+p2806
+sS'VGT'
+p2807
+S'North Las Vegas'
+p2808
+sS'U59'
+p2809
+S'Driggs-Reed Memorial'
+p2810
+sS'FOK'
+p2811
+S'Francis Gabreski'
+p2812
+sS'WWR'
+p2813
+S'West Woodward'
+p2814
+sS'2I5'
+p2815
+S'Chanute'
+p2816
+sS'2I0'
+p2817
+S'Madisonville Municipal'
+p2818
+sS'Q21'
+p2819
+S'Brownsville'
+p2820
+sS'Q24'
+p2821
+S'Levelland Municipal'
+p2822
+sS'Q25'
+p2823
+S'Dinsmore'
+p2824
+sS'Q26'
+p2825
+S'Terry County'
+p2826
+sS'SAA'
+p2827
+S'Shively '
+p2828
+sS'COQ'
+p2829
+S'Cloquet-Carlton County'
+p2830
+sS'ILG'
+p2831
+S'New Castle County '
+p2832
+sS'2G2'
+p2833
+S'Jefferson County Airpark'
+p2834
+sS'2G3'
+p2835
+S'Connellsville'
+p2836
+sS'2G4'
+p2837
+S'Garrett County'
+p2838
+sS'COT'
+p2839
+S'Cotulla-Lasalle County'
+p2840
+sS'PEZ'
+p2841
+S'Pleasanton Municipal'
+p2842
+sS'2G9'
+p2843
+S'Somerset County'
+p2844
+sS'FSK'
+p2845
+S'Fort Scott Municipal'
+p2846
+sS'TOI'
+p2847
+S'Troy Municipal'
+p2848
+sS'FSM'
+p2849
+S'Fort Smith Regional'
+p2850
+sS'FSO'
+p2851
+S'Franklin County State'
+p2852
+sS'PEO'
+p2853
+S'Penn Yan'
+p2854
+sS'3GM'
+p2855
+S'Grand Haven Memorial Airpark'
+p2856
+sS'COD'
+p2857
+S'Yellowstone Regional'
+p2858
+sS'FSW'
+p2859
+S'Fort Madison Municipal'
+p2860
+sS'COI'
+p2861
+S'Merritt Island'
+p2862
+sS'TWF'
+p2863
+S'Joslin Field - Magic Valley'
+p2864
+sS'U52'
+p2865
+S'Beaver Municipal'
+p2866
+sS'COM'
+p2867
+S'Coleman Municipal'
+p2868
+sS'PEA'
+p2869
+S'Pella Municipal'
+p2870
+sS'5S8'
+p2871
+S'St. Michael'
+p2872
+sS'63S'
+p2873
+S'Colville Municipal'
+p2874
+sS'MCO'
+p2875
+S'Orlando International'
+p2876
+sS'63A'
+p2877
+S'Lloyd R. Roundtree Seaplane Facility'
+p2878
+sS'63C'
+p2879
+S'Adams County Legion '
+p2880
+sS'P32'
+p2881
+S'H.A. Clark Memorial '
+p2882
+sS'P33'
+p2883
+S'Cochise County'
+p2884
+sS'PRX'
+p2885
+S'Cox '
+p2886
+sS'MCN'
+p2887
+S'Middle Georgia Regional'
+p2888
+sS'50J'
+p2889
+S'Berkeley County'
+p2890
+sS'50K'
+p2891
+S'Pawnee City Municipal'
+p2892
+sS'50I'
+p2893
+S'Kentland Municipal'
+p2894
+sS'WAY'
+p2895
+S'Greene Cty'
+p2896
+sS'SAR'
+p2897
+S'Sparta Community-Hunter '
+p2898
+sS'50R'
+p2899
+S'Lockhart Municipal'
+p2900
+sS'RNM'
+p2901
+S'Ramona'
+p2902
+sS'6V6'
+p2903
+S'Hopkins '
+p2904
+sS'3G3'
+p2905
+S'Wadsworth Municipal'
+p2906
+sS'6V4'
+p2907
+S'Wall Municipal'
+p2908
+sS'6V3'
+p2909
+S'Tazewell County'
+p2910
+sS'3G4'
+p2911
+S'Ashland County'
+p2912
+sS'3G7'
+p2913
+S'Williamson/Sodus'
+p2914
+sS'6V0'
+p2915
+S'Edgemont Municipal'
+p2916
+sS'OEO'
+p2917
+S'L. O. Simenstad Municipal'
+p2918
+sS'9D9'
+p2919
+g2668
+sS'9D7'
+p2920
+S'Cando Municipal'
+p2921
+sS'RUQ'
+p2922
+S'Rowan County'
+p2923
+sS'9D2'
+p2924
+S'Harding County'
+p2925
+sS'9D0'
+p2926
+S'Highmore Municipal'
+p2927
+sS'9D1'
+p2928
+S'Gregory Municipal'
+p2929
+sS'MKG'
+p2930
+S'Muskegon County'
+p2931
+sS'3I2'
+p2932
+g2784
+sS'MKE'
+p2933
+S'General Mitchell International'
+p2934
+sS'0E8'
+p2935
+S'Crownpoint'
+p2936
+sS'GNT'
+p2937
+S'Grants-Milan Municipal'
+p2938
+sS'DIK'
+p2939
+S'Dickinson Municipal'
+p2940
+sS'MKO'
+p2941
+S'Davis '
+p2942
+sS'6D8'
+p2943
+S'Barnes County Municipal'
+p2944
+sS'AIV'
+p2945
+S'George Downer '
+p2946
+sS'0E0'
+p2947
+S'Moriarty'
+p2948
+sS'MKJ'
+p2949
+S'Mountain Empire'
+p2950
+sS'GNB'
+p2951
+S'Granby-Grand County'
+p2952
+sS'MKV'
+p2953
+S'Marksville Municipal'
+p2954
+sS'AIO'
+p2955
+S'Atlantic Municipal'
+p2956
+sS'C18'
+p2957
+S'Frankfort'
+p2958
+sS'GNF'
+p2959
+S'Grenada Municipal'
+p2960
+sS'GNG'
+p2961
+S'Gooding Municipal'
+p2962
+sS'AIK'
+p2963
+S'Aiken Municipal'
+p2964
+sS'LWC'
+p2965
+S'Lawrence Municipal'
+p2966
+sS'Y27'
+p2967
+S'Standing Rock'
+p2968
+sS'AID'
+p2969
+S'Anderson Municipal'
+p2970
+sS'AIG'
+p2971
+S'Langlade County'
+p2972
+sS'C17'
+p2973
+S'Marion'
+p2974
+sS'C15'
+p2975
+S'Pekin Municipal'
+p2976
+sS'OH21'
+p2977
+S'Huron County'
+p2978
+sS'WWD'
+p2979
+S'Cape May Cty '
+p2980
+sS'X07'
+p2981
+S'Lake Wales Municipal'
+p2982
+sS'SAV'
+p2983
+S'Savannah International'
+p2984
+sS'U70'
+p2985
+S'Cascade'
+p2986
+sS'U77'
+p2987
+S'Spanish Fork-Springville'
+p2988
+sS'U76'
+p2989
+S'Mountain Home Municipal'
+p2990
+sS'MO85'
+p2991
+S'Lawrence Smith Memorial'
+p2992
+sS'CLK'
+p2993
+g855
+sS'M05'
+p2994
+S'Caruthersville Memorial'
+p2995
+sS'M02'
+p2996
+S'Dickson Municipal'
+p2997
+sS'JRA'
+p2998
+S'Port Authority-W 30th St Midtown Heliport'
+p2999
+sS'L06'
+p3000
+S'Furnace Creek'
+p3001
+sS'C65'
+p3002
+g1235
+sS'UUO'
+p3003
+S'Willow'
+p3004
+sS'M08'
+p3005
+S'William L. Whitehurst '
+p3006
+sS'M09'
+p3007
+S'Piedmont Municipal'
+p3008
+sS'JAU'
+p3009
+S'Campbell County'
+p3010
+sS'IRS'
+p3011
+S'Kirsch Municipal'
+p3012
+sS'JAS'
+p3013
+S'Jasper County -Bell '
+p3014
+sS'UTS'
+p3015
+S'Huntsville Municipal'
+p3016
+sS'IRK'
+p3017
+S'Kirksville Regional'
+p3018
+sS'Y66'
+p3019
+S'Drummond Island'
+p3020
+sS'XVG'
+p3021
+S'Longville Municipal'
+p3022
+sS'3R2'
+p3023
+S'Le Gros Memorial'
+p3024
+sS'PWT'
+p3025
+S'Bremerton National'
+p3026
+sS'VER'
+p3027
+S'Jesse Viertel Memorial'
+p3028
+sS'SDP'
+p3029
+S'Sand Point Municipal'
+p3030
+sS'T65'
+p3031
+S'Mid Valley'
+p3032
+sS'7V1'
+p3033
+S'Buena Vista Muni'
+p3034
+sS'7V7'
+p3035
+S'Red Cloud Municipal'
+p3036
+sS'O70'
+p3037
+S'Westover Field Amador County'
+p3038
+sS'PWG'
+p3039
+S'McGregor Exectuive '
+p3040
+sS'PWD'
+p3041
+S'Sher-Wood'
+p3042
+sS'3R1'
+p3043
+S'Bay City Municipal'
+p3044
+sS'PWC'
+p3045
+S'Pine River Regional'
+p3046
+sS'PWA'
+p3047
+S'Wiley Post'
+p3048
+sS'SDL'
+p3049
+S'Scottsdale'
+p3050
+sS'MRH'
+p3051
+S'Michael J. Smith'
+p3052
+sS'PWM'
+p3053
+S'Portland International Jetport'
+p3054
+sS'PWK'
+p3055
+S'Palwaukee'
+p3056
+sS'CHU'
+p3057
+S'Houston County'
+p3058
+sS'W41'
+p3059
+S'Crisfield Municipal'
+p3060
+sS'MRJ'
+p3061
+S'Iowa County'
+p3062
+sS'1G6'
+p3063
+S'Michael '
+p3064
+sS'1G5'
+p3065
+S'Freedom '
+p3066
+sS'BOS'
+p3067
+S'Gen Edw L Logan Intl'
+p3068
+sS'1G3'
+p3069
+S'Kent State University'
+p3070
+sS'COS'
+p3071
+S'City of Colorado Springs Muni'
+p3072
+sS'HBC'
+p3073
+S'Mohall Municipal'
+p3074
+sS'1G0'
+p3075
+S'Wood County'
+p3076
+sS'BOI'
+p3077
+S'Boise Air Terminal'
+p3078
+sS'KQA'
+p3079
+S'Akutan SPB'
+p3080
+sS'BOK'
+p3081
+S'Brookings'
+p3082
+sS'S52'
+p3083
+S'Methow Valley State'
+p3084
+sS'EPH'
+p3085
+S'Ephrata Muni'
+p3086
+sS'HBZ'
+p3087
+S'Heber Springs Municipal'
+p3088
+sS'COU'
+p3089
+S'Columbia Regional'
+p3090
+sS'HBV'
+p3091
+S'Jim Hogg County'
+p3092
+sS'S59'
+p3093
+S'Libby'
+p3094
+sS'FSE'
+p3095
+S'Fosston Municipal'
+p3096
+sS'RKD'
+p3097
+S'Knox County Regional'
+p3098
+sS'VVV'
+p3099
+S'Ortonville Municipal'
+p3100
+sS'SXL'
+p3101
+S'Summersville'
+p3102
+sS'SXP'
+p3103
+S'Sheldon Point'
+p3104
+sS'SXQ'
+p3105
+S'Soldotna'
+p3106
+sS'LYO'
+p3107
+S'Lyons-Rice County Municipal'
+p3108
+sS'LYH'
+p3109
+S'Lynchburg Municipal-Preston Glenn '
+p3110
+sS'SCD'
+p3111
+S'Merkel Field Sylacauga Municipal '
+p3112
+sS'JVY'
+p3113
+g893
+sS'ILM'
+p3114
+S'Wilmington International'
+p3115
+sS'SVH'
+p3116
+S'Statesville Municipal'
+p3117
+sS'BQN'
+p3118
+S'Rafael Hernandez'
+p3119
+sS'SVE'
+p3120
+S'Susanville Municipal'
+p3121
+sS'BQK'
+p3122
+S'Glynco Jetport'
+p3123
+sS'PEQ'
+p3124
+S'Pecos Municipal'
+p3125
+sS'JVL'
+p3126
+S'Rock County'
+p3127
+sS'ILI'
+p3128
+S'Iliamna'
+p3129
+sS'SVS'
+p3130
+S'Stevens Village'
+p3131
+sS'WRG'
+p3132
+S'Wrangell'
+p3133
+sS'21F'
+p3134
+S'Jacksboro Municipal'
+p3135
+sS'21D'
+p3136
+S'Lake Elmo'
+p3137
+sS'I67'
+p3138
+S'Cincinnati West'
+p3139
+sS'I63'
+p3140
+S'Mt. Sterling Municipal'
+p3141
+sS'COE'
+p3142
+S"Coeur D'Alene Air Terminal"
+p3143
+sS'I68'
+p3144
+S'Lebanon-Warren County'
+p3145
+sS'GXY'
+p3146
+S'Greeley-Weld County'
+p3147
+sS'FSU'
+p3148
+S'Fort Sumner Municipal'
+p3149
+sS'FLX'
+p3150
+S'Fallon Municipal'
+p3151
+sS'84R'
+p3152
+g1034
+sS'FLP'
+p3153
+S'Marion County Regional'
+p3154
+sS'VDZ'
+p3155
+S'Valdez'
+p3156
+sS'FLT'
+p3157
+S'Flat'
+p3158
+sS'84D'
+p3159
+S'Cheyenne Eagle Butte'
+p3160
+sS'FLL'
+p3161
+S"Fort Lauderdale-Hollywood Int'l"
+p3162
+sS'FLO'
+p3163
+S'Florence Regional'
+p3164
+sS'LKV'
+p3165
+g2729
+sS'LKU'
+p3166
+S'Louisa County / Freeman '
+p3167
+sS'84K'
+p3168
+S'Meyers Chuck SPB'
+p3169
+sS'FLD'
+p3170
+S'Fond Du Lac County'
+p3171
+sS'FLG'
+p3172
+S'Flagstaff Pulliam'
+p3173
+sS'1U7'
+p3174
+S'Bear Lake County'
+p3175
+sS'SFO'
+p3176
+S'San Francisco International'
+p3177
+sS'KLL'
+p3178
+S'Levelock'
+p3179
+sS'PPC'
+p3180
+S'Prospect Creek'
+p3181
+sS'WVL'
+p3182
+S'Waterville-Robert Lafleur'
+p3183
+sS'H79'
+p3184
+S'Eldon Model Airpark'
+p3185
+sS'CON'
+p3186
+S'Concord Municipal'
+p3187
+sS'0G3'
+p3188
+S'Tecumseh Municipal'
+p3189
+sS'TRI'
+p3190
+S'Tri-Cities Regional'
+p3191
+sS'TRK'
+p3192
+S'Truckee-Tahoe'
+p3193
+sS'TRM'
+p3194
+S'Desert Resorts Regional'
+p3195
+sS'IPT'
+p3196
+S'Williamsport-Lycoming Cty'
+p3197
+sS'DTN'
+p3198
+S'Shreveport Downtown'
+p3199
+sS'PBV'
+p3200
+S'St. George'
+p3201
+sS'91F'
+p3202
+S'Arrowhead'
+p3203
+sS'91C'
+p3204
+S'Sauk - Prairie'
+p3205
+sS'4R9'
+p3206
+S'Dauphin Island'
+p3207
+sS'SFF'
+p3208
+S'Felts '
+p3209
+sS'H92'
+p3210
+S'Hominy'
+p3211
+sS'H96'
+p3212
+S'Benton Municipal'
+p3213
+sS'H97'
+p3214
+S'Pawnee Municipal'
+p3215
+sS'4R1'
+p3216
+S'I H Bass Jr Memorial'
+p3217
+sS'4R3'
+p3218
+S'Jackson Municipal'
+p3219
+sS'4R5'
+p3220
+S'Madeline Island'
+p3221
+sS'4R4'
+p3222
+S'Fairhope Municipal'
+p3223
+sS'4R7'
+p3224
+g1286
+sS'OLE'
+p3225
+S'Olean Muni'
+p3226
+sS'FSD'
+p3227
+S'Joe Foss '
+p3228
+sS'HTO'
+p3229
+S'East Hampton'
+p3230
+sS'KCL'
+p3231
+S'Chignik Lagoon'
+p3232
+sS'MKC'
+p3233
+S'Downtown'
+p3234
+sS'HTL'
+p3235
+S'Roscommon County'
+p3236
+sS'HTH'
+p3237
+S'Hawthorne Municipal'
+p3238
+sS'HTW'
+p3239
+S'Lawrence County Airpark,Inc'
+p3240
+sS'HOU'
+p3241
+S'William P Hobby'
+p3242
+sS'HTS'
+p3243
+S'Tri-State/Walker-Long '
+p3244
+sS'S66'
+p3245
+S'Homedale Municipal'
+p3246
+sS'9U0'
+p3247
+S'Turner'
+p3248
+sS'9U3'
+p3249
+S'Austin'
+p3250
+sS'9U4'
+p3251
+S'Dixon'
+p3252
+sS'ZUN'
+p3253
+S'Black Rock'
+p3254
+sS'ODX'
+p3255
+S'Evelyn Sharp '
+p3256
+sS'5D3'
+p3257
+S'Owosso Community'
+p3258
+sS'8Y2'
+p3259
+S'Buffalo Municipal'
+p3260
+sS'RRL'
+p3261
+S'Merrill Municipal'
+p3262
+sS'F22'
+p3263
+g485
+sS'MKA'
+p3264
+S'Miller Municipal'
+p3265
+sS'IBM'
+p3266
+S'Robert E. Arraj '
+p3267
+sS'Q14'
+p3268
+S'San Juan Pueblo'
+p3269
+sS'Q17'
+p3270
+S'Boonville'
+p3271
+sS'F91'
+p3272
+S'Thomas P Stafford'
+p3273
+sS'ODO'
+p3274
+S'Odessa-Schlemeyer '
+p3275
+sS'75J'
+p3276
+S'Turner County'
+p3277
+sS'RRT'
+p3278
+S'Warroad Intl Swede Carlson '
+p3279
+sS'UES'
+p3280
+S'Waukesha County'
+p3281
+sS'2D5'
+p3282
+S'Oakes Municipal'
+p3283
+sS'ELK'
+p3284
+S'Elk City Municipal'
+p3285
+sS'ELI'
+p3286
+S'Elim'
+p3287
+sS'2D1'
+p3288
+S'Barber'
+p3289
+sS'ELO'
+p3290
+S'Ely Municipal'
+p3291
+sS'ELM'
+p3292
+S'Elmira/Corning Regional'
+p3293
+sS'ELA'
+p3294
+S'Eagle Lake Municipal'
+p3295
+sS'ELD'
+p3296
+S'South Arkansas Regional At Goodwin '
+p3297
+sS'5R4'
+p3298
+S'Foley Municipal'
+p3299
+sS'5R5'
+p3300
+S'Wharton Municipal'
+p3301
+sS'8K8'
+p3302
+S'Cimarron Municipal'
+p3303
+sS'8K9'
+p3304
+S'Murphys Pullout SPB'
+p3305
+sS'5R3'
+p3306
+S'Rusty Allen '
+p3307
+sS'RDM'
+p3308
+S'Roberts '
+p3309
+sS'ELP'
+p3310
+S'El Paso International'
+p3311
+sS'5R8'
+p3312
+S'De Quincy Industrial Airpark'
+p3313
+sS'RDK'
+p3314
+S'Red Oak Municipal'
+p3315
+sS'FBR'
+p3316
+S'Fort Bridger'
+p3317
+sS'LEB'
+p3318
+g449
+sS'LEE'
+p3319
+S'Leesburg Regional'
+p3320
+sS'OZA'
+p3321
+S'Ozona Municipal'
+p3322
+sS'FBY'
+p3323
+S'Fairbury Municipal'
+p3324
+sS'LEM'
+p3325
+S'Lemmon Municipal'
+p3326
+sS'OZW'
+p3327
+S'Livingston County'
+p3328
+sS'WRL'
+p3329
+S'Worland Muni'
+p3330
+sS'LEW'
+p3331
+S'Auburn-Lewiston Municipal'
+p3332
+sS'LEX'
+p3333
+S'Blue Grass '
+p3334
+sS'N04'
+p3335
+S'Griswold'
+p3336
+sS'P45'
+p3337
+S'Mount Pleasant-Scottdale'
+p3338
+sS'FBL'
+p3339
+S'Faribault Municipal'
+p3340
+sS'USE'
+p3341
+S'Fulton County'
+p3342
+sS'AZO'
+p3343
+S'Kalamazoo County'
+p3344
+sS'AZC'
+p3345
+S'Colorado City Municipal'
+p3346
+sS'AZE'
+p3347
+S'Hazelhurst'
+p3348
+sS'KSM'
+p3349
+S"St. Mary's"
+p3350
+sS'S70'
+p3351
+S'Othello Muni'
+p3352
+sS'MCZ'
+p3353
+S'Martin County'
+p3354
+sS'SGY'
+p3355
+S'Skagway'
+p3356
+sS'48K'
+p3357
+S'Ness City Municipal'
+p3358
+sS'48I'
+p3359
+S'Braxton County'
+p3360
+sS'3F7'
+p3361
+S'Jones Memorial'
+p3362
+sS'3F4'
+p3363
+S'Vivian'
+p3364
+sS'48D'
+p3365
+S'Clare Municipal'
+p3366
+sS'SGU'
+p3367
+S'St George Muni'
+p3368
+sS'3F3'
+p3369
+S'De Soto Parish'
+p3370
+sS'48A'
+p3371
+S'Cochran'
+p3372
+sS'S60'
+p3373
+S'Kenmore Air Harbor Inc'
+p3374
+sS'SGH'
+p3375
+S'Springfield-Beckley Municipal'
+p3376
+sS'SGJ'
+p3377
+S'St. Augustine'
+p3378
+sS'48V'
+p3379
+S'Tri-County'
+p3380
+sS'48S'
+p3381
+S'Harlem'
+p3382
+sS'PXE'
+p3383
+S'Perry-Houston Couty'
+p3384
+sS'HHF'
+p3385
+S'Hemphill County'
+p3386
+sS'UVA'
+p3387
+S'Garner '
+p3388
+sS'CNW'
+p3389
+S'TSTC-Waco'
+p3390
+sS'CNU'
+p3391
+S'Chanute Martin Johnson'
+p3392
+sS'VSF'
+p3393
+S'Springfield State/Hartness'
+p3394
+sS'CNP'
+p3395
+S'Billy G Ray '
+p3396
+sS'ICL'
+p3397
+S'Schenck '
+p3398
+sS'Z17'
+p3399
+S'Ophir'
+p3400
+sS'3FU'
+p3401
+S'Faulkton Municipal'
+p3402
+sS'Z13'
+p3403
+S'Akiachak'
+p3404
+sS'CNY'
+p3405
+S'Canyonlands '
+p3406
+sS'C09'
+p3407
+g1108
+sS'3FM'
+p3408
+S'Fremont Municipal'
+p3409
+sS'CNC'
+p3410
+S'Chariton Municipal'
+p3411
+sS'9I3'
+p3412
+S'West Liberty'
+p3413
+sS'FPR'
+p3414
+S'St. Lucie County International'
+p3415
+sS'C00'
+p3416
+S'Mercer County'
+p3417
+sS'CNO'
+p3418
+S'Chino'
+p3419
+sS'MKK'
+p3420
+S'Molokai'
+p3421
+sS'CNM'
+p3422
+S'Cavern City Air Terminal'
+p3423
+sS'C05'
+p3424
+S'Chenega Bay'
+p3425
+sS'CNH'
+p3426
+S'Claremont Municipal'
+p3427
+sS'ICT'
+p3428
+S'Wichita Mid-Continent'
+p3429
+sS'U68'
+p3430
+S'North Big Horn County'
+p3431
+sS'U69'
+p3432
+S'Duchesne Municipal'
+p3433
+sS'HMZ'
+p3434
+S'Bedford County'
+p3435
+sS'DXX'
+p3436
+S'Madison-Lac Qui Parle County '
+p3437
+sS'DXR'
+p3438
+S'Danbury Municipal'
+p3439
+sS'PFN'
+p3440
+S'Panama City-Bay County International'
+p3441
+sS'60F'
+p3442
+S'Seymour Municipal'
+p3443
+sS'MCW'
+p3444
+S'Mason City Municipal'
+p3445
+sS'2R9'
+p3446
+S'Karnes County'
+p3447
+sS'DXE'
+p3448
+S'Dexter Municipal'
+p3449
+sS'2R4'
+p3450
+S'Peter Prince '
+p3451
+sS'60J'
+p3452
+S'Ocean Isle'
+p3453
+sS'SIV'
+p3454
+S'Sullivan County'
+p3455
+sS'SIT'
+p3456
+S'Sitka'
+p3457
+sS'SIY'
+p3458
+S'Siskiyou County'
+p3459
+sS'T72'
+p3460
+S'Hearne Municipal'
+p3461
+sS'T71'
+p3462
+S'Cuero Municipal'
+p3463
+sS'SIG'
+p3464
+S'Fernando Luis Ribas Dominicci'
+p3465
+sS'JWN'
+p3466
+S'John C. Tune'
+p3467
+sS'SIK'
+p3468
+S'Sikeston Memorial Municipal'
+p3469
+sS'T78'
+p3470
+S'Liberty Municipal'
+p3471
+sS'PPO'
+p3472
+g2583
+sS'JWG'
+p3473
+S'Watonga'
+p3474
+sS'U05'
+p3475
+S'Riddick '
+p3476
+sS'NVD'
+p3477
+S'Nevada Municipal'
+p3478
+sS'U02'
+p3479
+S'McCarley'
+p3480
+sS'TAZ'
+p3481
+S'Taylorville Municipal'
+p3482
+sS'TAD'
+p3483
+S'Perry Stokes'
+p3484
+sS'0F2'
+p3485
+S'Bowie Municipal'
+p3486
+sS'0F4'
+p3487
+S'Loup City Municipal'
+p3488
+sS'0F7'
+p3489
+S'Fountainhead Lodge Airpark'
+p3490
+sS'0F9'
+p3491
+S'Tishomingo Airpark'
+p3492
+sS'0F8'
+p3493
+S'William R Pogue Municipal'
+p3494
+sS'TAN'
+p3495
+S'Taunton Municipal'
+p3496
+sS'1F9'
+p3497
+S'Bridgeport Municipal'
+p3498
+sS'U55'
+p3499
+S'Panguitch Municipal'
+p3500
+sS'1F4'
+p3501
+S'Madill Municipal'
+p3502
+sS'1F0'
+p3503
+S'Downtown Ardmore'
+p3504
+sS'1F1'
+p3505
+S'Lake Murray State Park'
+p3506
+sS'GIF'
+p3507
+S'Winter Havens Gilbert'
+p3508
+sS'S47'
+p3509
+S'Tillamook'
+p3510
+sS'S40'
+p3511
+S'Prosser'
+p3512
+sS'MJQ'
+p3513
+g3219
+sS'S43'
+p3514
+S'Harvey '
+p3515
+sS'MJX'
+p3516
+S'Robert J. Miller Airpark'
+p3517
+sS'SAF'
+p3518
+S'Santa Fe Municipal'
+p3519
+sS'T97'
+p3520
+S'Calhoun County'
+p3521
+sS'2R0'
+p3522
+S'Waynesboro Municipal'
+p3523
+sS'AHH'
+p3524
+S'Amery Municipal'
+p3525
+sS'AHN'
+p3526
+S'Athens Municipal'
+p3527
+sS'AHP'
+p3528
+S'Port Alexander SPB'
+p3529
+sS'3Z9'
+p3530
+S'Haines SPB'
+p3531
+sS'GUC'
+p3532
+S'Gunnison County'
+p3533
+sS'TSO'
+p3534
+S'Carroll County-Tolson'
+p3535
+sS'MLE'
+p3536
+S'Millard'
+p3537
+sS'M95'
+p3538
+S'Richard Arthur '
+p3539
+sS'GCC'
+p3540
+S'Gillette-Campbell County'
+p3541
+sS'GUM'
+p3542
+S'Guam International'
+p3543
+sS'RUG'
+p3544
+S'Rugby Municipal'
+p3545
+sS'GUP'
+p3546
+S'Gallup Municipal'
+p3547
+sS'GUY'
+p3548
+S'Guymon Municipal'
+p3549
+sS'RUE'
+p3550
+S'Russellville Municipal'
+p3551
+sS'TSP'
+p3552
+S'Tehachapi Municipal'
+p3553
+sS'X51'
+p3554
+S'Homestead General Aviation'
+p3555
+sS'HUF'
+p3556
+S'Terre Haute International-Hulman '
+p3557
+sS'HUL'
+p3558
+S'Houlton International'
+p3559
+sS'HUM'
+p3560
+S'Houma-Terrebonne'
+p3561
+sS'HUT'
+p3562
+S'Hutchinson Municipal'
+p3563
+sS'PLD'
+p3564
+g1120
+sS'HUS'
+p3565
+S'Hughes'
+p3566
+sS'I50'
+p3567
+S'Stanton'
+p3568
+sS'I57'
+p3569
+S'Pike County'
+p3570
+sS'WA10'
+p3571
+S'Grove '
+p3572
+sS'FST'
+p3573
+S'Fort Stockton - Pecos County'
+p3574
+sS'GCM'
+p3575
+S'Claremore Regional'
+p3576
+sS'BLV'
+p3577
+S'Scott AFB/MidAmerica '
+p3578
+sS'PPQ'
+p3579
+S'Pittsfield Penstone Municipal'
+p3580
+sS'BLM'
+p3581
+S'Allaire Arpt'
+p3582
+sS'KPB'
+p3583
+S'Point Baker SPB'
+p3584
+sS'BLI'
+p3585
+S'Bellingham Intl'
+p3586
+sS'BLH'
+p3587
+S'Blythe'
+p3588
+sS'HCD'
+p3589
+g3563
+sS'57B'
+p3590
+S'Islesboro'
+p3591
+sS'KPH'
+p3592
+S'Pauloff Harbor SPB'
+p3593
+sS'BLF'
+p3594
+S'Mercer Cty'
+p3595
+sS'HCO'
+p3596
+S'Hallock Municipal'
+p3597
+sS'4A4'
+p3598
+S'Cornelius-Moore '
+p3599
+sS'4A5'
+p3600
+S'Marshall-Searcy County'
+p3601
+sS'4A6'
+p3602
+S'Scottsboro Municipal'
+p3603
+sS'4A7'
+p3604
+S'Clayton County'
+p3605
+sS'4A2'
+p3606
+S'Atmautluak'
+p3607
+sS'LZU'
+p3608
+S'Gwinnett County '
+p3609
+sS'19P'
+p3610
+S'Port Protection SPB'
+p3611
+sS'19M'
+p3612
+S'C A Moore'
+p3613
+sS'19N'
+p3614
+S'Camden'
+p3615
+sS'RUT'
+p3616
+S'Rutland State'
+p3617
+sS'HZR'
+p3618
+S'False River Air Park'
+p3619
+sS'19A'
+p3620
+g591
+sS'EKO'
+p3621
+S'Elko Regional'
+p3622
+sS'EKN'
+p3623
+S'Elkins-Randolph Co-Jennings Randolph'
+p3624
+sS'EKM'
+p3625
+S'Elkhart Municipal'
+p3626
+sS'Z08'
+p3627
+S'Ofu'
+p3628
+sS'W66'
+p3629
+S'Warrenton-Fauquier'
+p3630
+sS'EKA'
+p3631
+S'Murray '
+p3632
+sS'5CD'
+p3633
+S'Chandalar Shelf'
+p3634
+sS'W22'
+p3635
+S'Upshur County Regional'
+p3636
+sS'EKY'
+p3637
+S'Bessemer Municipal'
+p3638
+sS'4S9'
+p3639
+S'Portland-Mulino'
+p3640
+sS'3I7'
+p3641
+S'Phillipsburg'
+p3642
+sS'4S2'
+p3643
+S'Hood River'
+p3644
+sS'4S3'
+p3645
+S'Joseph State'
+p3646
+sS'EKQ'
+p3647
+S'Wayne County'
+p3648
+sS'4S1'
+p3649
+S'Gold Beach Muni'
+p3650
+sS'M75'
+p3651
+S'Malta'
+p3652
+sS'FCY'
+p3653
+S'Forrest City Municipal'
+p3654
+sS'6D6'
+p3655
+g487
+sS'LFK'
+p3656
+S'Lufkin-Angelina County'
+p3657
+sS'FCA'
+p3658
+S'Glacier Park Intl'
+p3659
+sS'IZG'
+p3660
+S'Eastern Slopes Regional'
+p3661
+sS'AIT'
+p3662
+S'Aitkin Municipal'
+p3663
+sS'FCH'
+p3664
+S'Fresno-Chandler Downtown'
+p3665
+sS'FCI'
+p3666
+S'Chesterfield County'
+p3667
+sS'FCM'
+p3668
+S'Flying Cloud'
+p3669
+sS'85V'
+p3670
+S'Ganado'
+p3671
+sS'MKL'
+p3672
+S'McKellar-Sipes Regional'
+p3673
+sS'FMZ'
+p3674
+S'Fairmont State'
+p3675
+sS'O89'
+p3676
+S'Fall River Mills'
+p3677
+sS'SZY'
+p3678
+S'Robert Sibley'
+p3679
+sS'FMY'
+p3680
+S'Page '
+p3681
+sS'JHM'
+p3682
+S'Kapalua'
+p3683
+sS'O86'
+p3684
+S'Trinity Center'
+p3685
+sS'O81'
+p3686
+S'Tulelake Municipal'
+p3687
+sS'NK03'
+p3688
+S'Kamp '
+p3689
+sS'FMN'
+p3690
+S'Four Corners Regional'
+p3691
+sS'VEE'
+p3692
+S'Venetie'
+p3693
+sS'M70'
+p3694
+g835
+sS'YIP'
+p3695
+S'Willow Run'
+p3696
+sS'VEL'
+p3697
+S'Vernal'
+p3698
+sS'FME'
+p3699
+S'Tipton '
+p3700
+sS'4SD'
+p3701
+S'Reno/Stead'
+p3702
+sS'MKT'
+p3703
+S'Mankato Regional'
+p3704
+sS'ND28'
+p3705
+S'Lakota Municipal'
+p3706
+sS'Q00'
+p3707
+S'Littlefield Municipal'
+p3708
+sS'Q06'
+p3709
+S'City of Tulia/Swisher County Municipal'
+p3710
+sS'ND29'
+p3711
+S'La Moure Rott Municipal'
+p3712
+sS'F41'
+p3713
+S'Ennis Municipal'
+p3714
+sS'TYQ'
+p3715
+S'Indianapolis Terry'
+p3716
+sS'F45'
+p3717
+S'North Palm Beach County General Aviation'
+p3718
+sS'F44'
+p3719
+S'Athens Jones Municipal'
+p3720
+sS'F46'
+p3721
+S'Rockwall Municipal'
+p3722
+sS'F49'
+p3723
+S'Slaton Municipal'
+p3724
+sS'CAR'
+p3725
+S'Caribou Municipal'
+p3726
+sS'RHV'
+p3727
+S'Reid-Hillview of Santa Clara Co'
+p3728
+sS'CAV'
+p3729
+S'Clarion Municipal'
+p3730
+sS'FQD'
+p3731
+S'Rutherford County-Marchman '
+p3732
+sS'CAK'
+p3733
+S'Akron-Canton Regional'
+p3734
+sS'CAO'
+p3735
+S'Clayton Municipal Airpark'
+p3736
+sS'E94'
+p3737
+S'Glenwood-Catron County'
+p3738
+sS'CAG'
+p3739
+S'Craig-Moffat'
+p3740
+sS'CAE'
+p3741
+S'Columbia Metropolitan'
+p3742
+sS'CAD'
+p3743
+S'Wexford County'
+p3744
+sS'PGD'
+p3745
+S'Charlotte County'
+p3746
+sS'PGA'
+p3747
+S'Page Municipal'
+p3748
+sS'DYT'
+p3749
+S'Sky Harbor'
+p3750
+sS'61S'
+p3751
+S'Cottage Grove State'
+p3752
+sS'PGM'
+p3753
+S'Port Graham'
+p3754
+sS'DYR'
+p3755
+S'Dyersburg Municipal'
+p3756
+sS'61J'
+p3757
+S'Portland Downtown Heliport'
+p3758
+sS'PDX'
+p3759
+S'Portland Intl'
+p3760
+sS'PGR'
+p3761
+S'Kirk '
+p3762
+sS'MKY'
+p3763
+S'Marco Island'
+p3764
+sS'61B'
+p3765
+S'Boulder City Municipal'
+p3766
+sS'61C'
+p3767
+S'Fort Atkinson Municipal'
+p3768
+sS'SD32'
+p3769
+S'Murdo Municipal'
+p3770
+sS'61A'
+p3771
+S'Camden Municipal'
+p3772
+sS'SD34'
+p3773
+S'Presho Municipal '
+p3774
+sS'LHM'
+p3775
+S'Lincoln Regional '
+p3776
+sS'DYB'
+p3777
+S'Summerville'
+p3778
+sS'P53'
+p3779
+S'Rostraver'
+p3780
+sS'MBL'
+p3781
+S'Manistee County Blacker'
+p3782
+sS'WCR'
+p3783
+S'Chandalar Lake'
+p3784
+sS'TMB'
+p3785
+S'Kendall-Tamiami Executive'
+p3786
+sS'PPA'
+p3787
+S'Perry Lefors '
+p3788
+sS'GBH'
+p3789
+S'Galbraith Lake'
+p3790
+sS'K78'
+p3791
+S'Abilene Municipal'
+p3792
+sS'D42'
+p3793
+g575
+sS'RSL'
+p3794
+S'Russell Municipal'
+p3795
+sS'RSN'
+p3796
+S'Ruston Regional'
+p3797
+sS'74S'
+p3798
+S'Anacortes'
+p3799
+sS'RSH'
+p3800
+S'Russian Mission'
+p3801
+sS'74V'
+p3802
+S'Roosevelt Municipal'
+p3803
+sS'OGS'
+p3804
+S'Ogdensburg Intl'
+p3805
+sS'I43'
+p3806
+S'James A Rhodes'
+p3807
+sS'OGM'
+p3808
+S'Ontonagon County'
+p3809
+sS'74D'
+p3810
+S'Marshall Cty'
+p3811
+sS'UDG'
+p3812
+S'Darlington County'
+p3813
+sS'UDD'
+p3814
+S'Bermuda Dunes'
+p3815
+sS'RST'
+p3816
+S'Rochester International'
+p3817
+sS'OGD'
+p3818
+S'Ogden-Hinckley'
+p3819
+sS'OGG'
+p3820
+S'Kahului'
+p3821
+sS'RSW'
+p3822
+S'Southwest Florida International'
+p3823
+sS'OGA'
+p3824
+S'Searle '
+p3825
+sS'OGB'
+p3826
+S'Orangeburg Municipal'
+p3827
+sS'JFK'
+p3828
+S'John F Kennedy Intl'
+p3829
+sS'3K7'
+p3830
+S'Mark Hoard Memorial'
+p3831
+sS'3K6'
+p3832
+S'St Louis-Metro East'
+p3833
+sS'3K3'
+p3834
+S'Syracuse-Hamilton County Municipal'
+p3835
+sS'MIA'
+p3836
+S'Miami International'
+p3837
+sS'6J2'
+p3838
+S'St George'
+p3839
+sS'MIC'
+p3840
+S'Crystal'
+p3841
+sS'6J0'
+p3842
+S'Corporate'
+p3843
+sS'MIE'
+p3844
+S'Delaware County'
+p3845
+sS'DKX'
+p3846
+S'Knoxville Downtown Island'
+p3847
+sS'6J4'
+p3848
+S'Saluda County'
+p3849
+sS'JFX'
+p3850
+S'Walker County'
+p3851
+sS'DKB'
+p3852
+S'Dekalb-Taylor Municipal'
+p3853
+sS'C35'
+p3854
+S'Reedsburg Municipal'
+p3855
+sS'C34'
+p3856
+S'Gibson City Municipal'
+p3857
+sS'DKK'
+p3858
+S'Dunkirk Municipal'
+p3859
+sS'MIW'
+p3860
+S'Marshalltown Municipal'
+p3861
+sS'MIV'
+p3862
+S'Millville Muni '
+p3863
+sS'AOC'
+p3864
+S'Arco-Butte County'
+p3865
+sS'SOP'
+p3866
+S'Moore County'
+p3867
+sS'AOO'
+p3868
+S'Altoona-Blair Cty'
+p3869
+sS'AQH'
+p3870
+S'Kwinhagak'
+p3871
+sS'M04'
+p3872
+g411
+sS'AOH'
+p3873
+S'Allen County'
+p3874
+sS'NQA'
+p3875
+S'Millington Municipal'
+p3876
+sS'2S8'
+p3877
+S'Wilbur'
+p3878
+sS'MNZ'
+p3879
+S'Hamilton Municipal'
+p3880
+sS'2S6'
+p3881
+S'Sportsman Airpark'
+p3882
+sS'2S7'
+p3883
+S'Chiloquin State'
+p3884
+sS'2S1'
+p3885
+S'Vashon Municipal'
+p3886
+sS'M03'
+p3887
+S'Dennis F Cantrell '
+p3888
+sS'SOW'
+p3889
+S'Show Low Municipal'
+p3890
+sS'OVS'
+p3891
+S'Boscobel'
+p3892
+sS'M01'
+p3893
+S'General Dewitt Spain'
+p3894
+sS'MBT'
+p3895
+S'Murfreesboro Municipal'
+p3896
+sS'T03'
+p3897
+S'Tuba City'
+p3898
+sS'T00'
+p3899
+g613
+sS'AYS'
+p3900
+S'Waycross-Ware County'
+p3901
+sS'T08'
+p3902
+S'Tomahawk Regional'
+p3903
+sS'PYX'
+p3904
+S'Perryton Ochiltree County'
+p3905
+sS'SFZ'
+p3906
+S'North Central State'
+p3907
+sS'SFY'
+p3908
+S'Tri-Township '
+p3909
+sS'IPJ'
+p3910
+S'Lincoln County'
+p3911
+sS'49A'
+p3912
+S'Gilmer County'
+p3913
+sS'IPL'
+p3914
+S'Imperial County'
+p3915
+sS'SFQ'
+p3916
+S'Suffolk Municipal'
+p3917
+sS'0G6'
+p3918
+S'Williams County'
+p3919
+sS'0G7'
+p3920
+S'Finger Lakes Regional'
+p3921
+sS'SFM'
+p3922
+S'Sanford Regional'
+p3923
+sS'49X'
+p3924
+S'Chemehuevi Valley'
+p3925
+sS'49Y'
+p3926
+S'Fillmore County'
+p3927
+sS'0G0'
+p3928
+S'North Buffalo Suburban'
+p3929
+sS'49T'
+p3930
+S'Downtown Heliport'
+p3931
+sS'SAT'
+p3932
+S'San Antonio International'
+p3933
+sS'SFD'
+p3934
+S'Bob Wiley '
+p3935
+sS'SFB'
+p3936
+S'Orlando Sanford'
+p3937
+sS'LAF'
+p3938
+S'Purdue University'
+p3939
+sS'PYG'
+p3940
+S'Pageland'
+p3941
+sS'7B2'
+p3942
+S'La Fleur'
+p3943
+sS'LAA'
+p3944
+S'Lamar Muni'
+p3945
+sS'HDE'
+p3946
+S'Brewster '
+p3947
+sS'HDC'
+p3948
+S'Hammond Municipal'
+p3949
+sS'HDO'
+p3950
+S'Hondo Municipal'
+p3951
+sS'HDN'
+p3952
+S'Yampa Valley'
+p3953
+sS'S73'
+p3954
+S'Kamiah Municipal'
+p3955
+sS'S72'
+p3956
+S'St Maries Municipal'
+p3957
+sS'HDI'
+p3958
+S'Hardwick '
+p3959
+sS'HDH'
+p3960
+S'Dillingham Airfield'
+p3961
+sS'BMC'
+p3962
+S'Brigham City'
+p3963
+sS'BMG'
+p3964
+g991
+sS'UYF'
+p3965
+S'Madison County'
+p3966
+sS'BMI'
+p3967
+S'Central Illinois Regional'
+p3968
+sS'O59'
+p3969
+S'Cedarville'
+p3970
+sS'BML'
+p3971
+S'Berlin Municipal'
+p3972
+sS'BMQ'
+p3973
+S'Burnet Muni-Kate Craddock '
+p3974
+sS'BMT'
+p3975
+S'Beaumont Municipal'
+p3976
+sS'IER'
+p3977
+S'Natchitoches Municipal'
+p3978
+sS'SZT'
+p3979
+S'Sandpoint'
+p3980
+sS'SHR'
+p3981
+S'Sheridan County'
+p3982
+sS'SHV'
+p3983
+S'Shreveport Regional'
+p3984
+sS'4B8'
+p3985
+S'Robertson '
+p3986
+sS'SHX'
+p3987
+S'Shageluk'
+p3988
+sS'SHD'
+p3989
+S'Shenandoah Valley Regional'
+p3990
+sS'SHG'
+p3991
+S'Shungnak'
+p3992
+sS'SHH'
+p3993
+S'Shishmaref'
+p3994
+sS'LNY'
+p3995
+S'Lanai'
+p3996
+sS'SHL'
+p3997
+S'Sheldon Municipal'
+p3998
+sS'SHN'
+p3999
+S'Sanderson '
+p4000
+sS'MGC'
+p4001
+S'Michigan City Municipal'
+p4002
+sS'LAW'
+p4003
+S'Lawton-Ft Sill Regional'
+p4004
+sS'GZH'
+p4005
+S'Middleton '
+p4006
+sS'MGJ'
+p4007
+S'Orange Cty'
+p4008
+sS'TBR'
+p4009
+S'Statesboro Municipal'
+p4010
+sS'MGM'
+p4011
+S'Montgomery Regional Apt'
+p4012
+sS'MGR'
+p4013
+S'Moultrie Municipal'
+p4014
+sS'MGW'
+p4015
+S'Morgantown Muni-Walter L. Bill Hart Fld.'
+p4016
+sS'LAR'
+p4017
+S'Laramie Regional'
+p4018
+sS'TBN'
+p4019
+S'Forney AAF'
+p4020
+sS'MGY'
+p4021
+S'Dayton Wright Brothers'
+p4022
+sS'O54'
+p4023
+S'Lonnie Pool /Weaverville'
+p4024
+sS'I42'
+p4025
+S'Paoli Municipal'
+p4026
+sS'GZS'
+p4027
+S'Abernathy '
+p4028
+sS'I40'
+p4029
+S'Richard Downing'
+p4030
+sS'LUP'
+p4031
+S'Kalaupapa'
+p4032
+sS'TT01'
+p4033
+S'Pagan Airstrip'
+p4034
+sS'P52'
+p4035
+S'Cottonwood'
+p4036
+sS'I16'
+p4037
+S'Kee '
+p4038
+sS'Z91'
+p4039
+S'Birch Creek'
+p4040
+sS'WA21'
+p4041
+S'Grand Coulee Dam'
+p4042
+sS'VJI'
+p4043
+S'Virginia Highlands'
+p4044
+sS'NC14'
+p4045
+S'Rockingham County NC Shiloh'
+p4046
+sS'LUG'
+p4047
+S'Ellington '
+p4048
+sS'LUK'
+p4049
+S'Cincinnati Muni-Lunken '
+p4050
+sS'LUL'
+p4051
+S'Hesler-Noble '
+p4052
+sS'86F'
+p4053
+S'Carnegie Municipal'
+p4054
+sS'4B9'
+p4055
+S'Simsbury Tri-Town'
+p4056
+sS'A32'
+p4057
+S'Butte Valley'
+p4058
+sS'A30'
+p4059
+S'Scott Valley'
+p4060
+sS'4B1'
+p4061
+S'Duanesburg'
+p4062
+sS'4B0'
+p4063
+S'South Albany'
+p4064
+sS'4B7'
+p4065
+S'Schroon Lake'
+p4066
+sS'4B6'
+p4067
+S'Ticonderoga Muni'
+p4068
+sS'S93'
+p4069
+S'Cle Elum Municipal'
+p4070
+sS'S97'
+p4071
+S'Anderson '
+p4072
+sS'N93'
+p4073
+S'New Golovin'
+p4074
+sS'RMG'
+p4075
+S'Richard B Russell'
+p4076
+sS'VTA'
+p4077
+S'Newark-Heath'
+p4078
+sS'TLR'
+p4079
+S'Mefford '
+p4080
+sS'18A'
+p4081
+g1851
+sS'GTF'
+p4082
+S'Great Falls Intl'
+p4083
+sS'TLT'
+p4084
+S'Tuluksak'
+p4085
+sS'VTI'
+p4086
+S'Vinton Veterans Memorial Airpark'
+p4087
+sS'T60'
+p4088
+S'Stonewall County'
+p4089
+sS'18I'
+p4090
+S'McCreary County '
+p4091
+sS'VTN'
+p4092
+S'Miller '
+p4093
+sS'GTR'
+p4094
+S'Golden Triangle Regional'
+p4095
+sS'GTU'
+p4096
+S'Georgetown Municipal'
+p4097
+sS'T69'
+p4098
+S'Sinton-San Patricio County'
+p4099
+sS'97M'
+p4100
+S'Ekalaka'
+p4101
+sS'TLH'
+p4102
+S'Tallahassee Regional'
+p4103
+sS'GCN'
+p4104
+S'Grand Canyon National Park'
+p4105
+sS'KEK'
+p4106
+S'Ekwok'
+p4107
+sS'HVN'
+p4108
+S'Tweed-New Haven'
+p4109
+sS'LNA'
+p4110
+S'Palm Beach County Park'
+p4111
+sS'HVC'
+p4112
+S'Hopkinsville-Christian County'
+p4113
+sS'HVE'
+p4114
+S'Hanksville'
+p4115
+sS'KEB'
+p4116
+S'English Bay'
+p4117
+sS'YKN'
+p4118
+S'Chan Gurney Municipal'
+p4119
+sS'HVS'
+p4120
+S'Hartsville Municipal'
+p4121
+sS'HVR'
+p4122
+S'Havre City-County'
+p4123
+sS'WBW'
+p4124
+S'Wilkes-Barre Wyoming Valley'
+p4125
+sS'WBQ'
+p4126
+S'Beaver'
+p4127
+sS'PCM'
+p4128
+S'Plant City Municipal'
+p4129
+sS'SDY'
+p4130
+S'Sidney-Richland Municipal'
+p4131
+sS'WBB'
+p4132
+S'Stebbins'
+p4133
+sS'5B7'
+p4134
+S'Rensselaer Air Park'
+p4135
+sS'5B2'
+p4136
+S'Saratoga Cty'
+p4137
+sS'5B3'
+p4138
+S'Danielson'
+p4139
+sS'RPX'
+p4140
+S'Roundup'
+p4141
+sS'SDF'
+p4142
+S'Louisville International-Standiford '
+p4143
+sS'UCY'
+p4144
+S'Everett-Stewart'
+p4145
+sS'F08'
+p4146
+S'Eufaula Municipal'
+p4147
+sS'77G'
+p4148
+S'Marlette Township'
+p4149
+sS'RPB'
+p4150
+S'Belleville Municipal'
+p4151
+sS'RPD'
+p4152
+S"Rice Lake Regional-Carl's "
+p4153
+sS'UCA'
+p4154
+S'Oneida Cty'
+p4155
+sS'Q72'
+p4156
+S'Hayfork'
+p4157
+sS'SDA'
+p4158
+S'Shenandoah Municipal'
+p4159
+sS'F56'
+p4160
+S'Arledge '
+p4161
+sS'EUF'
+p4162
+S'Weedon '
+p4163
+sS'F53'
+p4164
+g1851
+sS'2B9'
+p4165
+S'Post Mills'
+p4166
+sS'F51'
+p4167
+S'Winnsboro Municipal'
+p4168
+sS'2B7'
+p4169
+S'Pittsfield Municipal'
+p4170
+sS'2B3'
+p4171
+S'Parlin '
+p4172
+sS'YAP'
+p4173
+S'Yap International'
+p4174
+sS'RBL'
+p4175
+S'Red Bluff Municipal'
+p4176
+sS'E80'
+p4177
+S'Alexander Municipal'
+p4178
+sS'SDM'
+p4179
+S'Brown  Municipal'
+p4180
+sS'RBG'
+p4181
+S'Roseburg Regional'
+p4182
+sS'3BS'
+p4183
+S'Jack Barstow'
+p4184
+sS'RBD'
+p4185
+S'Redbird'
+p4186
+sS'8M1'
+p4187
+S'Booneville-Baldwyn'
+p4188
+sS'E89'
+p4189
+S'Conchas State Park'
+p4190
+sS'OTH'
+p4191
+S'North Bend Muni'
+p4192
+sS'OTM'
+p4193
+S'Ottumwa Industrial'
+p4194
+sS'LGB'
+p4195
+S'Long Beach (Daugherty )'
+p4196
+sS'LGC'
+p4197
+S'LaGrange-Callaway'
+p4198
+sS'LGA'
+p4199
+S'LaGuardia'
+p4200
+sS'LGD'
+p4201
+S'La Grande/Union County'
+p4202
+sS'OTG'
+p4203
+S'Worthington Municipal'
+p4204
+sS'88C'
+p4205
+S'Palmyra Municipal'
+p4206
+sS'OTZ'
+p4207
+S'Ralph Wien Memorial'
+p4208
+sS'SD28'
+p4209
+S'McLaughlin Municipal'
+p4210
+sS'88J'
+p4211
+S'Allendale County'
+p4212
+sS'88M'
+p4213
+g333
+sS'LGU'
+p4214
+S'Logan-Cache'
+p4215
+sS'AXS'
+p4216
+S'Altus Municipal'
+p4217
+sS'AXV'
+p4218
+S'Neil Armstrong'
+p4219
+sS'YAK'
+p4220
+S'Yakutat'
+p4221
+sS'VYS'
+p4222
+S'Illinois Valley Regional'
+p4223
+sS'AXX'
+p4224
+S'Angel Fire'
+p4225
+sS'AXA'
+p4226
+S'Algona Municipal'
+p4227
+sS'D50'
+p4228
+S'Crosby Municipal'
+p4229
+sS'AXN'
+p4230
+S'Chandler '
+p4231
+sS'D55'
+p4232
+g3986
+sS'D57'
+p4233
+S'Glen Ullin Municipal'
+p4234
+sS'RXE'
+p4235
+S'Rexburg-Madison County'
+p4236
+sS'IWD'
+p4237
+S'Gogebic County'
+p4238
+sS'SPX'
+p4239
+S'Houston-Gulf'
+p4240
+sS'IWA'
+p4241
+S'Williams Gateway'
+p4242
+sS'IWK'
+p4243
+S'Wales'
+p4244
+sS'IWI'
+p4245
+S'Wiscasset'
+p4246
+sS'IWH'
+p4247
+S'Wabash Municipal'
+p4248
+sS'N29'
+p4249
+S'Magdalena'
+p4250
+sS'P13'
+p4251
+S'San Carlos Apache'
+p4252
+sS'IWS'
+p4253
+S'West Houston'
+p4254
+sS'OFK'
+p4255
+S'Karl Stefan Memorial'
+p4256
+sS'N23'
+p4257
+S'Sidney Muni'
+p4258
+sS'3JC'
+p4259
+S'Freeman '
+p4260
+sS'N27'
+p4261
+S'Bradford County'
+p4262
+sS'HBG'
+p4263
+S'Bobby L. Chain Municipal'
+p4264
+sS'N25'
+p4265
+S'Westport '
+p4266
+sS'N24'
+p4267
+S'Questa Municipal Nr 2'
+p4268
+sS'6K8'
+p4269
+S'Tok Junction'
+p4270
+sS'1G4'
+p4271
+S'Grand Canyon West'
+p4272
+sS'IAH'
+p4273
+S'George Bush Intercontinental'
+p4274
+sS'C25'
+p4275
+S'Waverly Municipal'
+p4276
+sS'IAD'
+p4277
+S'Washington Dulles International'
+p4278
+sS'FVE'
+p4279
+S'Northern Aroostook Regional'
+p4280
+sS'6K3'
+p4281
+S'Creighton Municipal'
+p4282
+sS'6K4'
+p4283
+S'Fairview Municipal'
+p4284
+sS'3J7'
+p4285
+S'Greene County Airpark'
+p4286
+sS'U42'
+p4287
+S'Salt Lake City Municipal 2'
+p4288
+sS'U43'
+p4289
+S'Monticello'
+p4290
+sS'OFP'
+p4291
+S'Hanover County Municipal'
+p4292
+sS'FVX'
+p4293
+S'Farmville Municipal'
+p4294
+sS'BOW'
+p4295
+S'Bartow Municipal'
+p4296
+sS'N07'
+p4297
+S'Lincoln Park'
+p4298
+sS'PHK'
+p4299
+S'Palm Beach County Glades'
+p4300
+sS'2P2'
+p4301
+S'Washington Island'
+p4302
+sS'PHO'
+p4303
+S'Point Hope'
+p4304
+sS'KVL'
+p4305
+S'Kivalina'
+p4306
+sS'PHL'
+p4307
+S'Philadelphia Intl'
+p4308
+sS'PGV'
+p4309
+S'Pitt-Greenville'
+p4310
+sS'PHF'
+p4311
+S'Newport News/Williamsburg International'
+p4312
+sS'MZZ'
+p4313
+S'Marion Municipal'
+p4314
+sS'PHD'
+p4315
+S'Harry Clever '
+p4316
+sS'TUP'
+p4317
+S'Tupelo Municipal '
+p4318
+sS'EPM'
+p4319
+S'Eastport Municipal'
+p4320
+sS'66D'
+p4321
+g2202
+sS'MZJ'
+p4322
+S'Pinal Airpark'
+p4323
+sS'PHT'
+p4324
+g2648
+sS'SKW'
+p4325
+S'Skwentna'
+p4326
+sS'S50'
+p4327
+g2042
+sS'SKX'
+p4328
+S'Taos Municipal'
+p4329
+sS'MNN'
+p4330
+g4314
+sS'7S1'
+p4331
+S'Twin Bridges'
+p4332
+sS'7S0'
+p4333
+S'Ronan'
+p4334
+sS'IGT'
+p4335
+S'Nightmute'
+p4336
+sS'7S5'
+p4337
+S'Independence State'
+p4338
+sS'7S7'
+p4339
+S'Valier'
+p4340
+sS'7S6'
+p4341
+S'White Sulphur Springs'
+p4342
+sS'SKI'
+p4343
+S'Sac City Municipal'
+p4344
+sS'FTT'
+p4345
+S'Elton Hensley Memorial'
+p4346
+sS'L84'
+p4347
+S'Lost Hills-Kern County'
+p4348
+sS'L83'
+p4349
+S'Thibodaux Municipal'
+p4350
+sS'IGQ'
+p4351
+S'Lansing Municipal'
+p4352
+sS'GEU'
+p4353
+S'Glendale Municipal'
+p4354
+sS'TCY'
+p4355
+g1591
+sS'GEZ'
+p4356
+S'Shelbyville Municipal'
+p4357
+sS'GEY'
+p4358
+S'South Big Horn County'
+p4359
+sS'TCS'
+p4360
+S'Truth Or Consequences Municipal'
+p4361
+sS'M24'
+p4362
+S'Dean Griffin Memorial'
+p4363
+sS'MFR'
+p4364
+S'Rogue Valley International'
+p4365
+sS'GEG'
+p4366
+S'Spokane Intl'
+p4367
+sS'MFV'
+p4368
+S'Accomack County'
+p4369
+sS'GED'
+p4370
+S'Sussex Cty Arpt'
+p4371
+sS'0H1'
+p4372
+S'Trego Wakeeney '
+p4373
+sS'HBR'
+p4374
+S'Hobart Municipal'
+p4375
+sS'GEO'
+p4376
+S'Brown County'
+p4377
+sS'TCC'
+p4378
+S'Tucumcari Municipal'
+p4379
+sS'GKY'
+p4380
+g965
+sS'MHL'
+p4381
+S'Marshall Memorial Municipal'
+p4382
+sS'MHM'
+p4383
+S'Minchumina'
+p4384
+sS'MHK'
+p4385
+S'Manhattan Regional'
+p4386
+sS'7M3'
+p4387
+S'Bearce'
+p4388
+sS'7M1'
+p4389
+S'McGehee Municipal'
+p4390
+sS'MHE'
+p4391
+S'Mitchell Municipal'
+p4392
+sS'7M7'
+p4393
+S'Piggott Municipal'
+p4394
+sS'26A'
+p4395
+S'Ashland/Lineville'
+p4396
+sS'7M5'
+p4397
+S'Ozark-Franklin County'
+p4398
+sS'7M4'
+p4399
+g2023
+sS'DDH'
+p4400
+S'William H. Morse State'
+p4401
+sS'M22'
+p4402
+g3551
+sS'S68'
+p4403
+S'Orofino Municipal'
+p4404
+sS'GKN'
+p4405
+S'Gulkana'
+p4406
+sS'DDC'
+p4407
+S'Dodge City Regional'
+p4408
+sS'S67'
+p4409
+S'Nampa Muni'
+p4410
+sS'MHT'
+p4411
+S'Manchester'
+p4412
+sS'MHR'
+p4413
+S'Sacramento Mather'
+p4414
+sS'MHP'
+p4415
+S'Metter Municipal'
+p4416
+sS'AND'
+p4417
+S'Anderson County'
+p4418
+sS'ANE'
+p4419
+S'Anoka County'
+p4420
+sS'ANB'
+p4421
+S'Anniston Metropolitan'
+p4422
+sS'ANC'
+p4423
+S'Ted Stevens Anchorage International'
+p4424
+sS'ANI'
+p4425
+S'Aniak'
+p4426
+sS'ANV'
+p4427
+S'Anvik'
+p4428
+sS'ANW'
+p4429
+S'Ainsworth Municipal'
+p4430
+sS'ANQ'
+p4431
+S'Steuben County-Tri State'
+p4432
+sS'ANY'
+p4433
+S'Anthony Municipal'
+p4434
+sS'K15'
+p4435
+S'Linn Creek-Grand Glaize Memorial'
+p4436
+sS'VUO'
+p4437
+S'Pearson Airpark'
+p4438
+sS'GWO'
+p4439
+S'Greenwood-Leflore'
+p4440
+sS'VUJ'
+p4441
+S'Stanly County'
+p4442
+sS'96Z'
+p4443
+S'North Whale SPB'
+p4444
+sS'96D'
+p4445
+S'Walhalla Municipal'
+p4446
+sS'TMA'
+p4447
+S'Henry Tift Myers'
+p4448
+sS'GWW'
+p4449
+S'Goldsboro-Wayne Municipal'
+p4450
+sS'GWR'
+p4451
+S'Gwinner-Roger Melroe '
+p4452
+sS'HWO'
+p4453
+S'North Perry'
+p4454
+sS'HWI'
+p4455
+S'Hawk Inlet SPB'
+p4456
+sS'HWD'
+p4457
+S'Hayward Executive'
+p4458
+sS'S71'
+p4459
+S'Edgar G Obie'
+p4460
+sS'1D6'
+p4461
+S'Hector Municipal'
+p4462
+sS'1D7'
+p4463
+S'Webster Municipal'
+p4464
+sS'1D2'
+p4465
+S'Canton -Plymouth -  Mettetal'
+p4466
+sS'1D3'
+p4467
+S'Platte Municipal'
+p4468
+sS'1D1'
+p4469
+S'Milbank Municipal'
+p4470
+sS'HWV'
+p4471
+S'Brookhaven'
+p4472
+sS'X60'
+p4473
+S'Williston Municipal'
+p4474
+sS'1D8'
+p4475
+S'Redfield Municipal'
+p4476
+sS'HWQ'
+p4477
+S'Wheatland County  At Harlowton'
+p4478
+sS'HEQ'
+p4479
+S'Holyoke'
+p4480
+sS'WA31'
+p4481
+S'Whidbey Air Park'
+p4482
+sS'HEZ'
+p4483
+S'Natchez-Adams County'
+p4484
+sS'I95'
+p4485
+S'Hardin County'
+p4486
+sS'HEE'
+p4487
+S'Thompson-Robbins'
+p4488
+sS'HEF'
+p4489
+S'Manassas Reg./Harry P Davis '
+p4490
+sS'I93'
+p4491
+S'Breckinridge County'
+p4492
+sS'HEI'
+p4493
+S'Hettinger Municipal'
+p4494
+sS'SZP'
+p4495
+S'Santa Paula'
+p4496
+sS'BJC'
+p4497
+S'Jeffco'
+p4498
+sS'4C8'
+p4499
+S'Albia Municipal'
+p4500
+sS'A29'
+p4501
+S'Sitka SPB'
+p4502
+sS'BJJ'
+p4503
+g3648
+sS'BJI'
+p4504
+S'Bemidji-Beltrami County'
+p4505
+sS'S80'
+p4506
+S'Idaho County'
+p4507
+sS'INT'
+p4508
+S'Smith Reynolds'
+p4509
+sS'S83'
+p4510
+S'Shoshone County'
+p4511
+sS'S85'
+p4512
+S'Big Sky '
+p4513
+sS'S87'
+p4514
+S'Weiser Municipal'
+p4515
+sS'S89'
+p4516
+S'Craigmont Municipal'
+p4517
+sS'4M1'
+p4518
+g1058
+sS'4M3'
+p4519
+S'Carlisle Municipal'
+p4520
+sS'4M4'
+p4521
+g855
+sS'EIW'
+p4522
+S'County Memorial'
+p4523
+sS'4M7'
+p4524
+S'Russellville-Logan County'
+p4525
+sS'4M8'
+p4526
+S'Clarendon Municipal'
+p4527
+sS'4M9'
+p4528
+S'Corning Municipal'
+p4529
+sS'HYL'
+p4530
+S'Hollis SPB'
+p4531
+sS'RCR'
+p4532
+g3342
+sS'WSN'
+p4533
+S'South Naknek 2'
+p4534
+sS'HYR'
+p4535
+S'Sawyer County'
+p4536
+sS'HYS'
+p4537
+S'Hays Municipal'
+p4538
+sS'WST'
+p4539
+S'Westerly State'
+p4540
+sS'HYW'
+p4541
+S'Conway-Horry County'
+p4542
+sS'EII'
+p4543
+S'Egegik'
+p4544
+sS'RCA'
+p4545
+S'Ellsworth AFB'
+p4546
+sS'FAY'
+p4547
+g830
+sS'OWI'
+p4548
+S'Ottawa Municipal'
+p4549
+sS'OWK'
+p4550
+S'Central Maine '
+p4551
+sS'FAR'
+p4552
+S'Hector International'
+p4553
+sS'OWD'
+p4554
+S'Norwood Memorial'
+p4555
+sS'FAQ'
+p4556
+S'Fitiuta'
+p4557
+sS'OWA'
+p4558
+S'Owatonna Degner Regional'
+p4559
+sS'00M'
+p4560
+S'Thigpen '
+p4561
+sS'OWB'
+p4562
+S'Owensboro-Daviess County'
+p4563
+sS'ZER'
+p4564
+S'Schuylkill Cty/Joe Zerbey'
+p4565
+sS'00R'
+p4566
+S'Livingston Municipal'
+p4567
+sS'FAI'
+p4568
+S'Fairbanks International'
+p4569
+sS'89D'
+p4570
+S'Kelleys Island Land '
+p4571
+sS'00V'
+p4572
+S'Meadow Lake'
+p4573
+sS'FAM'
+p4574
+S'Farmington Regional'
+p4575
+sS'W40'
+p4576
+S'Mt Olive Municipal'
+p4577
+sS'LVS'
+p4578
+S'Las Vegas Municipal'
+p4579
+sS'87Y'
+p4580
+S'Blackhawk Airfield'
+p4581
+sS'SVC'
+p4582
+g1718
+sS'VPZ'
+p4583
+S'Porter County Municipal'
+p4584
+sS'87I'
+p4585
+S'Yazoo County'
+p4586
+sS'LVM'
+p4587
+S'Mission '
+p4588
+sS'W44'
+p4589
+S'Asheboro Municipal'
+p4590
+sS'LVN'
+p4591
+S'Airlake '
+p4592
+sS'LVK'
+p4593
+S'Livermore Municipal'
+p4594
+sS'LVJ'
+p4595
+S'Clover '
+p4596
+sS'5A9'
+p4597
+S'Roosevelt Memorial'
+p4598
+sS'5A8'
+p4599
+S'Aleknagik'
+p4600
+sS'77S'
+p4601
+S'Hobby '
+p4602
+sS'POY'
+p4603
+S'Powell Muni'
+p4604
+sS'5A4'
+p4605
+S'Okolona Mun.-Richard M. Stovall '
+p4606
+sS'5A6'
+p4607
+S'Winona-Montgomery County'
+p4608
+sS'Q68'
+p4609
+S'Pine Mountain Lake'
+p4610
+sS'Q61'
+p4611
+S'Georgetown'
+p4612
+sS'FWN'
+p4613
+S'Sussex '
+p4614
+sS'POU'
+p4615
+S'Dutchess Cty'
+p4616
+sS'CCY'
+p4617
+S'Charles City Municipal'
+p4618
+sS'OAK'
+p4619
+S'Metropolitan Oakland International'
+p4620
+sS'FWA'
+p4621
+S'Fort Wayne International'
+p4622
+sS'CCR'
+p4623
+S'Buchanan '
+p4624
+sS'CCO'
+p4625
+S'Newnan-Coweta County'
+p4626
+sS'PLN'
+p4627
+S'Pellston Regional  of Emmet County'
+p4628
+sS'OAR'
+p4629
+S'Marina Municipal'
+p4630
+sS'KTS'
+p4631
+S'Brevig Mission'
+p4632
+sS'CCB'
+p4633
+S'Cable'
+p4634
+sS'PIH'
+p4635
+S'Pocatello Regional'
+p4636
+sS'MYZ'
+p4637
+S'Marysville Municipal'
+p4638
+sS'PIL'
+p4639
+S'Port Isabel-Cameron County'
+p4640
+sS'PIM'
+p4641
+S'Callaway Gardens-Harris County'
+p4642
+sS'SD10'
+p4643
+S'Canton Municipal'
+p4644
+sS'PIA'
+p4645
+S'Greater Peoria Regional'
+p4646
+sS'PIB'
+p4647
+S'Hattiesburg-Laurel Regional'
+p4648
+sS'MYR'
+p4649
+S'Myrtle Beach International'
+p4650
+sS'MYU'
+p4651
+S'Mekoryuk'
+p4652
+sS'PIE'
+p4653
+S'St. Petersburg-Clearwater International'
+p4654
+sS'SD18'
+p4655
+S'Flandreau Municipal'
+p4656
+sS'MYV'
+p4657
+S'Yuba County'
+p4658
+sS'67L'
+p4659
+S'Mesquite'
+p4660
+sS'MYK'
+p4661
+S'May Creek'
+p4662
+sS'MYL'
+p4663
+S'McCall'
+p4664
+sS'PIR'
+p4665
+S'Pierre Regional'
+p4666
+sS'PIT'
+p4667
+S'Pittsburgh International'
+p4668
+sS'MYF'
+p4669
+S'Montgomery '
+p4670
+sS'CQB'
+p4671
+g509
+sS'CQA'
+p4672
+S'Lakefield'
+p4673
+sS'ASD'
+p4674
+S'Slidell'
+p4675
+sS'CQX'
+p4676
+S'Chatham Municipal'
+p4677
+sS'WMO'
+p4678
+S'White Mountain'
+p4679
+sS'T18'
+p4680
+S'Brooks County'
+p4681
+sS'D60'
+p4682
+S'Tioga Municipal'
+p4683
+sS'Y93'
+p4684
+S'Atlanta Municipal'
+p4685
+sS'GLY'
+p4686
+S'Clinton Memorial'
+p4687
+sS'UBX'
+p4688
+S'Cuba Municipal'
+p4689
+sS'N38'
+p4690
+S'Grand Canyon State'
+p4691
+sS'UBE'
+p4692
+S'Cumberland Municipal '
+p4693
+sS'RQE'
+p4694
+S'Window Rock'
+p4695
+sS'RQB'
+p4696
+S'Roben-Hood'
+p4697
+sS'N30'
+p4698
+S'Cherry Ridge'
+p4699
+sS'PKB'
+p4700
+S'Wood Cty/Gill Robb Wilson '
+p4701
+sS'76G'
+p4702
+S'Marine City'
+p4703
+sS'N37'
+p4704
+g4290
+sS'C56'
+p4705
+S'Sanger'
+p4706
+sS'JDN'
+p4707
+S'Jordan'
+p4708
+sS'C52'
+p4709
+g1066
+sS'3M9'
+p4710
+S'Warren Municipal'
+p4711
+sS'3M8'
+p4712
+S'North Pickens '
+p4713
+sS'3M7'
+p4714
+S'Lafayette Municipal'
+p4715
+sS'DEQ'
+p4716
+S'J Lynn Helms Sevier County'
+p4717
+sS'GJT'
+p4718
+S'Walker '
+p4719
+sS'DET'
+p4720
+S'Detroit City'
+p4721
+sS'DEW'
+p4722
+S'Deer Park'
+p4723
+sS'DEH'
+p4724
+S'Decorah Municipal'
+p4725
+sS'U36'
+p4726
+S'Aberdeen Municipal'
+p4727
+sS'MWA'
+p4728
+S'Williamson County'
+p4729
+sS'F55'
+p4730
+S'Granbury Municipal'
+p4731
+sS'DEN'
+p4732
+S'Denver Intl'
+p4733
+sS'SMF'
+p4734
+S'Sacramento International'
+p4735
+sS'MWK'
+p4736
+S'Mount Airy-Surry County'
+p4737
+sS'DEC'
+p4738
+S'Decatur'
+p4739
+sS'DED'
+p4740
+S'Deland Municipal-Taylor '
+p4741
+sS'DEE'
+p4742
+S'Deering'
+p4743
+sS'MWM'
+p4744
+S'Windom Municipal'
+p4745
+sS'HXF'
+p4746
+S'Hartford Municipal'
+p4747
+sS'T35'
+p4748
+S'Cameron Municipal Airpark'
+p4749
+sS'2Q3'
+p4750
+S'Yolo Co-Davis/Woodland/Winters'
+p4751
+sS'AMN'
+p4752
+S'Gratiot Community'
+p4753
+sS'AMA'
+p4754
+S'Amarillo International'
+p4755
+sS'HXD'
+p4756
+S'Hilton Head'
+p4757
+sS'I66'
+p4758
+S'Clinton '
+p4759
+sS'AMG'
+p4760
+S'Bacon County'
+p4761
+sS'RBW'
+p4762
+S'Walterboro Municipal'
+p4763
+sS'PVW'
+p4764
+S'Hale County'
+p4765
+sS'AMT'
+p4766
+S'Alexander Salamon'
+p4767
+sS'AMW'
+p4768
+S'Ames Municipal'
+p4769
+sS'MDH'
+p4770
+S'Southern Illinois '
+p4771
+sS'T28'
+p4772
+S'Lampasas Municipal'
+p4773
+sS'PKA'
+p4774
+S'Napaskiak'
+p4775
+sS'I39'
+p4776
+g3966
+sS'11IS'
+p4777
+S'Schaumburg Heliport'
+p4778
+sS'UPP'
+p4779
+S'Upolu'
+p4780
+sS'3MY'
+p4781
+S'Mt. Hawley Auxiliary'
+p4782
+sS'GNV'
+p4783
+S'Gainesville Regional'
+p4784
+sS'I69'
+p4785
+S'Clermont County'
+p4786
+sS'0I8'
+p4787
+S'Cynthiana-Harrison County'
+p4788
+sS'HFY'
+p4789
+S'Greenwood Municipal'
+p4790
+sS'ACB'
+p4791
+S'Antrim County'
+p4792
+sS'ACK'
+p4793
+S'Nantucket Memorial'
+p4794
+sS'ACJ'
+p4795
+S'Souther '
+p4796
+sS'45OH'
+p4797
+S'North Bass Island'
+p4798
+sS'S94'
+p4799
+S'Whitman County Memorial'
+p4800
+sS'ACQ'
+p4801
+S'Waseca Municipal'
+p4802
+sS'ACV'
+p4803
+S'Arcata'
+p4804
+sS'ACT'
+p4805
+S'Waco Regional'
+p4806
+sS'ACZ'
+p4807
+S'Henderson '
+p4808
+sS'ACY'
+p4809
+S'Atlantic City International'
+p4810
+sS'HFD'
+p4811
+S'Hartford Brainard'
+p4812
+sS'BKD'
+p4813
+S'Breckenridge Stephens County'
+p4814
+sS'BKE'
+p4815
+S'Baker City Municipal'
+p4816
+sS'BKL'
+p4817
+S'Burke Lakefront'
+p4818
+sS'BKV'
+p4819
+S'Hernando County'
+p4820
+sS'BKW'
+p4821
+S'Raleigh Cty Memorial'
+p4822
+sS'BKX'
+p4823
+S'Brookings Municipal'
+p4824
+sS'RKS'
+p4825
+S'Rock Springs-Sweetwater County'
+p4826
+sS'K01'
+p4827
+S'Farington '
+p4828
+sS'K02'
+p4829
+S'Perryville Municipal'
+p4830
+sS'GNU'
+p4831
+S'Goodnews'
+p4832
+sS'K06'
+p4833
+S'Greater Beardstown'
+p4834
+sS'K09'
+p4835
+S'Piseco Muni'
+p4836
+sS'SJT'
+p4837
+S'San Angelo Regional /Mathis '
+p4838
+sS'SJU'
+p4839
+S'Luis Munoz Marin International'
+p4840
+sS'SJN'
+p4841
+S'St Johns Industrial Air Park'
+p4842
+sS'MDS'
+p4843
+g1919
+sS'SJC'
+p4844
+S'San Jose International'
+p4845
+sS'H04'
+p4846
+S'Vinita Municipal'
+p4847
+sS'JRF'
+p4848
+S'Kalaeloa (John Rodgers )'
+p4849
+sS'P14'
+p4850
+S'Holbrook Municipal'
+p4851
+sS'JRB'
+p4852
+S'Downtown Manhattan/Wall St. Heliport'
+p4853
+sS'GDV'
+p4854
+S'Dawson Community'
+p4855
+sS'GDW'
+p4856
+S'Gladwin'
+p4857
+sS'MEM'
+p4858
+S'Memphis International'
+p4859
+sS'GDY'
+p4860
+S'Grundy Municipal'
+p4861
+sS'MEI'
+p4862
+S'Key '
+p4863
+sS'MDW'
+p4864
+S'Chicago Midway'
+p4865
+sS'1K9'
+p4866
+S'Satanta Municipal'
+p4867
+sS'MEV'
+p4868
+S'Minden-Tahoe'
+p4869
+sS'MER'
+p4870
+S'Castle'
+p4871
+sS'1K2'
+p4872
+S'Lindsay Municipal'
+p4873
+sS'MEY'
+p4874
+S'Mapleton Municipal'
+p4875
+sS'GDM'
+p4876
+S'Gardner Municipal'
+p4877
+sS'1K5'
+p4878
+S'Waynoka Municipal'
+p4879
+sS'1K4'
+p4880
+S'David J. Perry'
+p4881
+sS'L42'
+p4882
+S'Allen Parish'
+p4883
+sS'LWS'
+p4884
+S'Lewiston-Nez Perce County'
+p4885
+sS'YNG'
+p4886
+S'Youngstown-Warren Regional'
+p4887
+sS'LWV'
+p4888
+S'Lawrenceville-Vincennes Municipal'
+p4889
+sS'LWT'
+p4890
+S'Lewistown Muni'
+p4891
+sS'VDI'
+p4892
+S'Vidalia Municipal'
+p4893
+sS'I88'
+p4894
+S'Pontiac Municipal'
+p4895
+sS'VHN'
+p4896
+S'Culberson County'
+p4897
+sS'LWL'
+p4898
+S'Wells Municipal/Harriet '
+p4899
+sS'LWM'
+p4900
+g2966
+sS'LWB'
+p4901
+S'Greenbrier Valley'
+p4902
+sS'I83'
+p4903
+S'Salem Municipal'
+p4904
+sS'X01'
+p4905
+S'Everglades'
+p4906
+sS'I86'
+p4907
+g1080
+sS'X06'
+p4908
+S'Arcadia Municipal'
+p4909
+sS'LWD'
+p4910
+S'Lamoni Municipal'
+p4911
+sS'L12'
+p4912
+S'Redlands Municipal'
+p4913
+sS'A14'
+p4914
+S'Portage Creek'
+p4915
+sS'TXK'
+p4916
+S'Texarkana Regional-Webb '
+p4917
+sS'LKR'
+p4918
+S'Lancaster County'
+p4919
+sS'I32'
+p4920
+S'Morehead-Rowan County'
+p4921
+sS'LKP'
+p4922
+S'Lake Placid'
+p4923
+sS'MVY'
+p4924
+S'Marthas Vineyard'
+p4925
+sS'L49'
+p4926
+S'South Lafourche'
+p4927
+sS'TNU'
+p4928
+S'Newton Municipal'
+p4929
+sS'TNT'
+p4930
+S'Dade Collier T And T'
+p4931
+sS'4N1'
+p4932
+S'Greenwood Lake'
+p4933
+sS'TNP'
+p4934
+S'Twentynine Palms'
+p4935
+sS'GVL'
+p4936
+S'Lee Gilmer Memorial'
+p4937
+sS'Y55'
+p4938
+S'Crandon Municipal'
+p4939
+sS'SD22'
+p4940
+S'Hoven Municipal'
+p4941
+sS'GVQ'
+p4942
+S'Genesee Cty'
+p4943
+sS'TNI'
+p4944
+S'West Tinian'
+p4945
+sS'GVT'
+p4946
+S'Majors'
+p4947
+sS'95F'
+p4948
+g355
+sS'HHR'
+p4949
+S'Jack Northrop Field/Hawthorne Municipal'
+p4950
+sS'HHW'
+p4951
+S'Stan Stamper Municipal'
+p4952
+sS'EZZ'
+p4953
+S'Cameron Memorial'
+p4954
+sS'KGX'
+p4955
+S'Grayling'
+p4956
+sS'T80'
+p4957
+S'Kleberg County'
+p4958
+sS'EZM'
+p4959
+S'Eastman-Dodge County'
+p4960
+sS'HHG'
+p4961
+S'Huntington Municipal'
+p4962
+sS'EZI'
+p4963
+S'Kewanee Municipal'
+p4964
+sS'JEF'
+p4965
+S'Jefferson City Memorial'
+p4966
+sS'HHH'
+p4967
+g4757
+sS'CPK'
+p4968
+S'Chesapeake Municipal'
+p4969
+sS'CPM'
+p4970
+S'Compton/Woodley'
+p4971
+sS'CPC'
+p4972
+S'Columbus County Municipal'
+p4973
+sS'WLW'
+p4974
+S'Willows-Glenn County'
+p4975
+sS'CPX'
+p4976
+S'Benjamin Rivera Noriega'
+p4977
+sS'WLK'
+p4978
+S'Selawik'
+p4979
+sS'CPR'
+p4980
+S'Natrona County Intl'
+p4981
+sS'CPS'
+p4982
+S'St. Louis Downtown'
+p4983
+sS'WLD'
+p4984
+S'Strother '
+p4985
+sS'RFD'
+p4986
+S'Greater Rockford'
+p4987
+sS'Q53'
+p4988
+S'Franklin '
+p4989
+sS'Q55'
+p4990
+S'Dimmitt Municipal'
+p4991
+sS'CKC'
+p4992
+S'Grand Marais/Cook County'
+p4993
+sS'OSH'
+p4994
+S'Wittman Regional'
+p4995
+sS'Q58'
+p4996
+S'Santa Rosa Municipal'
+p4997
+sS'WVI'
+p4998
+S'Watsonville Municipal'
+p4999
+sS'71J'
+p5000
+S'Blackwell '
+p5001
+sS'UAO'
+p5002
+S'Aurora State'
+p5003
+sS'5NI'
+p5004
+S'Nikolai'
+p5005
+sS'5NK'
+p5006
+S'Naknek'
+p5007
+sS'5NN'
+p5008
+S'Nondalton'
+p5009
+sS'HZE'
+p5010
+S'Mercer County Regional'
+p5011
+sS'HZD'
+p5012
+g1058
+sS'EHR'
+p5013
+S'Henderson City-County'
+p5014
+sS'SBS'
+p5015
+S'Steamboat Springs'
+p5016
+sS'5N8'
+p5017
+S'Casselton Regional'
+p5018
+sS'HZL'
+p5019
+S'Hazleton Muni'
+p5020
+sS'HNS'
+p5021
+S'Haines'
+p5022
+sS'T49'
+p5023
+S'Big Spring McMahon-Wrinkle'
+p5024
+sS'ILE'
+p5025
+S'Killeen Municipal'
+p5026
+sS'EHA'
+p5027
+S'Elkhart-Morton County'
+p5028
+sS'E60'
+p5029
+S'Eloy Municipal'
+p5030
+sS'EHO'
+p5031
+S'Shelby Municipal'
+p5032
+sS'E63'
+p5033
+S'Gila Bend Municipal'
+p5034
+sS'HZY'
+p5035
+S'Ashtabula County'
+p5036
+sS'ROR'
+p5037
+S'Babelthoup/Koror'
+p5038
+sS'I34'
+p5039
+S'Greensburg-Decatur County '
+p5040
+sS'LAL'
+p5041
+S'Lakeland Linder Regional'
+p5042
+sS'LAM'
+p5043
+S'Los Alamos'
+p5044
+sS'LAN'
+p5045
+g1397
+sS'FFZ'
+p5046
+S'Falcon '
+p5047
+sS'SD07'
+p5048
+S'Bison Municipal'
+p5049
+sS'01G'
+p5050
+S'Perry-Warsaw'
+p5051
+sS'01J'
+p5052
+S'Hilliard Airpark'
+p5053
+sS'FFT'
+p5054
+g1397
+sS'01M'
+p5055
+S'Tishomingo County'
+p5056
+sS'FFM'
+p5057
+S'Fergus Falls Muni-Einar Mickelson'
+p5058
+sS'FFL'
+p5059
+g1005
+sS'LAX'
+p5060
+S'Los Angeles International'
+p5061
+sS'OVE'
+p5062
+S'Oroville Municipal'
+p5063
+sS'O53'
+p5064
+S'Medford Municipal'
+p5065
+sS'O52'
+p5066
+S'Sutter County'
+p5067
+sS'H71'
+p5068
+S'Mid-America Industrial'
+p5069
+sS'FFC'
+p5070
+S'Peachtree City - Falcon '
+p5071
+sS'OVO'
+p5072
+S'North Vernon'
+p5073
+sS'FFA'
+p5074
+S'First Flight'
+p5075
+sS'LAS'
+p5076
+S'McCarran International'
+p5077
+sS'UOS'
+p5078
+g1851
+sS'D73'
+p5079
+S'Monroe-Walton County'
+p5080
+sS'SBY'
+p5081
+S'Salisbury-Ocean City: Wicomico Regional'
+p5082
+sS'DTO'
+p5083
+S'Denton Municipal'
+p5084
+sS'D77'
+p5085
+g723
+sS'DTL'
+p5086
+S'Detroit Lakes -Wething '
+p5087
+sS'DTA'
+p5088
+S'Delta Municipal'
+p5089
+sS'UOX'
+p5090
+S'University-Oxford'
+p5091
+sS'PAH'
+p5092
+S'Barkley Regional'
+p5093
+sS'PUB'
+p5094
+S'Pueblo Memorial'
+p5095
+sS'S25'
+p5096
+S'Watford City Municipal'
+p5097
+sS'DTS'
+p5098
+S'Destin-Ft. Walton Beach'
+p5099
+sS'T44'
+p5100
+S'Trident Basin'
+p5101
+sS'DTW'
+p5102
+S'Detroit Metropolitan-Wayne County'
+p5103
+sS'TRL'
+p5104
+S'Terrell Municipal'
+p5105
+sS'RZN'
+p5106
+S'Burnett County'
+p5107
+sS'PAK'
+p5108
+S'Port Allen'
+p5109
+sS'SBA'
+p5110
+S'Santa Barbara Municipal'
+p5111
+sS'40U'
+p5112
+S'Manila'
+p5113
+sS'44N'
+p5114
+S'Sky Acres'
+p5115
+sS'EWB'
+p5116
+S'New Bedford Municipal'
+p5117
+sS'44B'
+p5118
+S'Dover/Foxcroft'
+p5119
+sS'3LF'
+p5120
+g2798
+sS'N00'
+p5121
+S'Maben'
+p5122
+sS'N03'
+p5123
+S'Cortland Cty-Chase '
+p5124
+sS'3LC'
+p5125
+S'Logan County'
+p5126
+sS'C47'
+p5127
+S'Portage Municipal'
+p5128
+sS'9M4'
+p5129
+S'Ackerman-Choctaw County'
+p5130
+sS'FTW'
+p5131
+S'Fort Worth Meacham International'
+p5132
+sS'9M6'
+p5133
+S'Kelly'
+p5134
+sS'FTY'
+p5135
+S'Fulton County - Brown '
+p5136
+sS'9M8'
+p5137
+S'Sheridan-Grant County Regional'
+p5138
+sS'IGG'
+p5139
+S'Igiugig'
+p5140
+sS'U25'
+p5141
+S'Dubois Municipal'
+p5142
+sS'MQB'
+p5143
+S'Macomb Municipal'
+p5144
+sS'FTG'
+p5145
+S'Front Range'
+p5146
+sS'IGM'
+p5147
+S'Kingman'
+p5148
+sS'W31'
+p5149
+S'Lunenburg County'
+p5150
+sS'CBF'
+p5151
+S'Council Bluffs Municipal'
+p5152
+sS'CBG'
+p5153
+S'Cambridge Municipal'
+p5154
+sS'CBE'
+p5155
+S'Cumberland Regional'
+p5156
+sS'CBK'
+p5157
+S'Shaltz '
+p5158
+sS'W33'
+p5159
+g1272
+sS'S28'
+p5160
+S'International Peace Garden'
+p5161
+sS'MXO'
+p5162
+S'Monticello Municipal'
+p5163
+sS'59B'
+p5164
+S'Newton '
+p5165
+sS'PJY'
+p5166
+S'Pinckneyville-Duquoin'
+p5167
+sS'SBM'
+p5168
+S'Sheboygan County Memorial'
+p5169
+sS'MXA'
+p5170
+S'Manila Municipal'
+p5171
+sS'WNA'
+p5172
+S'Napakiak'
+p5173
+sS'SMX'
+p5174
+S'Santa Maria Pub/Capt G Allan Hancock '
+p5175
+sS'PZQ'
+p5176
+S'Presque Isle County'
+p5177
+sS'SMS'
+p5178
+S'Sumter Municipal'
+p5179
+sS'ERV'
+p5180
+S'Kerrville Muni/Louis Schreiner '
+p5181
+sS'SMQ'
+p5182
+S'Somerset '
+p5183
+sS'SMO'
+p5184
+S'Santa Monica Municipal'
+p5185
+sS'SMN'
+p5186
+S'Lemhi County'
+p5187
+sS'T36'
+p5188
+S'Paul Pittman Memorial'
+p5189
+sS'BZN'
+p5190
+S'Gallatin '
+p5191
+sS'SME'
+p5192
+S'Somerset-Pulaski County'
+p5193
+sS'SMD'
+p5194
+S'Smith '
+p5195
+sS'GGW'
+p5196
+S'Wokal Field/Glasgow Intl'
+p5197
+sS'F70'
+p5198
+S'French Valley'
+p5199
+sS'GGP'
+p5200
+S'Logansport Municipal'
+p5201
+sS'X46'
+p5202
+S'Opa-Locka West'
+p5203
+sS'JSO'
+p5204
+S'Jacksonville-Cherokee County'
+p5205
+sS'MDF'
+p5206
+S'Mooreland Municipal'
+p5207
+sS'MDD'
+p5208
+S'Midland Airpark'
+p5209
+sS'6I2'
+p5210
+S'Lebanon-Springfield'
+p5211
+sS'GGG'
+p5212
+S'Gregg County'
+p5213
+sS'GGF'
+p5214
+S'Grant Municipal'
+p5215
+sS'UCP'
+p5216
+S'New Castle Muni'
+p5217
+sS'MDR'
+p5218
+S'Medfra'
+p5219
+sS'0J4'
+p5220
+S'Florala Municipal'
+p5221
+sS'0J6'
+p5222
+S'Headland Municipal'
+p5223
+sS'GGI'
+p5224
+S'Grinnell Municipal'
+p5225
+sS'0J0'
+p5226
+S'Abbeville Municipal'
+p5227
+sS'MDT'
+p5228
+S'Harrisburg Intl'
+p5229
+sS'JER'
+p5230
+S'Jerome County'
+p5231
+sS'JES'
+p5232
+S'Jesup-Wayne County'
+p5233
+sS'MQW'
+p5234
+S'Telfair-Wheeler'
+p5235
+sS'L45'
+p5236
+S'Bakersfield Municipal'
+p5237
+sS'BAZ'
+p5238
+S'New Braunfels Municipal'
+p5239
+sS'DFW'
+p5240
+S'Dallas-Fort Worth International'
+p5241
+sS'MQY'
+p5242
+S'Smyrna'
+p5243
+sS'MVC'
+p5244
+g991
+sS'DFI'
+p5245
+S'Defiance Memorial'
+p5246
+sS'MVE'
+p5247
+S'Montevideo-Chippewa County '
+p5248
+sS'MVI'
+p5249
+S'Monte Vista Muni'
+p5250
+sS'MVL'
+p5251
+S'Morrisville-Stowe State'
+p5252
+sS'MVM'
+p5253
+S'Machias Valley'
+p5254
+sS'MVN'
+p5255
+S'Mt Vernon-Outland'
+p5256
+sS'ALN'
+p5257
+S'St. Louis Regional'
+p5258
+sS'ALO'
+p5259
+S'Waterloo Municipal'
+p5260
+sS'ALM'
+p5261
+S'Alamogordo-White Sands Regional'
+p5262
+sS'KCC'
+p5263
+S'Coffman Cove SPB'
+p5264
+sS'ALI'
+p5265
+S'Alice International'
+p5266
+sS'ALB'
+p5267
+S'Albany Cty'
+p5268
+sS'33S'
+p5269
+S'Pru '
+p5270
+sS'33M'
+p5271
+S'Water Valley '
+p5272
+sS'3J1'
+p5273
+S'Ridgeland'
+p5274
+sS'33N'
+p5275
+S'Delaware Airpark'
+p5276
+sS'ALX'
+p5277
+S'Thomas C Russell '
+p5278
+sS'33J'
+p5279
+S'Geneva Municipal'
+p5280
+sS'ALW'
+p5281
+S'Walla Walla Regional'
+p5282
+sS'EWK'
+p5283
+S'Newton-City-County'
+p5284
+sS'ALS'
+p5285
+S'San Luis Valley Regional/Bergman '
+p5286
+sS'K34'
+p5287
+g1070
+sS'K33'
+p5288
+S'Salem Memorial'
+p5289
+sS'TOR'
+p5290
+S'Torrington Muni'
+p5291
+sS'TOP'
+p5292
+S'Philip Billard Municipal'
+p5293
+sS'K39'
+p5294
+S'St Clair Memorial'
+p5295
+sS'ND17'
+p5296
+S'Harvey Municipal'
+p5297
+sS'IAN'
+p5298
+S'Bob Baker Memorial'
+p5299
+sS'94K'
+p5300
+S'Cassville Municipal'
+p5301
+sS'TOL'
+p5302
+S'Toledo Express'
+p5303
+sS'TOB'
+p5304
+S'Dodge Center'
+p5305
+sS'TOC'
+p5306
+S'Toccoa, R G Le Tourneau '
+p5307
+sS'TOA'
+p5308
+S'Zamperini '
+p5309
+sS'TOG'
+p5310
+S'Togiak Village'
+p5311
+sS'GQQ'
+p5312
+S'Galion Municipal'
+p5313
+sS'OEB'
+p5314
+S'Branch County Memorial'
+p5315
+sS'KFP'
+p5316
+S'False Pass'
+p5317
+sS'BAK'
+p5318
+S'Columbus Municipal'
+p5319
+sS'HIB'
+p5320
+S'Chisholm-Hibbing'
+p5321
+sS'HIE'
+p5322
+S'Mt Washington Regional'
+p5323
+sS'HIG'
+p5324
+S'Higginsville Industrial Municipal'
+p5325
+sS'1J0'
+p5326
+g3380
+sS'HII'
+p5327
+S'Lake Havasu City'
+p5328
+sS'IAG'
+p5329
+S'Niagara Falls Intl'
+p5330
+sS'HIO'
+p5331
+S'Portland-Hillsboro'
+p5332
+sS'C29'
+p5333
+S'Morey'
+p5334
+sS'ABE'
+p5335
+S'Lehigh Valley International'
+p5336
+sS'ABI'
+p5337
+S'Abilene Regional'
+p5338
+sS'HGR'
+p5339
+S'Hagerstown Regional-Richard Henson '
+p5340
+sS'ABO'
+p5341
+S'Antonio (Nery) Juarbe Pol'
+p5342
+sS'ABQ'
+p5343
+S'Albuquerque International'
+p5344
+sS'ABR'
+p5345
+S'Aberdeen Regional'
+p5346
+sS'NC67'
+p5347
+S'Ashe County'
+p5348
+sS'X10'
+p5349
+S'Belle Glade Municipal'
+p5350
+sS'ABY'
+p5351
+S'Southwest Georgia Regional'
+p5352
+sS'X14'
+p5353
+S'Labelle Municipal'
+p5354
+sS'KTB'
+p5355
+S'Thorne Bay'
+p5356
+sS'BHK'
+p5357
+S'Baker Muni'
+p5358
+sS'BHM'
+p5359
+S'Birmingham International'
+p5360
+sS'BHC'
+p5361
+S'Baxley Municipal'
+p5362
+sS'BHB'
+p5363
+S'Hancock Co-Bar Harbor'
+p5364
+sS'A04'
+p5365
+S'Centre Municipal'
+p5366
+sS'4O3'
+p5367
+S'Blackwell-Tonkawa Municipal'
+p5368
+sS'EGQ'
+p5369
+S'Emmetsburg Municipal'
+p5370
+sS'EGV'
+p5371
+S'Eagle River Union'
+p5372
+sS'4O4'
+p5373
+S'McCurtain County Regional'
+p5374
+sS'4O5'
+p5375
+g937
+sS'S32'
+p5376
+S'Cooperstown Municipal'
+p5377
+sS'EGE'
+p5378
+S'Eagle County Regional'
+p5379
+sS'OQW'
+p5380
+S'Maquoketa Municipal'
+p5381
+sS'K88'
+p5382
+g3874
+sS'02G'
+p5383
+S'Columbiana County'
+p5384
+sS'02A'
+p5385
+S'Gragg-Wade '
+p5386
+sS'LBT'
+p5387
+S'Lumberton Municipal'
+p5388
+sS'02C'
+p5389
+S'Capitol'
+p5390
+sS'K89'
+p5391
+S'Macon-Fower Memorial'
+p5392
+sS'LBX'
+p5393
+S'Brazoria County'
+p5394
+sS'RAL'
+p5395
+S'Riverside Municipal'
+p5396
+sS'LBB'
+p5397
+S'Lubbock International'
+p5398
+sS'LBE'
+p5399
+S'Arnold Palmer Regional'
+p5400
+sS'RAP'
+p5401
+S'Rapid City Regional'
+p5402
+sS'LBF'
+p5403
+S'North Platte Regional '
+p5404
+sS'LBL'
+p5405
+S'Liberal Municipal'
+p5406
+sS'LBO'
+p5407
+S'Floyd W Jones Lebanon'
+p5408
+sS'EYE'
+p5409
+S'Eagle Creek Airpark'
+p5410
+sS'BFF'
+p5411
+S'Scotts Bluff County'
+p5412
+sS'BFD'
+p5413
+S'Bradford Reg'
+p5414
+sS'BFK'
+p5415
+g3260
+sS'BFI'
+p5416
+S'Boeing Field/King County Intl'
+p5417
+sS'LPR'
+p5418
+S'Lorain Co Regional'
+p5419
+sS'BFM'
+p5420
+S'Mobile Downtown'
+p5421
+sS'BFL'
+p5422
+S'Meadows '
+p5423
+sS'BFR'
+p5424
+S'Virgil I Grissom Municipal'
+p5425
+sS'PHH'
+p5426
+S'Andrews Municipal'
+p5427
+sS'BFW'
+p5428
+S'Silver Bay Municipal'
+p5429
+sS'EYW'
+p5430
+S'Key West International'
+p5431
+sS'LPC'
+p5432
+S'Lompoc'
+p5433
+sS'PHN'
+p5434
+S'St Clair County International'
+p5435
+sS'13C'
+p5436
+S'Lakeview'
+p5437
+sS'Q44'
+p5438
+g2866
+sS'K83'
+p5439
+S'Sabetha Municipal'
+p5440
+sS'Q42'
+p5441
+S'Springer Municipal'
+p5442
+sS'Q41'
+p5443
+S'Floydada Municipal'
+p5444
+sS'13K'
+p5445
+g1086
+sS'VIH'
+p5446
+S'Rolla National'
+p5447
+sS'13N'
+p5448
+S'Trinca'
+p5449
+sS'Q49'
+p5450
+S'Firebaugh'
+p5451
+sS'VIS'
+p5452
+S'Visalia Municipal'
+p5453
+sS'VIQ'
+p5454
+S'Neillsville Municipal'
+p5455
+sS'0O4'
+p5456
+g4529
+sS'TYR'
+p5457
+S'Tyler Pounds '
+p5458
+sS'TYS'
+p5459
+S'McGhee-Tyson'
+p5460
+sS'5M4'
+p5461
+S'Fordyce Municipal'
+p5462
+sS'5M1'
+p5463
+S'De Witt Municipal'
+p5464
+sS'5M0'
+p5465
+S'Rountree '
+p5466
+sS'F85'
+p5467
+S'Morton-Cochran County'
+p5468
+sS'F84'
+p5469
+S'Stigler Municipal'
+p5470
+sS'F87'
+p5471
+S'Farmerville'
+p5472
+sS'5M9'
+p5473
+S'Marion-Crittenden County'
+p5474
+sS'2AK'
+p5475
+S'Lime Village'
+p5476
+sS'OCF'
+p5477
+S'Ocala Regional/Jim Taylor '
+p5478
+sS'IFA'
+p5479
+S'Iowa Falls Municipal'
+p5480
+sS'OCQ'
+p5481
+S'Oconto Municipal'
+p5482
+sS'FUL'
+p5483
+S'Fullerton Municipal'
+p5484
+sS'E51'
+p5485
+S'Bagdad'
+p5486
+sS'OCW'
+p5487
+S'Warren '
+p5488
+sS'E52'
+p5489
+S'Oldham County'
+p5490
+sS'CEF'
+p5491
+S'Westover AFB'
+p5492
+sS'CEC'
+p5493
+S'Jack McNamara '
+p5494
+sS'VES'
+p5495
+S'Darke County'
+p5496
+sS'CEM'
+p5497
+S'Central'
+p5498
+sS'CEK'
+p5499
+S'Crete Municipal'
+p5500
+sS'CEW'
+p5501
+S'Bob Sikes'
+p5502
+sS'CEV'
+p5503
+S'Mettel '
+p5504
+sS'CEU'
+p5505
+S'Oconee County Regional'
+p5506
+sS'PHX'
+p5507
+S'Phoenix Sky Harbor International'
+p5508
+sS'PKF'
+p5509
+S'Park Falls Municipal'
+p5510
+sS'SSI'
+p5511
+S'Malcolm McKinnon'
+p5512
+sS'PKD'
+p5513
+S'Park Rapids Municipal'
+p5514
+sS'O41'
+p5515
+S'Watts-Woodland'
+p5516
+sS'O42'
+p5517
+S'Woodlake'
+p5518
+sS'IDA'
+p5519
+S'Idaho Falls Regional'
+p5520
+sS'CEZ'
+p5521
+S'Cortez Muni'
+p5522
+sS'CEY'
+p5523
+S'Kyle-Oakley '
+p5524
+sS'O47'
+p5525
+S'Prague Municipal'
+p5526
+sS'CSM'
+p5527
+S'Clinton-Sherman'
+p5528
+sS'D05'
+p5529
+S'Garrison Municipal'
+p5530
+sS'D04'
+p5531
+S'Bowman Municipal'
+p5532
+sS'CSG'
+p5533
+S'Columbus Metropolitan'
+p5534
+sS'PMV'
+p5535
+S'Plattsmouth Municipal'
+p5536
+sS'D09'
+p5537
+S'Bottineau Municipal'
+p5538
+sS'CSB'
+p5539
+g5154
+sS'CSV'
+p5540
+S'Crossville Memorial'
+p5541
+sS'CSQ'
+p5542
+S'Creston Municipal'
+p5543
+sS'N12'
+p5544
+S'Lakewood'
+p5545
+sS'N13'
+p5546
+S'Bloomsburg Muni'
+p5547
+sS'N10'
+p5548
+S'Perkiomen Valley'
+p5549
+sS'PHP'
+p5550
+S'Philip'
+p5551
+sS'N14'
+p5552
+S'Flying W'
+p5553
+sS'OLS'
+p5554
+S'Nogales International'
+p5555
+sS'KTN'
+p5556
+S'Ketchikan International'
+p5557
+sS'2A3'
+p5558
+S'Larsen Bay'
+p5559
+sS'2A0'
+p5560
+S'Mark Anton'
+p5561
+sS'2A1'
+p5562
+g1463
+sS'O68'
+p5563
+S'Mariposa-Yosemite'
+p5564
+sS'2A9'
+p5565
+S'Kotlik'
+p5566
+sS'MUT'
+p5567
+S'Muscatine Municipal'
+p5568
+sS'O69'
+p5569
+S'Petaluma Municipal'
+p5570
+sS'JBR'
+p5571
+S'Jonesboro Municipal'
+p5572
+sS'C71'
+p5573
+g4229
+sS'PMX'
+p5574
+S'Metropolitan'
+p5575
+sS'C73'
+p5576
+S'Dixon Muni-Charles R Walgreen '
+p5577
+sS'C75'
+p5578
+S'Marshall County'
+p5579
+sS'C77'
+p5580
+S'Poplar Grove '
+p5581
+sS'MUE'
+p5582
+S'Waimea-Kohala'
+p5583
+sS'RED'
+p5584
+S'Red Lodge'
+p5585
+sS'U10'
+p5586
+S'Preston'
+p5587
+sS'OEL'
+p5588
+S'Oakley Municipal'
+p5589
+sS'ORS'
+p5590
+S'Orcas Island'
+p5591
+sS'U14'
+p5592
+S'Nephi Municipal'
+p5593
+sS'ASW'
+p5594
+S'Warsaw Municipal'
+p5595
+sS'AST'
+p5596
+S'Astoria Regional'
+p5597
+sS'ASX'
+p5598
+S'John F Kennedy Memorial'
+p5599
+sS'NUL'
+p5600
+S'Nulato'
+p5601
+sS'Q16'
+p5602
+S'Reserve'
+p5603
+sS'ASG'
+p5604
+S'Springdale Municipal'
+p5605
+sS'DGW'
+p5606
+S'Converse County'
+p5607
+sS'ASE'
+p5608
+S'Aspen-Pitkin Co/Sardy '
+p5609
+sS'0A9'
+p5610
+S'Elizabethton Municipal'
+p5611
+sS'L15'
+p5612
+S'Henderson'
+p5613
+sS'ASJ'
+p5614
+g3380
+sS'ASH'
+p5615
+S'Boire '
+p5616
+sS'ASN'
+p5617
+S'Talladega Municipal'
+p5618
+sS'ASL'
+p5619
+S'Marshall - Harrison County'
+p5620
+sS'DUJ'
+p5621
+S'Du Bois-Jefferson Cty'
+p5622
+sS'UNU'
+p5623
+S'Dodge County'
+p5624
+sS'UNV'
+p5625
+g2373
+sS'DUA'
+p5626
+S'Eaker '
+p5627
+sS'DUC'
+p5628
+S'Halliburton '
+p5629
+sS'65J'
+p5630
+S'Wrens Memorial'
+p5631
+sS'DUG'
+p5632
+S'Bisbee Douglas International'
+p5633
+sS'DUX'
+p5634
+g3867
+sS'DUY'
+p5635
+S'Kongiganak'
+p5636
+sS'65S'
+p5637
+S'Boundary County'
+p5638
+sS'UNI'
+p5639
+S'Ohio University'
+p5640
+sS'IN03'
+p5641
+S'Indianapolis Downtown'
+p5642
+sS'UNK'
+p5643
+S'Unalakleet'
+p5644
+sS'DUT'
+p5645
+S'Unalaska'
+p5646
+sS'UNO'
+p5647
+S'West Plains Municipal'
+p5648
+sS'ITO'
+p5649
+S'Hilo International'
+p5650
+sS'OMA'
+p5651
+S'Eppley Airfield'
+p5652
+sS'0K7'
+p5653
+g451
+sS'ITH'
+p5654
+S'Tompkins Cty '
+p5655
+sS'OMK'
+p5656
+S'Omak'
+p5657
+sS'PMH'
+p5658
+S'Greater Portsmouth Regional'
+p5659
+sS'45R'
+p5660
+S'Kountz - Hawthorne '
+p5661
+sS'OMH'
+p5662
+g1937
+sS'OMN'
+p5663
+S'Ormond Beach Municipal'
+p5664
+sS'6N7'
+p5665
+S'New York Skyports Inc. SPB'
+p5666
+sS'6N5'
+p5667
+S'E 34th St Heliport'
+p5668
+sS'3O5'
+p5669
+S'Walters Municipal'
+p5670
+sS'3O4'
+p5671
+S'Sayre Municipal'
+p5672
+sS'3O7'
+p5673
+S'Hollister Municipal'
+p5674
+sS'3O9'
+p5675
+S'Grand Lake Regional'
+p5676
+sS'GBR'
+p5677
+S'Great Barrington'
+p5678
+sS'ITR'
+p5679
+S'Kit Carson County'
+p5680
+sS'6N8'
+p5681
+S'Thomas County '
+p5682
+sS'RDU'
+p5683
+S'Raleigh-Durham International'
+p5684
+sS'L52'
+p5685
+S'Oceano County'
+p5686
+sS'AAF'
+p5687
+S'Apalachicola Municipal'
+p5688
+sS'1MO'
+p5689
+S'Mountain Grove Memorial'
+p5690
+sS'SSF'
+p5691
+S'Stinson Municipal'
+p5692
+sS'AAO'
+p5693
+S'Colonel James Jabara'
+p5694
+sS'AAT'
+p5695
+S'Alturas Municipal'
+p5696
+sS'PIZ'
+p5697
+S'Point Lay Dew Station'
+p5698
+sS'Z84'
+p5699
+S'Clear'
+p5700
+sS'AAS'
+p5701
+S'Taylor County'
+p5702
+sS'ELN'
+p5703
+S'Bowers '
+p5704
+sS'OLY'
+p5705
+S'Olney-Noble'
+p5706
+sS'BIL'
+p5707
+S'Billings Logan Intl'
+p5708
+sS'SBD'
+p5709
+S'San Bernardino International'
+p5710
+sS'BIH'
+p5711
+g2210
+sS'BIG'
+p5712
+S'Allen AAF'
+p5713
+sS'BID'
+p5714
+S'Block Island State'
+p5715
+sS'BIE'
+p5716
+S'Beatrice Municipal'
+p5717
+sS'Z40'
+p5718
+S'Goose Bay'
+p5719
+sS'KWT'
+p5720
+S'Kwethluk'
+p5721
+sS'BIV'
+p5722
+S'Tulip City'
+p5723
+sS'BIS'
+p5724
+S'Bismarck Municipal'
+p5725
+sS'IZA'
+p5726
+S'Santa Ynez'
+p5727
+sS'K29'
+p5728
+S'Council'
+p5729
+sS'O43'
+p5730
+S'Yerington Municipal'
+p5731
+sS'38A'
+p5732
+S'Shaktoolik'
+p5733
+sS'K22'
+p5734
+S'Big Sandy Regional'
+p5735
+sS'K20'
+p5736
+S'Wendell H. Ford'
+p5737
+sS'SLQ'
+p5738
+S'Sleetmute'
+p5739
+sS'K24'
+p5740
+S'Russell County'
+p5741
+sS'32M'
+p5742
+S'Norfolk'
+p5743
+sS'32S'
+p5744
+S'Stevensville'
+p5745
+sS'SLN'
+p5746
+S'Salina Municipal'
+p5747
+sS'SLO'
+p5748
+S'Salem-Leckrone'
+p5749
+sS'SLK'
+p5750
+S'Adirondack'
+p5751
+sS'MFD'
+p5752
+S'Mansfield Lahm Municipal'
+p5753
+sS'Y31'
+p5754
+S'West Branch Community'
+p5755
+sS'SLG'
+p5756
+g5195
+sS'Y37'
+p5757
+S'Park River Municipal'
+p5758
+sS'SLB'
+p5759
+S'Storm Lake Municipal'
+p5760
+sS'MFE'
+p5761
+S'McAllen Miller International'
+p5762
+sS'GFZ'
+p5763
+S'Greenfield Municipal'
+p5764
+sS'ELZ'
+p5765
+S'Wellsville Muni Tarantine'
+p5766
+sS'MCK'
+p5767
+S'McCook Municipal'
+p5768
+sS'MCI'
+p5769
+S'Kansas City International'
+p5770
+sS'RDD'
+p5771
+S'Redding Municipal'
+p5772
+sS'MCG'
+p5773
+S'McGrath'
+p5774
+sS'MCE'
+p5775
+S'Merced Municipal/MacReady '
+p5776
+sS'MCD'
+p5777
+S'Mackinac Island'
+p5778
+sS'MCB'
+p5779
+S'McComb-Pike County'
+p5780
+sS'SD12'
+p5781
+S'Wilder'
+p5782
+sS'GFK'
+p5783
+S'Grand Forks International'
+p5784
+sS'7N0'
+p5785
+S'New Orleans Downtown Heliport'
+p5786
+sS'7N1'
+p5787
+S'Corning-Painted Post'
+p5788
+sS'1I9'
+p5789
+S'Delphi Municipal'
+p5790
+sS'7N7'
+p5791
+S'Spitfire Aerodrome'
+p5792
+sS'GFL'
+p5793
+S'Floyd D. Bennett'
+p5794
+sS'MCX'
+p5795
+S'White County'
+p5796
+sS'1I5'
+p5797
+S'Freehold'
+p5798
+sS'TCT'
+p5799
+S'Takotna'
+p5800
+sS'SKA'
+p5801
+S'Fairchild AFB'
+p5802
+sS'BGD'
+p5803
+S'Hutchinson County'
+p5804
+sS'BGE'
+p5805
+S'Decatur County Industrial Airpark'
+p5806
+sS'BGF'
+p5807
+S'Winchester Municipal'
+p5808
+sS'BGM'
+p5809
+S'Binghamton Regional'
+p5810
+sS'LQR'
+p5811
+S'Larned-Pawnee County'
+p5812
+sS'EXI'
+p5813
+S'Excursion Inlet SPB'
+p5814
+sS'BGQ'
+p5815
+S'Big Lake Strip Nr 2'
+p5816
+sS'BGR'
+p5817
+S'Bangor International'
+p5818
+sS'LQK'
+p5819
+g1229
+sS'X26'
+p5820
+S'Sebastian Municipal'
+p5821
+sS'X21'
+p5822
+S'Arthur Dunn Airpark'
+p5823
+sS'EXX'
+p5824
+S'Davidson County'
+p5825
+sS'12C'
+p5826
+S'Rochelle Municipal'
+p5827
+sS'12D'
+p5828
+S'Tower Municipal'
+p5829
+sS'TZT'
+p5830
+S'Belle Plaine Municipal'
+p5831
+sS'A79'
+p5832
+S'Chignik Lake'
+p5833
+sS'TZV'
+p5834
+S'Tompkinsville-Monroe County'
+p5835
+sS'ELV'
+p5836
+S'Elfin Cove SPB'
+p5837
+sS'12J'
+p5838
+S'Brewton Municipal'
+p5839
+sS'12K'
+p5840
+S'Superior Municipal'
+p5841
+sS'99Y'
+p5842
+S'Greeley Municipal'
+p5843
+sS'TCL'
+p5844
+S'Tuscaloosa Municipal'
+p5845
+sS'VNW'
+p5846
+S'Van Wert County'
+p5847
+sS'12Y'
+p5848
+S'Le Sueur Municipal'
+p5849
+sS'99N'
+p5850
+S'Bamburg County'
+p5851
+sS'45J'
+p5852
+S'Rockingham-Hamlet'
+p5853
+sS'VNY'
+p5854
+S'Van Nuys'
+p5855
+sS'W97'
+p5856
+S'Middle Peninsula Regional'
+p5857
+sS'GPM'
+p5858
+S'Grand Prairie Municipal'
+p5859
+sS'W95'
+p5860
+S'Ocracoke Island'
+p5861
+sS'GPH'
+p5862
+S'Clay County Regional'
+p5863
+sS'LIH'
+p5864
+S'Lihue'
+p5865
+sS'W99'
+p5866
+g1718
+sS'THP'
+p5867
+S'Hot Springs County-Thermopolis Municipal'
+p5868
+sS'THM'
+p5869
+S'Thompson Falls'
+p5870
+sS'GPZ'
+p5871
+S'Grand Rapids-Itasca County'
+p5872
+sS'GPT'
+p5873
+S'Gulfport-Biloxi Regional'
+p5874
+sS'EGT'
+p5875
+S'Wellington Municipal'
+p5876
+sS'THA'
+p5877
+S'Tullahoma Regional'
+p5878
+sS'KIC'
+p5879
+S'Mesa Del Rey'
+p5880
+sS'KIB'
+p5881
+S'Ivanof Bay SPB'
+p5882
+sS'HJO'
+p5883
+S'Hanford Municipal'
+p5884
+sS'HJH'
+p5885
+S'Hebron Municipal'
+p5886
+sS'OXR'
+p5887
+S'Oxnard'
+p5888
+sS'CRS'
+p5889
+S'C Davis Campbell -Corsicana Muni'
+p5890
+sS'CRP'
+p5891
+S'Corpus Christi International'
+p5892
+sS'CRQ'
+p5893
+S'McClellan-Palomar'
+p5894
+sS'CRW'
+p5895
+S'Yeager'
+p5896
+sS'CRT'
+p5897
+S'Crossett Municipal'
+p5898
+sS'CRX'
+p5899
+S'Roscoe Turner '
+p5900
+sS'CRC'
+p5901
+S'Circle City'
+p5902
+sS'FDR'
+p5903
+g2450
+sS'CRG'
+p5904
+S'Craig Municipal'
+p5905
+sS'FDW'
+p5906
+g1847
+sS'CRE'
+p5907
+S'Grand Strand'
+p5908
+sS'FDY'
+p5909
+S'Findlay'
+p5910
+sS'CRO'
+p5911
+S'Corcoran'
+p5912
+sS'FNL'
+p5913
+S'Fort Collins-Loveland '
+p5914
+sS'GLD'
+p5915
+S'Renner Field/Goodland Municipal'
+p5916
+sS'E42'
+p5917
+S'Spearman Municipal'
+p5918
+sS'8A0'
+p5919
+S'Albertville Municipal '
+p5920
+sS'8A1'
+p5921
+S'Guntersville Municipal'
+p5922
+sS'8A3'
+p5923
+g4567
+sS'EFT'
+p5924
+S'Monroe Municipal'
+p5925
+sS'OQU'
+p5926
+S'Quonset State'
+p5927
+sS'EFW'
+p5928
+S'Jefferson Municipal'
+p5929
+sS'EFK'
+p5930
+g2501
+sS'OKZ'
+p5931
+S'Kaolin '
+p5932
+sS'FGX'
+p5933
+S'Fleming-Mason'
+p5934
+sS'EFC'
+p5935
+S'Belle Fourche Municipal'
+p5936
+sS'EFD'
+p5937
+g4048
+sS'RAC'
+p5938
+S'John H Batten '
+p5939
+sS'RNH'
+p5940
+S'New Richmond Municipal'
+p5941
+sS'RNO'
+p5942
+S'Reno/Tahoe International'
+p5943
+sS'4Z4'
+p5944
+S'Holy Cross'
+p5945
+sS'4Z7'
+p5946
+S'Hyder SPB'
+p5947
+sS'LCQ'
+p5948
+S'Lake City Municipal'
+p5949
+sS'RNC'
+p5950
+S'Warren County Memorial'
+p5951
+sS'03D'
+p5952
+S'Memphis Memorial'
+p5953
+sS'LCG'
+p5954
+S'Wayne Municipal'
+p5955
+sS'OPF'
+p5956
+S'Opa-Locka '
+p5957
+sS'GKJ'
+p5958
+S'Port Meadville'
+p5959
+sS'OPL'
+p5960
+S'St Landry Parish - Ahart '
+p5961
+sS'OPN'
+p5962
+S'Thomaston-Upton County'
+p5963
+sS'LCK'
+p5964
+S'Rickenbacker International '
+p5965
+sS'LCH'
+p5966
+S'Lake Charles Regional'
+p5967
+sS'LCI'
+p5968
+S'Laconia Municipal'
+p5969
+sS'MSN'
+p5970
+S'Dane County Regional'
+p5971
+sS'DVL'
+p5972
+S'Devils Lake Municipal-Knoke '
+p5973
+sS'DVO'
+p5974
+S'Gnoss '
+p5975
+sS'DVN'
+p5976
+S'Davenport Municipal'
+p5977
+sS'UMP'
+p5978
+S'Indianapolis Metropolitan'
+p5979
+sS'DVK'
+p5980
+S'Stuart Powell '
+p5981
+sS'9K8'
+p5982
+S'Kingman Municipal'
+p5983
+sS'S69'
+p5984
+S'Lincoln'
+p5985
+sS'D19'
+p5986
+S'Quentin Aanenson '
+p5987
+sS'MHV'
+p5988
+S'Mojave'
+p5989
+sS'DVT'
+p5990
+S'Phoenix-Deer Valley'
+p5991
+sS'S64'
+p5992
+S'Stanford'
+p5993
+sS'N67'
+p5994
+S'Wings '
+p5995
+sS'N66'
+p5996
+S'Oneonta Muni'
+p5997
+sS'OLD'
+p5998
+S'Dewitt Field-Old Town Municipal'
+p5999
+sS'IKV'
+p6000
+S'Ankeny Regional'
+p6001
+sS'OLF'
+p6002
+S'L M Clayton'
+p6003
+sS'OLM'
+p6004
+S'Olympia'
+p6005
+sS'N69'
+p6006
+S'Stormville'
+p6007
+sS'N68'
+p6008
+S'Chambersburg Muni'
+p6009
+sS'47J'
+p6010
+S'Cheraw Municipal'
+p6011
+sS'46N'
+p6012
+S'Sky Park'
+p6013
+sS'OLU'
+p6014
+g5319
+sS'OLV'
+p6015
+S'Olive Branch'
+p6016
+sS'IKK'
+p6017
+S'Greater Kankakee'
+p6018
+sS'46D'
+p6019
+S'Carrington Municipal'
+p6020
+sS'OLZ'
+p6021
+S'Oelwein Municipal'
+p6022
+sS'F99'
+p6023
+S'Holdenville Municipal'
+p6024
+sS'46A'
+p6025
+S'Blairsville'
+p6026
+sS'73C'
+p6027
+g723
+sS'9C8'
+p6028
+S'Evart Municipal'
+p6029
+sS'C66'
+p6030
+S'Monmouth Municipal'
+p6031
+sS'MSS'
+p6032
+S"Massena Int'l-Richards "
+p6033
+sS'73J'
+p6034
+S'Beaufort County'
+p6035
+sS'C62'
+p6036
+S'Kendallville Municipal'
+p6037
+sS'FZI'
+p6038
+S'Fostoria Metropolitan'
+p6039
+sS'IEM'
+p6040
+S'Whittier'
+p6041
+sS'U08'
+p6042
+S'Perkins '
+p6043
+sS'IEN'
+p6044
+S'Pine Ridge'
+p6045
+sS'OBU'
+p6046
+S'Kobuk'
+p6047
+sS'FZG'
+p6048
+S'Fitzgerald Municipal'
+p6049
+sS'U03'
+p6050
+S'Buhl Municipal'
+p6051
+sS'M99'
+p6052
+S'Saline County/Watts '
+p6053
+sS'PLR'
+p6054
+S'St Clair County'
+p6055
+sS'CDB'
+p6056
+S'Cold Bay'
+p6057
+sS'CDC'
+p6058
+S'Cedar City Muni'
+p6059
+sS'M91'
+p6060
+S'Springfield-Robertson County'
+p6061
+sS'CDN'
+p6062
+S'Woodward '
+p6063
+sS'CDH'
+p6064
+S'Harrell '
+p6065
+sS'CDI'
+p6066
+g5154
+sS'M97'
+p6067
+S'Tunica Municipal'
+p6068
+sS'CDK'
+p6069
+S'George T Lewis'
+p6070
+sS'PSB'
+p6071
+S'Mid-State'
+p6072
+sS'CDV'
+p6073
+S'Merle K (Mudhole) Smith'
+p6074
+sS'CDW'
+p6075
+S'Essex Cty Arpt'
+p6076
+sS'PLB'
+p6077
+S'Clinton Cty'
+p6078
+sS'CDR'
+p6079
+S'Chadron Municipal'
+p6080
+sS'PSC'
+p6081
+S'Tri-Cities'
+p6082
+sS'57C'
+p6083
+S'East Troy Municipal'
+p6084
+sS'5Z5'
+p6085
+S'Kantishna'
+p6086
+sS'5Z1'
+p6087
+S'Juneau Harbor'
+p6088
+sS'M73'
+p6089
+S'Almyra Municipal'
+p6090
+sS'M72'
+p6091
+S'New Albany-Union County'
+p6092
+sS'35D'
+p6093
+S'Padgham '
+p6094
+sS'M77'
+p6095
+S'Howard County'
+p6096
+sS'M76'
+p6097
+S'Picayune Municipal'
+p6098
+sS'35A'
+p6099
+S'Union County, Troy Shelton '
+p6100
+sS'TPF'
+p6101
+S'Peter O. Knight'
+p6102
+sS'PSF'
+p6103
+g4170
+sS'M79'
+p6104
+S'John H Hooks Jr Memorial'
+p6105
+sS'M78'
+p6106
+S'Malvern Municipal'
+p6107
+sS'IYK'
+p6108
+S'Inyokern'
+p6109
+sS'PSG'
+p6110
+S'James C. Johnson Petersburg'
+p6111
+sS'BXK'
+p6112
+S'Buckeye Municipal'
+p6113
+sS'35S'
+p6114
+S'Wasco State'
+p6115
+sS'MOU'
+p6116
+S'Mountain Village'
+p6117
+sS'IYS'
+p6118
+S'Wasilla'
+p6119
+sS'LXN'
+p6120
+S'Lexington (Jim Kelly )'
+p6121
+sS'BXA'
+p6122
+S'George R Carr Memorial'
+p6123
+sS'ND26'
+p6124
+S'Kenmare Municipal'
+p6125
+sS'PSE'
+p6126
+S'Mercedita'
+p6127
+sS'BXG'
+p6128
+S'Burke County'
+p6129
+sS'0L7'
+p6130
+S'Jean'
+p6131
+sS'0L5'
+p6132
+S'Goldfield'
+p6133
+sS'MBO'
+p6134
+S'Bruce Campbell '
+p6135
+sS'PPG'
+p6136
+S'Pago Pago International'
+p6137
+sS'PPF'
+p6138
+S'Tri City'
+p6139
+sS'JQF'
+p6140
+S'Concord Regional'
+p6141
+sS'MBG'
+p6142
+S'Mobridge Municipal'
+p6143
+sS'GAS'
+p6144
+S'Gallia - Meigs Regional'
+p6145
+sS'PSX'
+p6146
+S'Palacios Municipal'
+p6147
+sS'0L9'
+p6148
+S'Echo Bay'
+p6149
+sS'3N6'
+p6150
+S'Old Bridge'
+p6151
+sS'HRU'
+p6152
+S'Herington Municipal'
+p6153
+sS'GAM'
+p6154
+S'Gambell'
+p6155
+sS'GAL'
+p6156
+S'Edward G. Pitka Sr.'
+p6157
+sS'MBY'
+p6158
+S'Omar N Bradley'
+p6159
+sS'GAI'
+p6160
+S'Montgomery Co Airpark'
+p6161
+sS'SOV'
+p6162
+S'Seldovia'
+p6163
+sS'GAG'
+p6164
+S'Gage'
+p6165
+sS'GAF'
+p6166
+S'Grafton Municipal'
+p6167
+sS'GAD'
+p6168
+S'Gadsden Municipal'
+p6169
+sS'GAB'
+p6170
+S'Gabbs'
+p6171
+sS'3N8'
+p6172
+S'Mahnomen County '
+p6173
+sS'MBS'
+p6174
+S'Mbs International'
+p6175
+sS'JCT'
+p6176
+S'Kimble County'
+p6177
+sS'L67'
+p6178
+S'Rialto Municipal '
+p6179
+sS'MTP'
+p6180
+S'Montauk'
+p6181
+sS'X59'
+p6182
+S'Valkaria'
+p6183
+sS'MTV'
+p6184
+S'Blue Ridge'
+p6185
+sS'MTW'
+p6186
+S'Manitowoc County'
+p6187
+sS'MTJ'
+p6188
+S'Montrose Regional'
+p6189
+sS'MTH'
+p6190
+S'Florida Keys Marathon'
+p6191
+sS'Z95'
+p6192
+S'Cibecue'
+p6193
+sS'MTN'
+p6194
+S'Martin State'
+p6195
+sS'MTO'
+p6196
+S'Coles County Memorial'
+p6197
+sS'MTM'
+p6198
+S'Metlakatla SPB'
+p6199
+sS'PHG'
+p6200
+S'Phillipsburg Municipal'
+p6201
+sS'TPH'
+p6202
+S'Tonopah'
+p6203
+sS'C80'
+p6204
+S'New Coalinga Municipal'
+p6205
+sS'C81'
+p6206
+S'Campbell'
+p6207
+sS'ARR'
+p6208
+g2034
+sS'C83'
+p6209
+S'Byron'
+p6210
+sS'ART'
+p6211
+S'Watertown Intl'
+p6212
+sS'ARV'
+p6213
+S'Lakeland'
+p6214
+sS'SSQ'
+p6215
+S'Shell Lake Municipal'
+p6216
+sS'HRO'
+p6217
+S'Boone County'
+p6218
+sS'31F'
+p6219
+S'Gaines County'
+p6220
+sS'ARA'
+p6221
+S'Acadiana Regional'
+p6222
+sS'ARB'
+p6223
+S'Ann Arbor Municipal'
+p6224
+sS'ARC'
+p6225
+S'Arctic Village'
+p6226
+sS'ARG'
+p6227
+S'Walnut Ridge Regional'
+p6228
+sS'SGS'
+p6229
+S'South St.Paul Municipal'
+p6230
+sS'GSP'
+p6231
+S'Greenville-Spartanburg'
+p6232
+sS'SGR'
+p6233
+S'Sugar Land Municipal/Hull '
+p6234
+sS'TIX'
+p6235
+S'Space Cost Regional'
+p6236
+sS'GST'
+p6237
+S'Gustavus'
+p6238
+sS'K59'
+p6239
+S'Amelia Earhart'
+p6240
+sS'K57'
+p6241
+S'Gould Peterson Municipal'
+p6242
+sS'M82'
+p6243
+S'Madison County Executive '
+p6244
+sS'K54'
+p6245
+S'Teller'
+p6246
+sS'SGT'
+p6247
+S'Stuttgart Municipal'
+p6248
+sS'GSH'
+p6249
+S'Goshen Municipal'
+p6250
+sS'GSO'
+p6251
+S'Piedmont Triad International'
+p6252
+sS'GSN'
+p6253
+S'Saipan International'
+p6254
+sS'1H2'
+p6255
+S'Effingham County Memorial'
+p6256
+sS'1H3'
+p6257
+S'Linn State Tech. College'
+p6258
+sS'1H0'
+p6259
+S'Creve Coeur'
+p6260
+sS'HKY'
+p6261
+S'Hickory Municipal'
+p6262
+sS'HKS'
+p6263
+S'Hawkins '
+p6264
+sS'1H8'
+p6265
+S'Casey Municipal'
+p6266
+sS'26N'
+p6267
+S'Ocean City Muni cipal'
+p6268
+sS'7I7'
+p6269
+S'Bellefontaine Municipal'
+p6270
+sS'26R'
+p6271
+g591
+sS'L04'
+p6272
+S'Holtville'
+p6273
+sS'26U'
+p6274
+S'McDermitt State'
+p6275
+sS'HNH'
+p6276
+S'Hoonah'
+p6277
+sS'HKA'
+p6278
+S'Blytheville Municipal'
+p6279
+sS'X63'
+p6280
+S'Humacao'
+p6281
+sS'TYL'
+p6282
+S'Taylor'
+p6283
+sS'28J'
+p6284
+S'Kay Larkin'
+p6285
+sS'X35'
+p6286
+S'Dunnellon/Marion Co.'
+p6287
+sS'I25'
+p6288
+S'Welch Muni'
+p6289
+sS'O57'
+p6290
+S'Bryant '
+p6291
+sS'X67'
+p6292
+S'Christiansted Harbor Seaplane Base'
+p6293
+sS'GLR'
+p6294
+S'Otsego County'
+p6295
+sS'X66'
+p6296
+S'Charlotte Amalie Harbor Seaplane Base'
+p6297
+sS'BVS'
+p6298
+S'Skagit Regional/Bay View'
+p6299
+sS'KVC'
+p6300
+S'King Cove'
+p6301
+sS'BVY'
+p6302
+S'Beverly Municipal'
+p6303
+sS'BVX'
+p6304
+S'Batesville Regional'
+p6305
+sS'A61'
+p6306
+S'Tuntutuliak'
+p6307
+sS'A63'
+p6308
+S'Twin Hills'
+p6309
+sS'SQI'
+p6310
+S'Whiteside Co '
+p6311
+sS'SQL'
+p6312
+S'San Carlos'
+p6313
+sS'BVK'
+p6314
+S'Buckland'
+p6315
+sS'BVI'
+p6316
+S'Beaver County'
+p6317
+sS'SGF'
+p6318
+S'Springfield-Branson Regional'
+p6319
+sS'BVO'
+p6320
+S'Bartlesville Municipal'
+p6321
+sS'BVN'
+p6322
+S'Albion Municipal'
+p6323
+sS'4I9'
+p6324
+S'Morrow County'
+p6325
+sS'MSA'
+p6326
+g1571
+sS'EET'
+p6327
+g2303
+sS'4I7'
+p6328
+g505
+sS'4I0'
+p6329
+S'Mingo County'
+p6330
+sS'H05'
+p6331
+S'Wilburton Municipal'
+p6332
+sS'4I3'
+p6333
+S'Knox County'
+p6334
+sS'EEO'
+p6335
+S'Meeker'
+p6336
+sS'EEN'
+p6337
+S'Dillant-Hopkins'
+p6338
+sS'EEK'
+p6339
+S'Eek'
+p6340
+sS'EED'
+p6341
+S'Needles'
+p6342
+sS'KAL'
+p6343
+S'Kaltag'
+p6344
+sS'ETH'
+p6345
+S'Wheaton Municipal'
+p6346
+sS'OSX'
+p6347
+S'Kosciusko-Attala County'
+p6348
+sS'04M'
+p6349
+g3521
+sS'ROA'
+p6350
+S'Roanoke Regional/ Woodrum '
+p6351
+sS'LLQ'
+p6352
+g5163
+sS'ROC'
+p6353
+S"Greater Rochester Int'l"
+p6354
+sS'OSU'
+p6355
+S'Ohio State University'
+p6356
+sS'LLU'
+p6357
+S'Lamar Municipal'
+p6358
+sS'ROG'
+p6359
+S'Rogers Municipal-Carter '
+p6360
+sS'ROX'
+p6361
+S'Roseau Municipal'
+p6362
+sS'LLJ'
+p6363
+S'Challis'
+p6364
+sS'04Y'
+p6365
+S'Hawley Municipal'
+p6366
+sS'ROP'
+p6367
+S'Prachinburi'
+p6368
+sS'OSC'
+p6369
+S'Oscoda - Wurtsmith'
+p6370
+sS'ROS'
+p6371
+S'Rush City Regional'
+p6372
+sS'ROW'
+p6373
+S'Roswell Industrial Air Center'
+p6374
+sS'BDE'
+p6375
+S'Baudette International'
+p6376
+sS'BDG'
+p6377
+S'Blanding Muni'
+p6378
+sS'EWN'
+p6379
+S'Craven County Regional'
+p6380
+sS'BDL'
+p6381
+S'Bradley International'
+p6382
+sS'BDQ'
+p6383
+S'Morrilton Municipal'
+p6384
+sS'BDR'
+p6385
+S'Igor I Sikorsky Memorial'
+p6386
+sS'EWR'
+p6387
+S'Newark Intl'
+p6388
+sS'BDX'
+p6389
+S'Broadus'
+p6390
+sS'EWU'
+p6391
+S'Newtok'
+p6392
+sS'11D'
+p6393
+S'Clarion Cty'
+p6394
+sS'11A'
+p6395
+S'Clayton Municipal'
+p6396
+sS'LRD'
+p6397
+S'Laredo International'
+p6398
+sS'LRG'
+p6399
+S'Lincoln Regional'
+p6400
+sS'AIY'
+p6401
+S'Atlantic City Municipal'
+p6402
+sS'LRJ'
+p6403
+S'Le Mars Municipal'
+p6404
+sS'TVL'
+p6405
+S'Lake Tahoe'
+p6406
+sS'11J'
+p6407
+S'Early County'
+p6408
+sS'LRU'
+p6409
+S'Las Cruces International'
+p6410
+sS'11R'
+p6411
+S'Brenham Municipal'
+p6412
+sS'98D'
+p6413
+S'Onida Municipal'
+p6414
+sS'9I0'
+p6415
+S'Havana Regional'
+p6416
+sS'E35'
+p6417
+S'Fabens'
+p6418
+sS'S10'
+p6419
+S'Chelan Muni'
+p6420
+sS'OCH'
+p6421
+S'Nacogdoches-A.L. Mangham Jr. Regional'
+p6422
+sS'8B0'
+p6423
+S'Rangeley Municipal'
+p6424
+sS'IDP'
+p6425
+g389
+sS'E38'
+p6426
+S'Alpine-Casparis Municipal'
+p6427
+sS'IDL'
+p6428
+S'Indianola Municipal'
+p6429
+sS'72S'
+p6430
+S'Rosalia Municipal'
+p6431
+sS'IDI'
+p6432
+S'Indiana Cty/Jimmy Stewart'
+p6433
+sS'F89'
+p6434
+g4168
+sS'F88'
+p6435
+S'Jonesboro'
+p6436
+sS'CGI'
+p6437
+S'Cape Girardeau Municipal'
+p6438
+sS'O60'
+p6439
+S'Cloverdale Municipal'
+p6440
+sS'O61'
+p6441
+S'Cameron Airpark'
+p6442
+sS'PMP'
+p6443
+S'Pompano Beach Airpark'
+p6444
+sS'PNA'
+p6445
+S'Ralph Wenz '
+p6446
+sS'O65'
+p6447
+S'Okeene Municipal'
+p6448
+sS'CGA'
+p6449
+S'Craig SPB'
+p6450
+sS'ZZV'
+p6451
+S'Zanesville Municipal'
+p6452
+sS'CGC'
+p6453
+S'Crystal River'
+p6454
+sS'56S'
+p6455
+S'Seaside Municipal'
+p6456
+sS'CGE'
+p6457
+S'Cambridge-Dorchester'
+p6458
+sS'PMZ'
+p6459
+g1235
+sS'CGF'
+p6460
+S'Cuyahoga County'
+p6461
+sS'PMD'
+p6462
+S'Palmdale Production Flight'
+p6463
+sS'CGX'
+p6464
+S'Chicago Meigs'
+p6465
+sS'CGZ'
+p6466
+S'Casa Grande Municipal'
+p6467
+sS'56M'
+p6468
+g5595
+sS'PMB'
+p6469
+S'Pembina Municipal'
+p6470
+sS'TVI'
+p6471
+S'Thomasville Municipal'
+p6472
+sS'CGS'
+p6473
+S'College Park'
+p6474
+sS'56D'
+p6475
+S'Wyandot County'
+p6476
+sS'CUT'
+p6477
+S'Custer County'
+p6478
+sS'AIZ'
+p6479
+S'Lee C Fine Memorial'
+p6480
+sS'F81'
+p6481
+S'Okemah Flying '
+p6482
+sS'D22'
+p6483
+S'Angola '
+p6484
+sS'D25'
+p6485
+S'Manitowish Waters'
+p6486
+sS'F80'
+p6487
+S'Atoka Municipal'
+p6488
+sS'VLD'
+p6489
+S'Valdosta Regional'
+p6490
+sS'FET'
+p6491
+g3409
+sS'CUB'
+p6492
+S'Columbia Owens Downtown'
+p6493
+sS'FEP'
+p6494
+S'Albertus'
+p6495
+sS'OOA'
+p6496
+S'Oskaloosa Municipal'
+p6497
+sS'CUL'
+p6498
+S'Carmi Municipal'
+p6499
+sS'CUH'
+p6500
+S'Cushing Municipal'
+p6501
+sS'PNC'
+p6502
+S'Ponca City Municipal'
+p6503
+sS'N72'
+p6504
+S'Warwick Muni'
+p6505
+sS'N73'
+p6506
+S'Red Lion'
+p6507
+sS'N79'
+p6508
+S'Northumberland Cty'
+p6509
+sS'2O8'
+p6510
+S'Hinton Municipal'
+p6511
+sS'TVC'
+p6512
+S'Cherry Capital'
+p6513
+sS'2O1'
+p6514
+S'Gansner '
+p6515
+sS'2O3'
+p6516
+S'Angwin-Parrett '
+p6517
+sS'2O6'
+p6518
+S'Chowchilla'
+p6519
+sS'2O7'
+p6520
+S'Independence'
+p6521
+sS'CIC'
+p6522
+S'Chico Municipal'
+p6523
+sS'47A'
+p6524
+S'Cherokee County'
+p6525
+sS'MSY'
+p6526
+S'New Orleans International '
+p6527
+sS'CID'
+p6528
+S'Eastern Iowa '
+p6529
+sS'CIK'
+p6530
+S'Chalkyitsik'
+p6531
+sS'MSV'
+p6532
+S'Sullivan Cty Intl'
+p6533
+sS'CII'
+p6534
+S'Choteau'
+p6535
+sS'47N'
+p6536
+S'Central Jersey Regional'
+p6537
+sS'CIN'
+p6538
+S'Arthur N Neu'
+p6539
+sS'MSP'
+p6540
+S'Minneapolis-St Paul Intl'
+p6541
+sS'MSO'
+p6542
+S'Missoula International'
+p6543
+sS'CIR'
+p6544
+S'Cairo'
+p6545
+sS'MSL'
+p6546
+S'Northwest Alabama Regional '
+p6547
+sS'47V'
+p6548
+S'Curtis Municipal'
+p6549
+sS'CIU'
+p6550
+S'Chippewa County International'
+p6551
+sS'3AU'
+p6552
+S'Augusta Municipal'
+p6553
+sS'AQT'
+p6554
+S'Nuiqsut'
+p6555
+sS'AQW'
+p6556
+S'Harriman And West'
+p6557
+sS'DAG'
+p6558
+S'Barstow-Daggett'
+p6559
+sS'DAB'
+p6560
+S'Daytona Beach International'
+p6561
+sS'M89'
+p6562
+S'Dexter B. Florence Memorial '
+p6563
+sS'DAL'
+p6564
+S'Dallas Love '
+p6565
+sS'DAN'
+p6566
+S'Danville Regional'
+p6567
+sS'AQY'
+p6568
+S'Girdwood'
+p6569
+sS'M83'
+p6570
+S'McCharen '
+p6571
+sS'GKT'
+p6572
+S'Gatlinburg-Pigeon Forge'
+p6573
+sS'DAW'
+p6574
+g2481
+sS'AQC'
+p6575
+S'Klawock SPB'
+p6576
+sS'DAY'
+p6577
+S'James M Cox Dayton Intl'
+p6578
+sS'M60'
+p6579
+S'Woodruff County'
+p6580
+sS'M65'
+p6581
+S'Wynne Municipal'
+p6582
+sS'DWU'
+p6583
+S'Ashland-Boyd County'
+p6584
+sS'ULS'
+p6585
+S'Ulysses'
+p6586
+sS'ULM'
+p6587
+S'New Ulm Municipal'
+p6588
+sS'DWH'
+p6589
+S'David Wayne Hooks Memorial'
+p6590
+sS'ND33'
+p6591
+S'Linton Municipal'
+p6592
+sS'2R5'
+p6593
+S'St Elmo'
+p6594
+sS'0M4'
+p6595
+S'Benton County'
+p6596
+sS'0M5'
+p6597
+S'Humphreys County'
+p6598
+sS'0M6'
+p6599
+S'Panola County'
+p6600
+sS'0M0'
+p6601
+S'Dumas Municipal'
+p6602
+sS'0M1'
+p6603
+g1855
+sS'IJX'
+p6604
+S'Jacksonville Municipal'
+p6605
+sS'0M8'
+p6606
+S'Byerley'
+p6607
+sS'OOH'
+p6608
+S'Hoonah SPB'
+p6609
+sS'OOK'
+p6610
+S'Toksook Bay'
+p6611
+sS'IJD'
+p6612
+S'Windham'
+p6613
+sS'3A3'
+p6614
+S'Anson County'
+p6615
+sS'3A2'
+p6616
+S'New Tazewell Municipal'
+p6617
+sS'3A1'
+p6618
+S'Folsom '
+p6619
+sS'3A0'
+p6620
+S'Grove Hill Municipal'
+p6621
+sS'6L4'
+p6622
+g5126
+s.
