@@ -1,7 +1,9 @@
 $(document).ready(function() {
+    $("#results").hide();
     $("#btnSubmit").bind('click', function() {
       $.getJSON('/_get_data', {
       }, function(data) {
+        $("#results").show();
         $("#airline_result").text(data.airline);
         $("#date_result").text(data.date);
         $("#time_result").text(data.time);
