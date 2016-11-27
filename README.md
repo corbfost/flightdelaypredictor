@@ -1,4 +1,5 @@
-# flightdelaypredictor
-
-Building a system that uses BTS transtats flight data for SeaTac International
-Airport from 1987 - 2016 to predict flight delays and their estimated magnitude.
+# Flight Delay Predictor
+### A new approach to predicting flight delays using machine learning.
+#### Data Source:
+Bureau of Transportation Statistics On-Time Performance Data
+#### Model:

@@ -1,9 +1,11 @@
 $(document).ready(function() {
     $("#results").hide();
+    $("#picker").hide();
     $("#btnSubmit").bind('click', function() {
       $.getJSON('/_get_data', {
       }, function(data) {
         $("#results").show();
+        $("#picker").hide();
         $("#airline_result").text(data.airline);
         $("#date_result").text(data.date);
         $("#time_result").text(data.time);
@@ -14,6 +16,12 @@ $(document).ready(function() {
         style_result(data.actual, data.pred, "#performance")
       });
       return false;
+    });
+    $("#btnPicker").bind('click', function() {
+      $("#results").hide();
+      $("#picker").show();
+    });
+    $('.datething').datepicker({
     });
 });
 
