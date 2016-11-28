@@ -122,15 +122,17 @@
     <div class="container" id="picker">
         <div class="row">
           <div class="col-md-6 offset-md-3">
+            <form action="/result">
               <div class="form-group">
-                <label for="disabledSelect">Destination</label>
-                <select id="disabledSelect" class="form-control">
+                <label for="dest">Destination</label>
+                <select id="dest" name="dest" class="form-control">
                   <option>SFO</option>
+                  <option>ANC</option>
                 </select>
               </div>
               <div class="form-group">
-                <label for="disabledSelect">Airline</label>
-                <select id="disabledSelect" class="form-control">
+                <label for="airline">Airline</label>
+                <select id="airline" class="form-control">
                   <option>Alaska</option>
                   <option>Delta</option>
                 </select>
@@ -140,9 +142,11 @@
                   <div class="datething">
                   </div>
               </div>
-              <button id="checkflight" class="btn btn-primary">Submit</button>
+            </form>
+            <button type="submit" id="checkflight" class="btn btn-primary">Get Results</button>
           </div>
         </div>
+        <p id="model_predict">Delay is: </p>
         <!-- /.row -->
     </div>
     <!-- /.container -->

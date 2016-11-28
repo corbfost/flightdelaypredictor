@@ -65,7 +65,7 @@ def pred_parse(p):
 
 @app.route("/")
 def index():
-    return render_template('index.html', title='Test !')
+    return render_template('index.html', title='Flight Delays')
 
 @app.route("/_get_data")
 def data_sample():
@@ -88,6 +88,11 @@ def data_sample():
                    dest=airport_names[dest],
                    pred=prediction,
                    percentage=perc)
+
+@app.route("/result")
+def result():
+    dest = request.args.get('dest', 0, type=str)
+    return jsonify(result=dest)
 
 if __name__ == "__main__":
     model, airport_names = initialize_model()

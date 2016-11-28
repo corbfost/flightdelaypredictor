@@ -1,4 +1,5 @@
 data/
 eda/sea_data_with_datetime.csv
 *.pyc
+*.pkl
 .DS_Store

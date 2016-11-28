@@ -17,6 +17,14 @@ $(document).ready(function() {
       });
       return false;
     });
+    $("#checkflight").bind('click', function() {
+      $.getJSON('/result', {
+        dest: $('select[name="dest"]').val(),
+      }, function(d) {
+        $("#model_predict").text(d.result);
+      });
+      return false;
+    });
     $("#btnPicker").bind('click', function() {
       $("#results").hide();
       $("#picker").show();
