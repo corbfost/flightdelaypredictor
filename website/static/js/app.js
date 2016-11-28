@@ -29,8 +29,6 @@ $(document).ready(function() {
       $("#results").hide();
       $("#picker").show();
     });
-    $('.datething').datepicker({
-    });
 });
 
 function style_result(actual, pred, element) {

@@ -14,14 +14,20 @@
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 
-    <!-- Bootstrap Core CSS -->
-    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Core JavaScript -->
+    <script src="static/js/bootstrap.min.js"></script>
 
-    <!-- Datepicker CSS -->
-    <link id="bsdp-css" href="static/js/bootstrap-datepicker-1.6.4-dist/css/bootstrap-datepicker3.min.css" rel="stylesheet">
+    <!-- Moment.js -->
+    <script type="text/javascript" src="static/js/bower_components/moment/min/moment.min.js"></script>
 
     <!-- Datepicker JS -->
-    <script src="static/js/bootstrap-datepicker-1.6.4-dist/js/bootstrap-datepicker.min.js"></script>
+    <script type="text/javascript" src="static/js/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Datepicker CSS -->
+    <link rel="stylesheet" href="static/js/bower_components/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css" />
 
     <!-- Custom CSS -->
     <style>
@@ -63,7 +69,7 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="#">About</a>
                     </li>
                 </ul>
             </div>
@@ -72,23 +78,24 @@
         <!-- /.container -->
     </nav>
 
-    <!-- Page Content -->
+    <!-- Page Intro -->
     <div class="container">
-
         <div class="row">
             <div class="col-lg-12 text-center">
-                <img src="static/images/plane.png" width="80" height="80">
+                <!-- <img src="static/images/plane.png" width="80" height="80"> -->
                 <h1>SeaTac Flight Delay Predictor</h1>
-                <p class="lead">Use the button below to try the model on a random datapoint</p>
+                <p class="lead"></p>
             </div>
             <div class="col-lg-12 text-center">
-              <button type="submit" id="btnSubmit" class="btn btn-primary"> Test Random Datapoint</button>
-              <button type="submit" id="btnPicker" class="btn btn-primary"> Choose Flight Details</button>
+              <button type="submit" id="btnSubmit" class="btn btn-secondary"> Test Random Datapoint</button>
+              <button type="submit" id="btnPicker" class="btn btn-secondary"> Choose Flight Details</button>
             </div>
         </div>
         <!-- /.row -->
     </div>
     <!-- /.container -->
+
+    <!-- Random Datapoint Results -->
     <div class="container" id="results">
         <div class="row">
           <div class="col-md-12">
@@ -118,44 +125,76 @@
     </div>
     <!-- /.container -->
 
-    <!-- /.container -->
-    <div class="container" id="picker">
+    <!-- Custom Datapoint Results -->
+    <div class="container" id="picker" style="margin-top: 20px">
         <div class="row">
-          <div class="col-md-6 offset-md-3">
-            <form action="/result">
-              <div class="form-group">
+          <div class="col-md-6 col-md-offset-3">
+              <div class="col-md-6">
+                <label for="origin">Origin</label>
+                <select name="origin" class="form-control">
+                  <option>SEA</option>
+                </select>
+              </div>
+              <div class="col-md-6">
                 <label for="dest">Destination</label>
-                <select id="dest" name="dest" class="form-control">
+                <select name="dest" class="form-control">
                   <option>SFO</option>
                   <option>ANC</option>
                 </select>
               </div>
-              <div class="form-group">
-                <label for="airline">Airline</label>
-                <select id="airline" class="form-control">
-                  <option>Alaska</option>
-                  <option>Delta</option>
-                </select>
+          </div>
+        </div>
+        <div class="row" style="margin-top: 10px">
+          <div class="col-md-6 col-md-offset-3">
+            <div class="col-md-12">
+              <label for="airline">Airline</label>
+              <select name="airline" class="form-control">
+                <option>Alaska</option>
+                <option>Delta</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="row" style="margin-top: 10px">
+          <div class="col-md-offset-3 col-md-6">
+            <div class="col-md-12">
+              <label for="date">Date/Time</label>
+              <div class='input-group date' id="datetimepicker">
+
+                <input type='text' class="form-control" />
+                <span class="input-group-addon">
+                    <span class="glyphicon glyphicon-calendar"></span>
+                </span>
               </div>
-              <div class="form-group">
-                <label for="disabledSelect">Date</label>
-                  <div class="datething">
-                  </div>
-              </div>
-            </form>
+            </div>
+            <script type="text/javascript">
+                $(function () {
+                    $('#datetimepicker').datetimepicker({
+                        sideBySide: true
+                    });
+                });
+            </script>
+          </div>
+        </div>
+
+      <div class="container">
+        <div class="row">
+          <div class="span6 text-center" style="margin-top: 20px">
             <button type="submit" id="checkflight" class="btn btn-primary">Get Results</button>
           </div>
         </div>
-        <p id="model_predict">Delay is: </p>
-        <!-- /.row -->
+      </div>
+      <div class="container" id="flight_results">
+        <div class="row">
+          <div class="span6 text-center" style="margin-top: 5px">
+            <p class="lead">The expected delay for this flight is: </p>
+          </div>
+        </div>
+      </div>
     </div>
-    <!-- /.container -->
-
     <!-- jQuery Version 1.11.1 -->
     <!-- <script src="static/js/jquery.js"></script> -->
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="static/js/bootstrap.min.js"></script>
 
     <!-- Custom javascript -->
     <script src="static/js/app.js"></script>
