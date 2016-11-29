@@ -1,0 +1,77 @@
+<option>Albuquerque International</option>
+<option>Ted Stevens Anchorage International</option>
+<option>William B Hartsfield-Atlanta Intl</option>
+<option>Austin-Bergstrom International</option>
+<option>Bradley International</option>
+<option>Billings Logan Intl</option>
+<option>Bellingham Intl</option>
+<option>Nashville International</option>
+<option>Boise Air Terminal</option>
+<option>Gen Edw L Logan Intl</option>
+<option>Burbank-Glendale-Pasadena</option>
+<option>Baltimore-Washington International</option>
+<option>Gallatin </option>
+<option>Charleston AFB/International</option>
+<option>Cleveland-Hopkins Intl</option>
+<option>Charlotte/Douglas International</option>
+<option>City of Colorado Springs Muni</option>
+<option>Cincinnati Northern Kentucky Intl</option>
+<option>Dallas Love </option>
+<option>Ronald Reagan Washington National</option>
+<option>Denver Intl</option>
+<option>Dallas-Fort Worth International</option>
+<option>Detroit Metropolitan-Wayne County</option>
+<option>Newark Intl</option>
+<option>Fairbanks International</option>
+<option>Fresno Yosemite International</option>
+<option>Fort Lauderdale-Hollywood Int'l</option>
+<option>Spokane Intl</option>
+<option>Yampa Valley</option>
+<option>Honolulu International</option>
+<option>William P Hobby</option>
+<option>Washington Dulles International</option>
+<option>George Bush Intercontinental</option>
+<option>Jackson Hole</option>
+<option>John F Kennedy Intl</option>
+<option>Juneau International</option>
+<option>Kona International At Keahole</option>
+<option>Ketchikan International</option>
+<option>McCarran International</option>
+<option>Los Angeles International</option>
+<option>Long Beach (Daugherty )</option>
+<option>Lihue</option>
+<option>Lewiston-Nez Perce County</option>
+<option>Kansas City International</option>
+<option>Orlando International</option>
+<option>Chicago Midway</option>
+<option>Memphis International</option>
+<option>Miami International</option>
+<option>General Mitchell International</option>
+<option>Missoula International</option>
+<option>Minneapolis-St Paul Intl</option>
+<option>New Orleans International </option>
+<option>Metropolitan Oakland International</option>
+<option>Kahului</option>
+<option>Will Rogers World</option>
+<option>Eppley Airfield</option>
+<option>Ontario International</option>
+<option>Chicago O'Hare International</option>
+<option>Portland Intl</option>
+<option>Philadelphia Intl</option>
+<option>Phoenix Sky Harbor International</option>
+<option>Tri-Cities</option>
+<option>Palm Springs International</option>
+<option>Raleigh-Durham International</option>
+<option>Reno/Tahoe International</option>
+<option>San Diego International-Lindbergh </option>
+<option>San Antonio International</option>
+<option>Santa Barbara Municipal</option>
+<option>San Francisco International</option>
+<option>Sitka</option>
+<option>San Jose International</option>
+<option>Salt Lake City Intl</option>
+<option>Sacramento International</option>
+<option>John Wayne /Orange Co</option>
+<option>Lambert-St Louis International</option>
+<option>Tampa International </option>
+<option>Tucson International</option>
