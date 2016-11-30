@@ -81,7 +81,7 @@
                 <p><strong>How does this thing work?</strong></p>
                 <p> This app was created on top of a statistical model that utilizes two fundamental steps. First, a classifier (a <a href="https://en.wikipedia.org/wiki/Gradient_boosting">gradient-boosted</a> decision tree) predicts the likelihood that a delay will be above or below -3 (the negative here means 3 minutes early).
                 Why -3? This value happens to split the flight delay data into two parts that look like exponential distributions. Then, a <a href="https://en.wikipedia.org/wiki/Generalized_linear_model">Generalized Linear Model</a> (GLM) using an exponential error distribution and the gamma link function predicts
-              the magnitude of a delay, conditional on whether it is on the left or right side of -3. If you combine the two models, you get conditional probabilities of every possible delay for each flight. You can then estimate the cumulative probability of different options (in this case, the cumulative probability that the delay is greater than 15 minutes).</p>
+                the magnitude of a delay, conditional on whether it is on the left or right side of -3. If you combine the two models, you get conditional probabilities of every possible delay for each flight. You can then estimate the cumulative probability of different options (in this case, the cumulative probability that the delay is greater than 15 minutes).</p>
                 <p> For even more nitty gritty details, I've made the <a href="https://github.com/fosterc94/flightdelaypredictor">whole project available on Github.</a> </p>
 
                 <p><strong>Why is 'SEA' the only origin airport?</strong></p>
@@ -101,9 +101,11 @@
                 <p><strong>Ok that's great but I don't know anything about statistics. How do I interpret this model?</strong></p>
                 <p> Let's make it more simple. The outputs are color-coded according to the relative severity of a delay. <strong style="color: red">Red</strong> means that the likelihood of a delay is unusually high and you should be wary when planning connecting flights. <strong style="color: #f48c42">Orange</strong> indicates a delay that is reasonably close to the average.
                   If the output is <strong style="color: green">green</strong>, the model thinks it is considerably less likely that a flight is delayed. You just might be able to make it through that 30 minute layover. </p>
-                <p><strong>Where is Logan airport? I know I've flown there directly from Seattle...</strong></p>
-                <p>Worry not, Bostonites. You may be surprised to learn that Boston's airport is officially called "General Edward L. Logan International Airport." It shows up in the list on this site as "Gen Edw L Logan Intl." Go figure.</p>
-                <h3>Questions? Comments? Shoot me an email </h3>
+                <p><strong>Where is ____ airport in this list? I know I've flown there directly from Seattle...</strong></p>
+                <p> Worry not, Bostonites. You may be surprised to learn that Boston's airport shows up in the list on this site as "Gen Edw L Logan Intl," rather than "Logan," as most people call it. In fact, it is fairly common for the colloquial name of an airport to differ from its official name. Furthermore, this site only calculates delays for direct flights. If you're flying to Tampa with a layover in Dallas, you can only use this site to predict the delay for the first leg, from Seattle to Dallas. You won't see Tampa International in the list. </p>
+                <p><strong>Where is Sun Country Airlines? Where is Air Canada? </strong></p>
+                <p> The US government requires only the top 12 airlines (in terms of passenger revenue share) to report on-time performance. In addition, they are only required to report data for flights between locations within the United States. That's why you won't see smaller budget carriers such as Sun Country or international carriers such as Air Canada listed on this site.</p>
+                <br>
                 <br>
                 <p><span class="glyphicon glyphicon-copyright-mark"></span> Copyright 2016 Corbin Foster</p>
             </div>
