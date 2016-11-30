@@ -28,3 +28,32 @@ In a future version of the site, I hope to allow users to see the probability di
 **Toolkit:**
 <br>
 I used python (scikit-learn, pandas, numpy, statsmodels) extensively to wrangle the data into shape and train the models. I deployed the web app using Flask, AWS, and of course some HTML/CSS/Bootstrap/Javscript.
+
+## FAQ (From the site)
+<p><strong>Who are you and why did you do this?</strong></p>
+<p> Good question! I'm Corbin Foster, a data scientist currently based in Seattle. I recently completed a 12-week data science program at Galvanize and created this website for my capstone project. I chose to focus on flight delays because they're incredibly frustrating, and based on what I've found they are at least moderately avoidable. Learn more about me at my <a href="http://corbinfoster.info">personal site</a>, or connect with me on <a href="http://linkedin.com/in/corbinfoster">LinkedIn.</a></p>
+<p><strong>How does this thing work?</strong></p>
+<p> This app was created on top of a statistical model that utilizes two fundamental steps. First, a classifier (a <a href="https://en.wikipedia.org/wiki/Gradient_boosting">gradient-boosted</a> decision tree) predicts the likelihood that a delay will be above or below -3 (the negative here means 3 minutes early).
+Why -3? This value happens to split the flight delay data into two parts that look like exponential distributions. Then, a <a href="https://en.wikipedia.org/wiki/Generalized_linear_model">Generalized Linear Model</a> (GLM) using an exponential error distribution and the gamma link function predicts
+the magnitude of a delay, conditional on whether it is on the left or right side of -3. If you combine the two models, you get conditional probabilities of every possible delay for each flight. You can then estimate the cumulative probability of different options (in this case, the cumulative probability that the delay is greater than 15 minutes).</p>
+<p> For even more nitty gritty details, I've made the <a href="https://github.com/fosterc94/flightdelaypredictor">whole project available on Github.</a> </p>
+
+<p><strong>Why is 'SEA' the only origin airport?</strong></p>
+<p> The US Bureau of Transportation Statistics provides an <a href="http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time">enormous amount of data</a> on flights. This model is a proof-of-concept of a regression-based departure delay
+    magnitude predictor. That's just a fancy way of saying that in addition to telling you the likelihood of a delay, it tells you an estimate of how large or small the delay will be. In order to make the data workable, it was restricted to departures from SeaTac International Airport between
+    December 2008 and August 2016. It was also limited to one airport to eliminate the possibility of airport-specific effects creating
+    unnecessary error. That still left almost 1 million flights to play with. There is no theoretical obstacle that prevents me (or someone) from eventually training the model to predict delays
+    at every airport, for both departures and arrivals. The limiting factor is time and money, but anyone with enough of both could apply my
+   theoretical framework to predicting all delays. </p>
+<p><strong>Why does the likelihood of a delay never seem to go above 50%?</strong></p>
+<p> At a basic level, flights are not delayed that often. In fact, on average only about 15% are delayed more than 15 minutes. If you were to just
+  guess that every flight isn't delayed, you would be right 85% of the time.
+  This means that the delay probabilities outputted by this model should be interpreted relative to the baseline of 15%. In technical terms, they are conditional probabilities
+  of a delay given the additional information available to the statistical model. Or, more simply, the model looks at information, then says, "Given what I know
+  about how delays have happened before, I think it is X% more or less likely that this particular flight is delayed." A model that predicts delays too confidently
+  is going to be really wrong, really frequently. Even if conditions are conducive to a delay, airlines work incredibly hard to get flights to leave on time.
+<p><strong>Ok that's great but I don't know anything about statistics. How do I interpret this model?</strong></p>
+<p> Let's make it more simple. The outputs are color-coded according to the relative severity of a delay. <strong style="color: red">Red</strong> means that the likelihood of a delay is unusually high and you should be wary when planning connecting flights. <strong style="color: #f48c42">Orange</strong> indicates a delay that is reasonably close to the average.
+  If the output is <strong style="color: green">green</strong>, the model thinks it is considerably less likely that a flight is delayed. You just might be able to make it through that 30 minute layover. </p>
+<p><strong>Where is ____ airport in this list? I know I've flown there directly from Seattle...</strong></p>
+<p> Worry not, Bostonites. You may be surprised to learn that Boston's airport shows up in the list on this site as "Gen Edw L Logan Intl," rather than "Logan," as most people call it. In fact, it is fairly common for the colloquial name of an airport to differ from its official name. Furthermore, this site only calculates delays for direct flights. If you're flying to Tampa with a layover in Dallas, you can only use this site to predict the delay for the first leg, from Seattle to Dallas. You won't see Tampa International in the list. </p>
