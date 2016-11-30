@@ -8,7 +8,7 @@ os.chdir(dirname)
 extension = ".csv"
 
 # Get dataframe from earlier years to match the columns
-df_good = pd.read_csv('/Users/cf/Documents/Galvanize/flight_delays/data/sea_limited_data/2008.csv')
+df_good = pd.read_csv('/Users/cf/Documents/Galvanize/flight_delays/data/sea_limited_data/2007.csv')
 cols = set(df_good.columns.values)
 
 

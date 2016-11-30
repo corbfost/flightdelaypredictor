@@ -3,7 +3,7 @@ import zipfile
 import fnmatch
 import os
 
-dir_name = '/Users/cf/Documents/Galvanize/flight_delays/data/2009_on'
+dir_name = '/Users/cf/Documents/Galvanize/flight_delays/data/final_validation'
 extension = ".zip"
 
 os.chdir(dir_name)
