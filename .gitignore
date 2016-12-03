@@ -3,4 +3,5 @@ eda/sea_data_with_datetime.csv
 *.pyc
 *.pickle
 *.pkl
+.ipynb_checkpoints/
 .DS_Store
