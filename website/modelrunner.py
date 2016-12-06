@@ -62,11 +62,8 @@ def classifier_predict(raw_point, clf):
 
 def pos_neg_predict(X_t, prob_right, mod_pos, mod_neg):
 
-    gamm_log_results = mod_pos
-    gamm_log_results_neg = mod_neg
-
-    yhat_positive = gamm_log_results.predict(X_t)
-    yhat_negative = gamm_log_results_neg.predict(X_t)
+    yhat_positive = mod_pos.predict(X_t)
+    yhat_negative = mod_neg.predict(X_t)
 
     binom_sample = np.random.binomial(1, prob_right, 100000)
     left_sample = np.random.exponential(yhat_negative, 100000)
